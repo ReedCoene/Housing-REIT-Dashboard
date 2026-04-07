@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T21:06:04.449855+00:00",
+  "last_updated": "2026-04-07T21:24:52.872623+00:00",
   "market_date": "April 07, 2026",
   "stocks": {
     "EQR": {
@@ -794,6 +794,28 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
+      "title": "California steps up reform to join the single-stair bandwagon",
+      "link": "https://www.housingwire.com/articles/california-single-stair-ab2252/",
+      "published": "Tue, 07 Apr 2026 21:18:00 +0000",
+      "summary": "California lawmakers have been at the forefront of zoning reforms to increase housing supply and affordability. New legislation filed Tuesday would put the state on the path to joining single-stair reform that other states and cities have already adopted. Assemblymember Alex Lee&#8217;s newly filed \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Residential contractors remain AI-skeptical early on, report finds",
+      "link": "https://www.housingwire.com/articles/ai-adoption-residential-contracting/",
+      "published": "Tue, 07 Apr 2026 21:07:39 +0000",
+      "summary": "ServiceTitan\u2019s 2026 Residential State of the Trades report shows 25% of contractors use AI meaningfully while nearly 50% lack trust. Labor, overhead, and materials are top 2026 risks, and 73% of customers prioritize clear upfront pricing.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
       "title": "The rumors aren\u2019t true. Housing market crash unlikely despite war, high rates",
       "link": "https://www.housingwire.com/articles/the-rumors-arent-true-housing-market-crash-unlikely-despite-war-high-rates/",
       "published": "Tue, 07 Apr 2026 19:45:27 +0000",
@@ -821,28 +843,6 @@
       "published": "Tue, 07 Apr 2026 16:42:33 +0000",
       "summary": "AI improves speed and efficiency, but accurate title search still relies on legacy data, infrastructure and validation, the company found.",
       "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Real Brokerage adds 65-agent Equity Realty Group in Phoenix",
-      "link": "https://www.housingwire.com/articles/real-brokerage-adds-65-agent-equity-realty-group-phoenix/",
-      "published": "Tue, 07 Apr 2026 16:07:22 +0000",
-      "summary": "Real Brokerage adds Randy Anaya\u2019s 65-agent Equity Realty Group in Phoenix\u2019s Southwest Valley, boosting its $191M team presence in the Arizona market.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "A new study says private listings beat the MLS. Here\u2019s what it left out",
-      "link": "https://www.housingwire.com/articles/private-listings-premium-fades/",
-      "published": "Tue, 07 Apr 2026 16:00:02 +0000",
-      "summary": "UGA study found a 1.7% private sale premium in DFW, but post 2020 estimates fall to about 0.9% and are not significant.",
-      "is_signal": true
     },
     {
       "ticker": null,
@@ -968,12 +968,12 @@
     {
       "ticker": null,
       "company": null,
-      "source": "The Times of India",
+      "source": "Extra",
       "category": "broad",
-      "title": "Quote of the day by P.J. O\u2019Rourke: 'Everybody knows how to raise children, except the people who have them.' Life lessons on politics, war and success by American political satirist",
-      "link": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-p-j-orourke-everybody-knows-how-to-raise-children-except-the-people-who-have-them-life-lessons-on-politics-war-and-success-by-american-political-satirist/articleshow/130070611.cms",
-      "published": "2026-04-06T20:41:21Z",
-      "summary": "Quote of the day by P.J. O\u2019Rourke highlights the reality of parenting and public opinion. The quote of the day today explains how advice often comes from people without direct experience. This article explores the quote of the day meaning, the quote of the da\u2026",
+      "title": "How a World Solitaire Championship Turned Quiet Play Into a Global Spectacle",
+      "link": "https://extratv.com/2026/04/06/how-a-world-solitaire-championship-turned-quiet-play-into-a-global-spectacle/",
+      "published": "2026-04-06T21:15:58Z",
+      "summary": "For decades, solitaire has been the ultimate solo pastime, played in bedrooms, on laptops, or during moments of downtime.\u00a0\n This year, the game took on a different energy at the World Solitaire Championship in Miami, with roaring crowds, high-stakes competiti\u2026",
       "is_signal": false
     }
   ],
