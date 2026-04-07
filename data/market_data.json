@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T21:24:52.872623+00:00",
+  "last_updated": "2026-04-07T21:51:40.453979+00:00",
   "market_date": "April 07, 2026",
   "stocks": {
     "EQR": {
@@ -11,7 +11,8 @@
       "market_cap": 23610662912,
       "dividend_yield": 4.68,
       "fifty_two_week_high": 72.4,
-      "fifty_two_week_low": 57.57
+      "fifty_two_week_low": 57.57,
+      "next_earnings": "2026-04-28"
     },
     "AVB": {
       "name": "AvalonBay Communities",
@@ -22,7 +23,8 @@
       "market_cap": 23749720064,
       "dividend_yield": 4.28,
       "fifty_two_week_high": 213.34,
-      "fifty_two_week_low": 160.1
+      "fifty_two_week_low": 160.1,
+      "next_earnings": "2026-04-27"
     },
     "ESS": {
       "name": "Essex Property Trust",
@@ -33,7 +35,8 @@
       "market_cap": 17167853568,
       "dividend_yield": 4.16,
       "fifty_two_week_high": 294.09,
-      "fifty_two_week_low": 238.46
+      "fifty_two_week_low": 238.46,
+      "next_earnings": "2026-04-28"
     },
     "MAA": {
       "name": "Mid-America Apartment",
@@ -44,7 +47,8 @@
       "market_cap": 14896466944,
       "dividend_yield": 4.9,
       "fifty_two_week_high": 169.0,
-      "fifty_two_week_low": 120.3
+      "fifty_two_week_low": 120.3,
+      "next_earnings": "2026-04-29"
     },
     "UDR": {
       "name": "UDR Inc",
@@ -55,7 +59,8 @@
       "market_cap": 13067934720,
       "dividend_yield": 5.0,
       "fifty_two_week_high": 43.92,
-      "fifty_two_week_low": 32.94
+      "fifty_two_week_low": 32.94,
+      "next_earnings": "2026-04-29"
     },
     "CPT": {
       "name": "Camden Property Trust",
@@ -66,7 +71,8 @@
       "market_cap": 10559574016,
       "dividend_yield": 4.19,
       "fifty_two_week_high": 121.33,
-      "fifty_two_week_low": 96.53
+      "fifty_two_week_low": 96.53,
+      "next_earnings": "2026-04-30"
     },
     "IRT": {
       "name": "Independence Realty Trust",
@@ -77,7 +83,8 @@
       "market_cap": 3684812032,
       "dividend_yield": 4.51,
       "fifty_two_week_high": 19.94,
-      "fifty_two_week_low": 14.6
+      "fifty_two_week_low": 14.6,
+      "next_earnings": "2026-04-29"
     },
     "AMH": {
       "name": "American Homes 4 Rent",
@@ -88,7 +95,8 @@
       "market_cap": 12156259328,
       "dividend_yield": 4.23,
       "fifty_two_week_high": 39.49,
-      "fifty_two_week_low": 27.22
+      "fifty_two_week_low": 27.22,
+      "next_earnings": "2026-04-30"
     },
     "INVH": {
       "name": "Invitation Homes",
@@ -99,7 +107,8 @@
       "market_cap": 15612472320,
       "dividend_yield": 4.71,
       "fifty_two_week_high": 35.799,
-      "fifty_two_week_low": 24.25
+      "fifty_two_week_low": 24.25,
+      "next_earnings": "2026-04-29"
     },
     "SUI": {
       "name": "Sun Communities",
@@ -110,7 +119,8 @@
       "market_cap": 16230413312,
       "dividend_yield": 3.32,
       "fifty_two_week_high": 137.85,
-      "fifty_two_week_low": 109.22
+      "fifty_two_week_low": 109.22,
+      "next_earnings": "2026-05-04"
     },
     "ELS": {
       "name": "Equity LifeStyle Properties",
@@ -121,7 +131,8 @@
       "market_cap": 12719885312,
       "dividend_yield": 3.41,
       "fifty_two_week_high": 69.0,
-      "fifty_two_week_low": 58.15
+      "fifty_two_week_low": 58.15,
+      "next_earnings": "2026-04-20"
     },
     "MRP": {
       "name": "MRP Group",
@@ -132,7 +143,8 @@
       "market_cap": 4601616896,
       "dividend_yield": 10.9,
       "fifty_two_week_high": 36.0,
-      "fifty_two_week_low": 21.635
+      "fifty_two_week_low": 21.635,
+      "next_earnings": "2026-05-13"
     },
     "NXRT": {
       "name": "NexPoint Residential Trust",
@@ -143,7 +155,8 @@
       "market_cap": 1263471616,
       "dividend_yield": 8.73,
       "fifty_two_week_high": 38.93,
-      "fifty_two_week_low": 23.79
+      "fifty_two_week_low": 23.79,
+      "next_earnings": "2026-04-28"
     }
   },
   "top_gainers": [
@@ -156,7 +169,8 @@
       "market_cap": 1263471616,
       "dividend_yield": 8.73,
       "fifty_two_week_high": 38.93,
-      "fifty_two_week_low": 23.79
+      "fifty_two_week_low": 23.79,
+      "next_earnings": "2026-04-28"
     },
     {
       "name": "AvalonBay Communities",
@@ -167,7 +181,8 @@
       "market_cap": 23749720064,
       "dividend_yield": 4.28,
       "fifty_two_week_high": 213.34,
-      "fifty_two_week_low": 160.1
+      "fifty_two_week_low": 160.1,
+      "next_earnings": "2026-04-27"
     },
     {
       "name": "American Homes 4 Rent",
@@ -178,7 +193,8 @@
       "market_cap": 12156259328,
       "dividend_yield": 4.23,
       "fifty_two_week_high": 39.49,
-      "fifty_two_week_low": 27.22
+      "fifty_two_week_low": 27.22,
+      "next_earnings": "2026-04-30"
     }
   ],
   "top_losers": [
@@ -191,7 +207,8 @@
       "market_cap": 14896466944,
       "dividend_yield": 4.9,
       "fifty_two_week_high": 169.0,
-      "fifty_two_week_low": 120.3
+      "fifty_two_week_low": 120.3,
+      "next_earnings": "2026-04-29"
     },
     {
       "name": "MRP Group",
@@ -202,7 +219,8 @@
       "market_cap": 4601616896,
       "dividend_yield": 10.9,
       "fifty_two_week_high": 36.0,
-      "fifty_two_week_low": 21.635
+      "fifty_two_week_low": 21.635,
+      "next_earnings": "2026-05-13"
     },
     {
       "name": "Sun Communities",
@@ -213,7 +231,8 @@
       "market_cap": 16230413312,
       "dividend_yield": 3.32,
       "fifty_two_week_high": 137.85,
-      "fifty_two_week_low": 109.22
+      "fifty_two_week_low": 109.22,
+      "next_earnings": "2026-05-04"
     }
   ],
   "news": [
