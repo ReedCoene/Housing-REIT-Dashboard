@@ -1,1 +1,1012 @@
-{"last_updated":"","market_date":"","stocks":{},"top_gainers":[],"top_losers":[],"news":[],"weekly_report":null,"focus_details":{}}
+{
+  "last_updated": "2026-04-07T21:06:04.449855+00:00",
+  "market_date": "April 07, 2026",
+  "stocks": {
+    "EQR": {
+      "name": "Equity Residential",
+      "ticker": "EQR",
+      "price": 60.21,
+      "prev_close": 60.06,
+      "pct_change": 0.25,
+      "market_cap": 23610662912,
+      "dividend_yield": 4.68,
+      "fifty_two_week_high": 72.4,
+      "fifty_two_week_low": 57.57
+    },
+    "AVB": {
+      "name": "AvalonBay Communities",
+      "ticker": "AVB",
+      "price": 167.73,
+      "prev_close": 166.47,
+      "pct_change": 0.76,
+      "market_cap": 23749720064,
+      "dividend_yield": 4.28,
+      "fifty_two_week_high": 213.34,
+      "fifty_two_week_low": 160.1
+    },
+    "ESS": {
+      "name": "Essex Property Trust",
+      "ticker": "ESS",
+      "price": 248.3,
+      "prev_close": 247.71,
+      "pct_change": 0.24,
+      "market_cap": 17167853568,
+      "dividend_yield": 4.16,
+      "fifty_two_week_high": 294.09,
+      "fifty_two_week_low": 238.46
+    },
+    "MAA": {
+      "name": "Mid-America Apartment",
+      "ticker": "MAA",
+      "price": 124.3,
+      "prev_close": 124.82,
+      "pct_change": -0.42,
+      "market_cap": 14896466944,
+      "dividend_yield": 4.9,
+      "fifty_two_week_high": 169.0,
+      "fifty_two_week_low": 120.3
+    },
+    "UDR": {
+      "name": "UDR Inc",
+      "ticker": "UDR",
+      "price": 34.71,
+      "prev_close": 34.78,
+      "pct_change": -0.2,
+      "market_cap": 13067934720,
+      "dividend_yield": 5.0,
+      "fifty_two_week_high": 43.92,
+      "fifty_two_week_low": 32.94
+    },
+    "CPT": {
+      "name": "Camden Property Trust",
+      "ticker": "CPT",
+      "price": 100.83,
+      "prev_close": 101.09,
+      "pct_change": -0.26,
+      "market_cap": 10559574016,
+      "dividend_yield": 4.19,
+      "fifty_two_week_high": 121.33,
+      "fifty_two_week_low": 96.53
+    },
+    "IRT": {
+      "name": "Independence Realty Trust",
+      "ticker": "IRT",
+      "price": 15.15,
+      "prev_close": 15.07,
+      "pct_change": 0.53,
+      "market_cap": 3684812032,
+      "dividend_yield": 4.51,
+      "fifty_two_week_high": 19.94,
+      "fifty_two_week_low": 14.6
+    },
+    "AMH": {
+      "name": "American Homes 4 Rent",
+      "ticker": "AMH",
+      "price": 29.28,
+      "prev_close": 29.1,
+      "pct_change": 0.62,
+      "market_cap": 12156259328,
+      "dividend_yield": 4.23,
+      "fifty_two_week_high": 39.49,
+      "fifty_two_week_low": 27.22
+    },
+    "INVH": {
+      "name": "Invitation Homes",
+      "ticker": "INVH",
+      "price": 25.62,
+      "prev_close": 25.47,
+      "pct_change": 0.59,
+      "market_cap": 15612472320,
+      "dividend_yield": 4.71,
+      "fifty_two_week_high": 35.799,
+      "fifty_two_week_low": 24.25
+    },
+    "SUI": {
+      "name": "Sun Communities",
+      "ticker": "SUI",
+      "price": 126.94,
+      "prev_close": 127.84,
+      "pct_change": -0.7,
+      "market_cap": 16230413312,
+      "dividend_yield": 3.32,
+      "fifty_two_week_high": 137.85,
+      "fifty_two_week_low": 109.22
+    },
+    "ELS": {
+      "name": "Equity LifeStyle Properties",
+      "ticker": "ELS",
+      "price": 63.48,
+      "prev_close": 63.57,
+      "pct_change": -0.14,
+      "market_cap": 12719885312,
+      "dividend_yield": 3.41,
+      "fifty_two_week_high": 69.0,
+      "fifty_two_week_low": 58.15
+    },
+    "MRP": {
+      "name": "MRP Group",
+      "ticker": "MRP",
+      "price": 27.72,
+      "prev_close": 27.9,
+      "pct_change": -0.65,
+      "market_cap": 4601616896,
+      "dividend_yield": 10.9,
+      "fifty_two_week_high": 36.0,
+      "fifty_two_week_low": 21.635
+    },
+    "NXRT": {
+      "name": "NexPoint Residential Trust",
+      "ticker": "NXRT",
+      "price": 24.55,
+      "prev_close": 24.29,
+      "pct_change": 1.07,
+      "market_cap": 1263471616,
+      "dividend_yield": 8.73,
+      "fifty_two_week_high": 38.93,
+      "fifty_two_week_low": 23.79
+    }
+  },
+  "top_gainers": [
+    {
+      "name": "NexPoint Residential Trust",
+      "ticker": "NXRT",
+      "price": 24.55,
+      "prev_close": 24.29,
+      "pct_change": 1.07,
+      "market_cap": 1263471616,
+      "dividend_yield": 8.73,
+      "fifty_two_week_high": 38.93,
+      "fifty_two_week_low": 23.79
+    },
+    {
+      "name": "AvalonBay Communities",
+      "ticker": "AVB",
+      "price": 167.73,
+      "prev_close": 166.47,
+      "pct_change": 0.76,
+      "market_cap": 23749720064,
+      "dividend_yield": 4.28,
+      "fifty_two_week_high": 213.34,
+      "fifty_two_week_low": 160.1
+    },
+    {
+      "name": "American Homes 4 Rent",
+      "ticker": "AMH",
+      "price": 29.28,
+      "prev_close": 29.1,
+      "pct_change": 0.62,
+      "market_cap": 12156259328,
+      "dividend_yield": 4.23,
+      "fifty_two_week_high": 39.49,
+      "fifty_two_week_low": 27.22
+    }
+  ],
+  "top_losers": [
+    {
+      "name": "Mid-America Apartment",
+      "ticker": "MAA",
+      "price": 124.3,
+      "prev_close": 124.82,
+      "pct_change": -0.42,
+      "market_cap": 14896466944,
+      "dividend_yield": 4.9,
+      "fifty_two_week_high": 169.0,
+      "fifty_two_week_low": 120.3
+    },
+    {
+      "name": "MRP Group",
+      "ticker": "MRP",
+      "price": 27.72,
+      "prev_close": 27.9,
+      "pct_change": -0.65,
+      "market_cap": 4601616896,
+      "dividend_yield": 10.9,
+      "fifty_two_week_high": 36.0,
+      "fifty_two_week_low": 21.635
+    },
+    {
+      "name": "Sun Communities",
+      "ticker": "SUI",
+      "price": 126.94,
+      "prev_close": 127.84,
+      "pct_change": -0.7,
+      "market_cap": 16230413312,
+      "dividend_yield": 3.32,
+      "fifty_two_week_high": 137.85,
+      "fifty_two_week_low": 109.22
+    }
+  ],
+  "news": [
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Favourable Signals For EQ Resources: Numerous Insiders Acquired Stock",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/favourable-signals-eq-resources-numerous-233111641.html?.tsrc=rss",
+      "published": "Sat, 04 Apr 2026 23:31:11 +0000",
+      "summary": "Usually, when one insider buys stock, it might not be a monumental event. But when multiple insiders are buying like...",
+      "is_signal": false
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Morgan Stanley Highlights Equity Residential (EQR)\u2019s Emerging Strength",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-highlights-equity-residential-142751402.html?.tsrc=rss",
+      "published": "Tue, 31 Mar 2026 14:27:51 +0000",
+      "summary": "Equity Residential (NYSE:EQR) is among the 14 Most Profitable Real Estate Stocks Right Now. On March 26, Morgan Stanley upgraded Equity Residential (NYSE:EQR) from Equalweight to Overweight and lifted the price target to $74, up from $72. According to the firm, the company\u2019s markets have shown great\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Equity Residential Dividend Increase And 2026 Meeting Set Against Valuation Gap",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-dividend-increase-2026-042517766.html?.tsrc=rss",
+      "published": "Mon, 23 Mar 2026 04:25:17 +0000",
+      "summary": "Equity Residential (NYSE:EQR) declared its regular quarterly dividends on common and preferred shares, including an increase to the common dividend. The company also set the date for its 2026 Annual Meeting of Shareholders. These announcements update investors on shareholder returns and upcoming gov\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Equity Residential Declares First Quarter Dividends",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-declares-first-quarter-203000372.html?.tsrc=rss",
+      "published": "Thu, 19 Mar 2026 20:30:00 +0000",
+      "summary": "CHICAGO, March 19, 2026--Equity Residential (NYSE: EQR) today announced that its Board of Trustees declared quarterly dividends on the Company\u2019s common and preferred shares. A regular common share dividend for the first quarter of $0.7025 per share will be paid on April 10, 2026, to shareholders of \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
+      "title": "AvalonBay Communities, Inc. Announces First Quarter 2026 Earnings Release Date",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-communities-inc-announces-first-201500144.html?.tsrc=rss",
+      "published": "Mon, 06 Apr 2026 20:15:00 +0000",
+      "summary": "ARLINGTON, Va., April 06, 2026--AVALONBAY COMMUNITIES, INC. (NYSE: AVB) (the \"Company\") will release its first quarter 2026 earnings on April 27, 2026 after the market close. The Company will hold a conference call on April 28, 2026 at 1:00 PM Eastern Time (ET) to discuss its first quarter 2026 resu\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
+      "title": "AvalonBay Communities, Inc. (AVB) Faces a Reality Check After Q4",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-communities-inc-avb-faces-142754315.html?.tsrc=rss",
+      "published": "Tue, 31 Mar 2026 14:27:54 +0000",
+      "summary": "AvalonBay Communities, Inc. (NYSE:AVB) is among the 14 Most Profitable Real Estate Stocks Right Now. On March 26, Morgan Stanley downgraded AvalonBay Communities, Inc. (NYSE:AVB) to Equalweight from Overweight and cut the price target from $208 to $203. Adam Kramer, an analyst at the firm, lowered t\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
+      "title": "Morgan Stanley Highlights Equity Residential (EQR)\u2019s Emerging Strength",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-highlights-equity-residential-142751402.html?.tsrc=rss",
+      "published": "Tue, 31 Mar 2026 14:27:51 +0000",
+      "summary": "Equity Residential (NYSE:EQR) is among the 14 Most Profitable Real Estate Stocks Right Now. On March 26, Morgan Stanley upgraded Equity Residential (NYSE:EQR) from Equalweight to Overweight and lifted the price target to $74, up from $72. According to the firm, the company\u2019s markets have shown great\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
+      "title": "How The Investment Story For AvalonBay Communities (AVB) Is Shifting With Mixed Analyst Signals",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investment-story-avalonbay-communities-avb-090708743.html?.tsrc=rss",
+      "published": "Sat, 28 Mar 2026 09:07:08 +0000",
+      "summary": "AvalonBay Communities is in focus after an analyst fair value estimate moved from US$196.03 to US$195.05, a modest adjustment that still leaves the shares within a tight valuation band. This small shift comes as Street research sends mixed signals, with some firms trimming targets while others lift \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
+      "title": "Essex Announces Release and Conference Call Dates for Its First Quarter 2026 Earnings",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/essex-announces-release-conference-call-201500442.html?.tsrc=rss",
+      "published": "Tue, 07 Apr 2026 20:15:00 +0000",
+      "summary": "SAN MATEO, Calif., April 07, 2026--Essex Property Trust, Inc. (NYSE:ESS) announced today that it plans to release its first quarter 2026 earnings after the market closes on Tuesday, April 28, 2026. A conference call with senior management is scheduled for Wednesday, April 29, 2026 at 10:00 a.m. Paci\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
+      "title": "Assessing Essex Property Trust (ESS) Valuation After Recent Share Price Pullback",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/assessing-essex-property-trust-ess-230828446.html?.tsrc=rss",
+      "published": "Sun, 29 Mar 2026 23:08:28 +0000",
+      "summary": "Overview of the recent move in Essex Property Trust (ESS) Essex Property Trust (ESS) has drawn attention after a recent share price pullback, with the stock closing at US$239.61 and posting negative returns over the past month and past 3 months. See our latest analysis for Essex Property Trust. Look\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
+      "title": "How The Essex Property Trust (ESS) Narrative Is Shifting As Analyst Targets Converge",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/essex-property-trust-ess-narrative-010744184.html?.tsrc=rss",
+      "published": "Sun, 29 Mar 2026 01:07:44 +0000",
+      "summary": "Essex Property Trust\u2019s updated analyst work now points to a fair value estimate of US$279.22, compared with the prior US$279.61, keeping the stock\u2019s modeled worth in a very tight range. That small shift lines up with recent research where price targets cluster in the low to high US$270s, and ratings\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
+      "title": "With Mortgage Rates at a 3-Month High, These Stocks Are Quietly Winning",
+      "link": "https://247wallst.com/investing/2026/03/23/with-mortgage-rates-at-a-3-month-high-these-stocks-are-quietly-winning/?.tsrc=rss",
+      "published": "Mon, 23 Mar 2026 12:55:25 +0000",
+      "summary": "The 30-year fixed mortgage rate climbed to 6.22% as of March 19, 2026, a three-month high last seen in December of 2025, as the 10-year Treasury yield rose to 4.3% amid broader market unease. Rates had bottomed at 5.98% in late February before climbing steadily through March. The spring housing mark\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "Mid-America Apartment's Quarterly Earnings Preview: What You Need to Know",
+      "link": "https://www.barchart.com/story/news/1173126/mid-america-apartment-s-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
+      "published": "Tue, 07 Apr 2026 11:36:56 +0000",
+      "summary": "Mid-America Apartment is set to announce its first-quarter earnings this month, and Wall Street expects the company\u2019s EPS to decrease by a single digit.",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "MAA Announces Date of First Quarter 2026 Earnings Release, Conference Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/maa-announces-date-first-quarter-212900957.html?.tsrc=rss",
+      "published": "Thu, 02 Apr 2026 21:29:00 +0000",
+      "summary": "MAA (NYSE: MAA) announced today that the Company expects to release its first quarter 2026 results on Wednesday, April 29, 2026, after market close and will hold a conference call on Thursday, April 30, 2026, at 9:00 a.m. Central Time. During the conference call, company officers will review first q\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "Morgan Stanley Lowers Price Target on Mid-America Apartment Communities (MAA), Keeps Overweight Rating",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-lowers-price-target-224809444.html?.tsrc=rss",
+      "published": "Mon, 30 Mar 2026 22:48:09 +0000",
+      "summary": "Mid-America Apartment Communities, Inc. (NYSE:MAA) is included among the Dividend Capture Strategy: 14 High Yield Stocks to Buy in April. Top 100 Places Where the Rich People Own Real Estate On March 26, Morgan Stanley analyst Adam Kramer lowered the firm\u2019s price recommendation on Mid-America Apartm\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "Is Mid-America Apartment Communities (MAA) Starting To Look Attractive After A 21% Share Price Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mid-america-apartment-communities-maa-210434767.html?.tsrc=rss",
+      "published": "Sat, 21 Mar 2026 21:04:34 +0000",
+      "summary": "If you are wondering whether Mid-America Apartment Communities is starting to look interesting at current levels, the key question is how its price stacks up against its underlying value. The stock last closed at US$121.79, with returns of a 3.6% decline over 7 days, 9.9% decline over 30 days, 12.5%\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "Earnings Preview: What To Expect From UDR, Inc.'s Report",
+      "link": "https://www.barchart.com/story/news/1173710/earnings-preview-what-to-expect-from-udr-inc-s-report?.tsrc=rss",
+      "published": "Tue, 07 Apr 2026 12:01:58 +0000",
+      "summary": "UDR, Inc. is expected to announce its first-quarter results this month, and analysts are projecting a single-digit rise in its EPS.",
+      "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "Morgan Stanley Trims UDR Target as Growth Outlook Trails Peers",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-trims-udr-target-225116419.html?.tsrc=rss",
+      "published": "Mon, 30 Mar 2026 22:51:16 +0000",
+      "summary": "UDR, Inc. (NYSE:UDR) is included among the Dividend Capture Strategy: 14 High Yield Stocks to Buy in April. On March 26, Morgan Stanley analyst Adam Kramer lowered the firm\u2019s price recommendation on UDR, Inc. (NYSE:UDR) to $43 from $43.50. It maintained an Equal Weight rating on the shares. The anal\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "How Analyst Revisions And Market Signals Are Shaping The Story For UDR (UDR)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/analyst-revisions-market-signals-shaping-020340554.html?.tsrc=rss",
+      "published": "Mon, 23 Mar 2026 02:03:40 +0000",
+      "summary": "UDR\u2019s updated research framework trims its fair value estimate slightly, from about US$41.12 to about US$40.98, signaling a modest reset in where analysts think the shares are fairly priced. That shift lines up with a mix of Buy, Neutral, and Sector Perform views that cluster in the high US$30s to l\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "Is UDR Stock Underperforming the S&P 500?",
+      "link": "https://www.barchart.com/story/news/863532/is-udr-stock-underperforming-the-s-p-500?.tsrc=rss",
+      "published": "Fri, 20 Mar 2026 13:43:06 +0000",
+      "summary": "Despite UDR\u2019s underperformance compared to the S&amp;P 500 Index over the past year, Wall Street analysts remain moderately optimistic about the stock\u2019s prospects.",
+      "is_signal": false
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property Trust",
+      "source": "CPT",
+      "category": "reit",
+      "title": "Camden Property Trust Announces First Quarter 2026 Earnings Release and Conference Call Dates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/camden-property-trust-announces-first-201500617.html?.tsrc=rss",
+      "published": "Thu, 02 Apr 2026 20:15:00 +0000",
+      "summary": "HOUSTON, April 02, 2026--Camden Property Trust (NYSE:CPT) (the \"Company\") announced today that its first quarter 2026 earnings will be released after the market closes on Thursday, April 30, 2026. The Company will host a conference call on Friday, May 1, 2026, at 10:00 AM Central Time, which will in\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property Trust",
+      "source": "CPT",
+      "category": "reit",
+      "title": "Did Camden\u2019s Insider Promotions and Extended Credit Line Just Recast Camden Property Trust\u2019s (CPT) Investment Narrative?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/did-camden-insider-promotions-extended-201232324.html?.tsrc=rss",
+      "published": "Thu, 02 Apr 2026 20:12:32 +0000",
+      "summary": "In March 2026, Camden Property Trust reshaped its senior leadership by promoting long-time executives Alexander J. Jessett to Chief Executive Officer and Board member, Laurie A. Baker to President and Chief Operating Officer, and Benjamin D. Fraker to Chief Financial Officer, while also extending it\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property Trust",
+      "source": "CPT",
+      "category": "reit",
+      "title": "Camden Property Trust Named One of Fortune\u2019s 100 Best Companies to Work For\u00ae",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/camden-property-trust-named-one-201500267.html?.tsrc=rss",
+      "published": "Wed, 01 Apr 2026 20:15:00 +0000",
+      "summary": "HOUSTON, April 01, 2026--Camden Property Trust (NYSE:CPT) (the \"Company\") announced today that it has been ranked 13th on Fortune\u2019s 29th annual 100 Best Companies to Work For list. The full list and related stories will appear in the April/May issue of Fortune and can be accessed online now here.",
+      "is_signal": true
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property Trust",
+      "source": "CPT",
+      "category": "reit",
+      "title": "Alex Jessett replaces Ric Campo as Camden CEO",
+      "link": "https://www.multifamilydive.com/news/apartment-reit-camden-succession-plan/816008/?.tsrc=rss",
+      "published": "Fri, 27 Mar 2026 14:17:00 +0000",
+      "summary": "As part of its succession plan, Laurie Baker will become the Houston-based REIT\u2019s president and COO, and Benjamin Fraker has been promoted to CFO and treasurer.",
+      "is_signal": false
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty Trust (IRT) Valuation After Earnings Beat And Revenue Miss At A New 52 Week Low",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/independence-realty-trust-irt-valuation-090728664.html?.tsrc=rss",
+      "published": "Mon, 06 Apr 2026 09:07:28 +0000",
+      "summary": "Independence Realty Trust (IRT) is under the microscope after reporting quarterly earnings that beat earnings per share expectations, while revenue came in slightly below forecasts and the stock touched a new 52 week low. See our latest analysis for Independence Realty Trust. At a share price of $15\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "SAFE or IRT: Which Is the Better Value Stock Right Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/safe-irt-better-value-stock-154003532.html?.tsrc=rss",
+      "published": "Fri, 03 Apr 2026 15:40:03 +0000",
+      "summary": "SAFE vs. IRT: Which Stock Is the Better Value Option?",
+      "is_signal": false
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty Trust (IRT) Offers a Compelling Residential Story",
+      "link": "https://finance.yahoo.com/news/independence-realty-trust-irt-offers-011013796.html?.tsrc=rss",
+      "published": "Wed, 18 Mar 2026 01:10:13 +0000",
+      "summary": "Independence Realty Trust Inc. (NYSE:IRT) is one of the 10 cheap REITs with huge upside. On March 6, Barclays decreased the target price for Independence Realty Trust Inc. (NYSE:IRT) from $21 to $18. The firm maintained an Equal Weight rating on the stock, which now offers an adjusted upside potenti\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty Trust Declares First Quarter 2026 Dividend",
+      "link": "https://finance.yahoo.com/news/independence-realty-trust-declares-first-205600751.html?.tsrc=rss",
+      "published": "Mon, 09 Mar 2026 20:56:00 +0000",
+      "summary": "PHILADELPHIA, March 09, 2026--Independence Realty Trust, Inc. (NYSE: IRT) (\"IRT\") announces that its Board of Directors approved a quarterly dividend of $0.17 per share of IRT common stock. The first quarter 2026 dividend is payable on April 17, 2026, to shareholders of record at the close of busine\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "AMH",
+      "company": "American Homes 4 Rent",
+      "source": "AMH",
+      "category": "reit",
+      "title": "Implied Volatility Surging for American Homes 4 Rent Stock Options",
+      "link": "https://finance.yahoo.com/markets/options/articles/implied-volatility-surging-american-homes-123600516.html?.tsrc=rss",
+      "published": "Thu, 02 Apr 2026 12:36:00 +0000",
+      "summary": "Investors need to pay close attention to AMH stock based on the movements in the options market lately.",
+      "is_signal": false
+    },
+    {
+      "ticker": "AMH",
+      "company": "American Homes 4 Rent",
+      "source": "AMH",
+      "category": "reit",
+      "title": "Deutsche Bank Lowers its Price Target on American Homes 4 Rent (AMH) to $30",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-lowers-price-target-164617427.html?.tsrc=rss",
+      "published": "Mon, 30 Mar 2026 16:46:17 +0000",
+      "summary": "American Homes 4 Rent (NYSE:AMH) is one of the 10 Beaten Down Stocks Insiders Are Piling Into. On March 20, 2026, Deutsche Bank lowered the price target on American Homes 4 Rent (NYSE:AMH) to $30 from $34 and maintained a Hold rating. Deutsche Bank described the company\u2019s buyback as \u201cprudent\u201d but sa\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "AMH",
+      "company": "American Homes 4 Rent",
+      "source": "AMH",
+      "category": "reit",
+      "title": "How The Investment Story For American Homes 4 Rent (AMH) Is Shifting With New Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investment-story-american-homes-4-100341330.html?.tsrc=rss",
+      "published": "Wed, 25 Mar 2026 10:03:41 +0000",
+      "summary": "The latest analyst update on American Homes 4 Rent trims the fair value estimate slightly from US$34.93 to US$34.48, a modest 1.3% reduction in the modeled target. That small move aligns with recent Street research, where many firms are lowering price targets while splitting between confidence in th\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "AMH",
+      "company": "American Homes 4 Rent",
+      "source": "AMH",
+      "category": "reit",
+      "title": "Big Landlords at Small Prices | Heard on the Street",
+      "link": "https://finance.yahoo.com/m/1925d52a-ce42-347e-bfee-307a08e7e195/big-landlords-at-small-prices.html?.tsrc=rss",
+      "published": "Mon, 23 Mar 2026 10:29:20 +0000",
+      "summary": "30% The discount on the portfolios of Wall Street landlords who are being threatened with eviction from parts of the housing market. Shares in Invitation Homes and American Homes 4 Rent , who together own around 140,000 single-family homes, are trading well below the value of their assets, according\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
+      "title": "Why The Narrative Around Invitation Homes (INVH) Is Shifting With New Risks And Analyst Revisions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/why-narrative-around-invitation-homes-181429514.html?.tsrc=rss",
+      "published": "Thu, 02 Apr 2026 18:14:29 +0000",
+      "summary": "The latest analyst update keeps Invitation Homes' model fair value steady at US$31.00 per share, signaling no shift in the formal price target despite fresh sector concerns. Many firms are trimming their published targets and revisiting earnings assumptions, while still clustering around Neutral to \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
+      "title": "A Look At Invitation Homes (INVH) Valuation After Recent Share Price Weakness",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/look-invitation-homes-invh-valuation-111947450.html?.tsrc=rss",
+      "published": "Thu, 02 Apr 2026 11:19:47 +0000",
+      "summary": "Recent share performance and business snapshot Invitation Homes (INVH) has been under pressure recently, with the share price flat over the past day but showing declines over the past week, month, past 3 months, year to date, and past year. At a recent close of US$24.85, the US single family rental \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
+      "title": "3 of Our Stock Picks Got a Hard Look. What We\u2019re Seeing Now.",
+      "link": "https://finance.yahoo.com/m/5a4a151e-d38d-3609-a156-02c2680fdfd1/3-of-our-stock-picks-got-a.html?.tsrc=rss",
+      "published": "Wed, 01 Apr 2026 16:07:00 +0000",
+      "summary": "Here\u2019s where Freeport-McMoRan, JBS, and Invitation Homes, stand during a tough time for the stock market.",
+      "is_signal": false
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
+      "title": "Big Landlords at Small Prices | Heard on the Street",
+      "link": "https://finance.yahoo.com/m/1925d52a-ce42-347e-bfee-307a08e7e195/big-landlords-at-small-prices.html?.tsrc=rss",
+      "published": "Mon, 23 Mar 2026 10:29:20 +0000",
+      "summary": "30% The discount on the portfolios of Wall Street landlords who are being threatened with eviction from parts of the housing market. Shares in Invitation Homes and American Homes 4 Rent , who together own around 140,000 single-family homes, are trading well below the value of their assets, according\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
+      "title": "How Investors Are Reacting To Sun Communities (SUI) Auditor Switch And Portfolio Simplification Strategy",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-sun-communities-sui-191014842.html?.tsrc=rss",
+      "published": "Wed, 01 Apr 2026 19:10:14 +0000",
+      "summary": "On March 23, 2026, Sun Communities\u2019 audit committee approved Deloitte & Touche LLP as its new independent auditor for the 2026 fiscal year, replacing Grant Thornton LLP after completion of the current engagement for the quarter ended March 31, 2026. At the same time, new analyst coverage has highlig\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
+      "title": "Manufactured housing REITs poised to outperform, Mizuho says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/manufactured-housing-reits-poised-outperform-142854523.html?.tsrc=rss",
+      "published": "Tue, 31 Mar 2026 14:28:54 +0000",
+      "summary": "Investing.com -- Manufactured housing real estate investment trusts are set to outperform other residential REIT categories in the near term, according to a new note from Mizuho, which initiated coverage on the sector with an upbeat outlook.",
+      "is_signal": true
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
+      "title": "Sun Communities, Inc. Declares First Quarter 2026 Distribution",
+      "link": "https://finance.yahoo.com/news/sun-communities-inc-declares-first-184200529.html?.tsrc=rss",
+      "published": "Thu, 12 Mar 2026 18:42:00 +0000",
+      "summary": "Southfield, MI, March 12, 2026 (GLOBE NEWSWIRE) -- Sun Communities, Inc. (NYSE: SUI) (the \u201cCompany\u201d), a real estate investment trust (\u201cREIT\u201d) that owns and operates, or has an interest in, manufactured housing (\u201cMH\u201d) and recreational vehicle (\u201cRV\u201d) communities (collectively, the \"properties\"), today\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
+      "title": "Seven REIT stocks pass a strict financial screen, with dividends as high as 6.27%",
+      "link": "https://www.marketwatch.com/story/seven-reit-stocks-pass-a-strict-financial-screen-with-dividends-as-high-as-6-27-fdd57ab8?.tsrc=rss",
+      "published": "Fri, 06 Mar 2026 00:41:00 +0000",
+      "summary": "Bally\u2019s Casino in Blackhawk, Colo., is among the facilities owned by Gaming Leisure Properties, which passed a financial screen of real-estate investment trusts.",
+      "is_signal": true
+    },
+    {
+      "ticker": "ELS",
+      "company": "Equity LifeStyle Properties",
+      "source": "ELS",
+      "category": "reit",
+      "title": "ASX Growth Companies With High Insider Ownership For April 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/asx-growth-companies-high-insider-193815561.html?.tsrc=rss",
+      "published": "Thu, 02 Apr 2026 19:38:15 +0000",
+      "summary": "As Australian shares anticipate a +0.5% advance, driven by optimism surrounding geopolitical developments in the Middle East and a return to market normalcy, investors are keenly observing how these factors influence equities and commodities. In this environment, growth companies with high insider o\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "ELS",
+      "company": "Equity LifeStyle Properties",
+      "source": "ELS",
+      "category": "reit",
+      "title": "Manufactured housing REITs poised to outperform, Mizuho says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/manufactured-housing-reits-poised-outperform-142854523.html?.tsrc=rss",
+      "published": "Tue, 31 Mar 2026 14:28:54 +0000",
+      "summary": "Investing.com -- Manufactured housing real estate investment trusts are set to outperform other residential REIT categories in the near term, according to a new note from Mizuho, which initiated coverage on the sector with an upbeat outlook.",
+      "is_signal": true
+    },
+    {
+      "ticker": "ELS",
+      "company": "Equity LifeStyle Properties",
+      "source": "ELS",
+      "category": "reit",
+      "title": "Undiscovered Gems in Australia to Watch This March 2026",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/undiscovered-gems-australia-watch-march-193313895.html?.tsrc=rss",
+      "published": "Thu, 26 Mar 2026 19:33:13 +0000",
+      "summary": "As the Australian market experiences a modest uptick, with the ASX 200 futures indicating a slight increase amid uncertain geopolitical developments, investors are keenly observing how these dynamics might influence small-cap stocks. In this environment of cautious optimism, identifying promising co\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "ELS",
+      "company": "Equity LifeStyle Properties",
+      "source": "ELS",
+      "category": "reit",
+      "title": "High Growth Tech Stocks In Australia For Potential Portfolio Expansion",
+      "link": "https://finance.yahoo.com/sectors/technology/articles/high-growth-tech-stocks-australia-193605166.html?.tsrc=rss",
+      "published": "Wed, 25 Mar 2026 19:36:05 +0000",
+      "summary": "As the Australian market navigates a topsy-turvy landscape with rising oil prices and geopolitical tensions, optimism persists with ASX 200 futures showing early gains despite ongoing inflation concerns. In this environment, high growth tech stocks can offer potential for portfolio expansion by leve\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
+      "title": "Greenhaven Associates Liquidates $138 Million Stake in Millrose Properties, According to Recent SEC Filing",
+      "link": "https://www.fool.com/coverage/filings/2026/04/07/greenhaven-associates-liquidates-usd138-million-stake-in-millrose-properties-according-to-recent-sec-filing/?.tsrc=rss",
+      "published": "Tue, 07 Apr 2026 15:23:04 +0000",
+      "summary": "Millrose Properties generates income through land option agreements with homebuilders, tying its cash flow to residential development activity. The company's performance is driven by builder demand and the pace of land transactions.",
+      "is_signal": true
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
+      "title": "Millrose Properties Expands Unsecured Credit Capacity Raising Flexibility And Risks",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/millrose-properties-expands-unsecured-credit-130459312.html?.tsrc=rss",
+      "published": "Mon, 30 Mar 2026 13:04:59 +0000",
+      "summary": "Millrose Properties (NYSE:MRP) amended its credit facility with JPMorgan Chase Bank, expanding unsecured borrowing capacity and releasing prior liens. The revised agreement converts secured debt into unsecured, increasing financial flexibility and access to liquidity. The credit facility amendment i\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
+      "title": "Millrose Properties Amends Credit Agreement, Expanding to a $1.835 Billon Unsecured Facility With the Addition of a $500 Million Term Loan Commitment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/millrose-properties-amends-credit-agreement-120000892.html?.tsrc=rss",
+      "published": "Fri, 27 Mar 2026 12:00:00 +0000",
+      "summary": "MIAMI, March 27, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the leading homesite option platform for residential homebuilders, today announced the closing of an amendment to its credit facility with JPMorgan Chase Bank, N.A. serving as administrative agent, adding a new $500 million te\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
+      "title": "Millrose Properties Announces Quarterly Dividend Payment",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/millrose-properties-announces-quarterly-dividend-201500799.html?.tsrc=rss",
+      "published": "Mon, 23 Mar 2026 20:15:00 +0000",
+      "summary": "MIAMI, March 23, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, today announced that its Board of Directors has declared a quarterly cash dividend of approximately $126.2 million, or $0.76, per share of Class A and Class B common s\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "NXRT",
+      "company": "NexPoint Residential Trust",
+      "source": "NXRT",
+      "category": "reit",
+      "title": "NexPoint Residential Trust, Inc. Announces First Quarter 2026 Earnings Conference Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nexpoint-residential-trust-inc-announces-130000977.html?.tsrc=rss",
+      "published": "Tue, 07 Apr 2026 13:00:00 +0000",
+      "summary": "NexPoint Residential Trust, Inc. (\"NXRT\" or the \"Company\") (NYSE: NXRT) announced today that the Company is scheduled to host a conference call on Tuesday, April 28, 2026, at 11:00 a.m. ET (10:00 am CT), to discuss first quarter 2026 financial results.",
+      "is_signal": true
+    },
+    {
+      "ticker": "NXRT",
+      "company": "NexPoint Residential Trust",
+      "source": "NXRT",
+      "category": "reit",
+      "title": "How The NexPoint Residential Trust (NXRT) Story Is Shifting As Analysts Rework Valuation Assumptions",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nexpoint-residential-trust-nxrt-story-042458817.html?.tsrc=rss",
+      "published": "Mon, 23 Mar 2026 04:24:58 +0000",
+      "summary": "NexPoint Residential Trust has seen its fair value price target trimmed slightly from US$32.80 to US$32.20, a small adjustment that still matters if you are tracking the story closely. That shift lines up with recent analyst commentary that balances confidence in the real estate portfolio with fresh\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "NXRT",
+      "company": "NexPoint Residential Trust",
+      "source": "NXRT",
+      "category": "reit",
+      "title": "NexPoint Residential Trust, Inc. Announces Record Date and Date of 2026 Annual Meeting of Stockholders",
+      "link": "https://finance.yahoo.com/news/nexpoint-residential-trust-inc-announces-210000006.html?.tsrc=rss",
+      "published": "Wed, 11 Mar 2026 21:00:00 +0000",
+      "summary": "NexPoint Residential Trust, Inc. (NYSE: NXRT) (\"NXRT\") announced today that the record date for determining stockholders entitled to vote at the 2026 Annual Meeting of Stockholders (the \"Annual Meeting\") will be Tuesday, March 31, 2026. The Annual Meeting will be held on Tuesday, June 2, 2026, begin\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "NXRT",
+      "company": "NexPoint Residential Trust",
+      "source": "NXRT",
+      "category": "reit",
+      "title": "How The NexPoint Residential Trust (NXRT) Story Is Shifting As Analysts Recalibrate Expectations",
+      "link": "https://finance.yahoo.com/news/nexpoint-residential-trust-nxrt-story-141314167.html?.tsrc=rss",
+      "published": "Fri, 06 Mar 2026 14:13:14 +0000",
+      "summary": "NexPoint Residential Trust\u2019s latest update keeps its fair value estimate anchored at $32.80, even as the underlying model inputs are refreshed. Analysts describe this unchanged target as a recalibration of expectations, with the story shifting more toward how the price target lines up with today\u2019s a\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "The rumors aren\u2019t true. Housing market crash unlikely despite war, high rates",
+      "link": "https://www.housingwire.com/articles/the-rumors-arent-true-housing-market-crash-unlikely-despite-war-high-rates/",
+      "published": "Tue, 07 Apr 2026 19:45:27 +0000",
+      "summary": "HousingWire lead economic analyst Logan Mohtashami has cited a key ingredient needed for a crash that's currently missing.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Mortgage rates level off, but is 6.5% the new normal?",
+      "link": "https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
+      "published": "Tue, 07 Apr 2026 16:53:38 +0000",
+      "summary": "Mortgage rates have soared in the past month, but market participants appeared to take a wait-and-see approach this week as they contemplate further price increases for home loans.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "DataTrace on AI\u2019s reality, risk and responsibility in title search",
+      "link": "https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
+      "published": "Tue, 07 Apr 2026 16:42:33 +0000",
+      "summary": "AI improves speed and efficiency, but accurate title search still relies on legacy data, infrastructure and validation, the company found.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Real Brokerage adds 65-agent Equity Realty Group in Phoenix",
+      "link": "https://www.housingwire.com/articles/real-brokerage-adds-65-agent-equity-realty-group-phoenix/",
+      "published": "Tue, 07 Apr 2026 16:07:22 +0000",
+      "summary": "Real Brokerage adds Randy Anaya\u2019s 65-agent Equity Realty Group in Phoenix\u2019s Southwest Valley, boosting its $191M team presence in the Arizona market.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "A new study says private listings beat the MLS. Here\u2019s what it left out",
+      "link": "https://www.housingwire.com/articles/private-listings-premium-fades/",
+      "published": "Tue, 07 Apr 2026 16:00:02 +0000",
+      "summary": "UGA study found a 1.7% private sale premium in DFW, but post 2020 estimates fall to about 0.9% and are not significant.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Nareit",
+      "category": "broad",
+      "title": "REITwise: 2021 Law, Accounting & Finance Conference",
+      "link": "https://www.reit.com/events/reitwise/reitwise-2021-law-accounting-finance-conference",
+      "published": "Mon, 18 Jun 2018 16:18:23 +0000",
+      "summary": "<span class=\"field field--name-title field--type-string field--label-hidden\">REITwise: 2021 Law, Accounting &amp; Finance Conference</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span lang=\"lang\">isadmin</span></span>\n<span class=\"field field--name-crea\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Nareit",
+      "category": "broad",
+      "title": "EPA's Energy Star Program Looks to Next Phase in Sustainability",
+      "link": "https://www.reit.com/news/videos/epas-energy-star-program-looks-next-phase-sustainability",
+      "published": "Wed, 22 Jan 2014 15:45:00 +0000",
+      "summary": "<div class=\"paragraph paragraph--image paragraph--image--teaser paragraph--type--image paragraph--id--11849 paragraph--view-mode--teaser\">\n            \n\n  \n  \n      \n  <div class=\"field field--name-field-media-image field--type-image field--label-visually_hidden\">\n    <div class=\"field__label visual\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Nareit",
+      "category": "broad",
+      "title": "Management Support Critical to Sustainability, Executive Says",
+      "link": "https://www.reit.com/news/videos/management-support-critical-sustainability-executive-says",
+      "published": "Wed, 22 Jan 2014 15:00:00 +0000",
+      "summary": "<div class=\"paragraph paragraph--image paragraph--image--teaser paragraph--type--image paragraph--id--11884 paragraph--view-mode--teaser\">\n            \n\n  \n  \n      \n  <div class=\"field field--name-field-media-image field--type-image field--label-visually_hidden\">\n    <div class=\"field__label visual\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Nareit",
+      "category": "broad",
+      "title": "Interest Rate Environment Favors Hotel, Apartment, Industrial Sectors, Fund Manager says",
+      "link": "https://www.reit.com/news/articles/interest-rate-environment-favors-hotel-apartment-industrial-sectors-fund-manager-says",
+      "published": "Wed, 22 Jan 2014 14:15:00 +0000",
+      "summary": "<div class=\"clearfix text-formatted field field--name-field-teaser field--type-text-long field--label-hidden field__item\"><p>Resource Real Estate's Scott Crowe says economic shift a game changer for REIT investors.</p>\n</div>",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Nareit",
+      "category": "broad",
+      "title": "Despite Rising Rates, REITs Took on More Debt in 2013",
+      "link": "https://www.reit.com/news/videos/despite-rising-rates-reits-took-more-debt-2013",
+      "published": "Thu, 16 Jan 2014 12:00:00 +0000",
+      "summary": "<div class=\"paragraph paragraph--image paragraph--image--teaser paragraph--type--image paragraph--id--11915 paragraph--view-mode--teaser\">\n            \n\n  \n  \n      \n  <div class=\"field field--name-field-media-image field--type-image field--label-visually_hidden\">\n    <div class=\"field__label visual\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Commercial Observer",
+      "category": "broad",
+      "title": "Bonaventure Founder and CEO Dwight Dunton On Investment and Development",
+      "link": "http://commercialobserver.com/2026/04/bonaventure-founder-ceo-dwight-dunton-investment/",
+      "published": "2026-04-06T10:30:26Z",
+      "summary": "Dwight Dunton has spent the better part of 26 years building Bonaventure into a top-flight vertically integrated multifamily property management, development and investment firm. As CEO and founder, Dunton oversees a business of $2.8 billion worth of assets u\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Commercial Observer",
+      "category": "broad",
+      "title": "Behind Cryptocurrency\u2019s Commercial Real Estate Moment",
+      "link": "http://commercialobserver.com/2026/03/cryptocurrency-commercial-real-estate-deals/",
+      "published": "2026-03-31T12:00:54Z",
+      "summary": "Thirteen years ago, Grant Cardone, CEO of Cardone Capital, a multifamily syndication firm with $5 billion in assets today, was paid for a speaking engagement in 115 BTC, or Bitcoin.\u00a0 For the uninitiated, Bitcoin is the most famous currency in the cryptocurren\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Times of India",
+      "category": "broad",
+      "title": "'Kanjoos' Sara Ali Khan proves the power of saving even a rupee as actress is set to earn Rs 4 crore from rent of just one property alone",
+      "link": "https://economictimes.indiatimes.com/magazines/panache/kanjoos-sara-ali-khan-proves-the-power-of-saving-even-a-rupee-as-actress-is-set-to-earn-rs-4-crore-from-rent-of-just-one-property-alone/articleshow/129966064.cms",
+      "published": "2026-04-02T03:29:03Z",
+      "summary": "Actress Sara Ali Khan is making smart financial moves. She has leased out a Mumbai bungalow for a significant sum over five years. This deal highlights her practical approach to money.  Sara Ali Khan is known for her frugal habits. Her mother manages her fina\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "category": "broad",
+      "title": "\u2018Harvard Thinking\u2019: Priced out of the American dream",
+      "link": "https://news.harvard.edu/gazette/story/2026/04/harvard-thinking-priced-out-of-the-american-dream/",
+      "published": "2026-04-01T17:50:52Z",
+      "summary": "In the \"Harvard Thinking\" podcast, experts discuss factors fueling housing crisis \u2014 from overregulation to NIMBYism \u2014 and how to fix it.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Atlantic",
+      "category": "broad",
+      "title": "How to Keep the Suburbs Tenant-Free",
+      "link": "https://www.theatlantic.com/ideas/2026/03/suburbs-homeownership-renting/686599/",
+      "published": "2026-03-30T11:17:46Z",
+      "summary": "The housing bill now in Congress may seek to increase the housing supply\u2014but not for renters.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "CNBC",
+      "category": "broad",
+      "title": "Trump ban on investor homebuying may come at cost of a bigger real estate deal",
+      "link": "https://www.cnbc.com/2026/03/29/affordable-housing-trump-ban-investor-home-buying-real-estate.html",
+      "published": "2026-03-29T13:43:41Z",
+      "summary": "President Trump's plan to ban big investors from home ownership may not be the key to reviving the American Dream in affordable housing legislation.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "The Times of India",
+      "category": "broad",
+      "title": "Quote of the day by P.J. O\u2019Rourke: 'Everybody knows how to raise children, except the people who have them.' Life lessons on politics, war and success by American political satirist",
+      "link": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-p-j-orourke-everybody-knows-how-to-raise-children-except-the-people-who-have-them-life-lessons-on-politics-war-and-success-by-american-political-satirist/articleshow/130070611.cms",
+      "published": "2026-04-06T20:41:21Z",
+      "summary": "Quote of the day by P.J. O\u2019Rourke highlights the reality of parenting and public opinion. The quote of the day today explains how advice often comes from people without direct experience. This article explores the quote of the day meaning, the quote of the da\u2026",
+      "is_signal": false
+    }
+  ],
+  "weekly_report": null,
+  "focus_details": {
+    "ticker": "MRP",
+    "name": "MRP Group",
+    "exchange": "NYSE",
+    "key_dates": [
+      {
+        "event": "Next Earnings",
+        "date": "TBD",
+        "note": "Update with confirmed date"
+      },
+      {
+        "event": "Dividend",
+        "date": "TBD",
+        "note": "Update with ex-dividend date"
+      }
+    ],
+    "analyst_coverage": [
+      {
+        "firm": "TBD",
+        "rating": "Buy",
+        "target": 0,
+        "date": "2026"
+      }
+    ],
+    "thesis_points": [
+      "Update this section with your MRP investment thesis",
+      "Key catalysts, competitive positioning, and risk factors",
+      "Management track record and capital allocation strategy",
+      "Valuation vs. peers \u2014 implied cap rate, NAV discount/premium"
+    ]
+  }
+}
