@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-07T22:10:06.991384+00:00",
+  "last_updated": "2026-04-07T23:25:28.716102+00:00",
   "market_date": "April 07, 2026",
   "stocks": {
     "EQR": {
@@ -813,6 +813,17 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
+      "title": "True Footage lands $40M Series C as appraisal industry hits \u2018critical\u2019 AI phase",
+      "link": "https://www.housingwire.com/articles/true-footage-40-million-series-c-appraisal-modernization/",
+      "published": "Tue, 07 Apr 2026 22:14:23 +0000",
+      "summary": "True Footage raises $40M Series C to scale its staff appraiser model and data platform as UAD 3.6 and AI reshape home valuations.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
       "title": "California steps up reform to join the single-stair bandwagon",
       "link": "https://www.housingwire.com/articles/california-single-stair-ab2252/",
       "published": "Tue, 07 Apr 2026 21:18:00 +0000",
@@ -850,17 +861,6 @@
       "link": "https://www.housingwire.com/articles/mortgage-rates-near-6-5-iran-volatility/",
       "published": "Tue, 07 Apr 2026 16:53:38 +0000",
       "summary": "Mortgage rates have soared in the past month, but market participants appeared to take a wait-and-see approach this week as they contemplate further price increases for home loans.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "DataTrace on AI\u2019s reality, risk and responsibility in title search",
-      "link": "https://www.housingwire.com/articles/datatrace-on-ais-reality-risk-and-responsibility-in-title-search/",
-      "published": "Tue, 07 Apr 2026 16:42:33 +0000",
-      "summary": "AI improves speed and efficiency, but accurate title search still relies on legacy data, infrastructure and validation, the company found.",
       "is_signal": false
     },
     {
@@ -987,13 +987,24 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Extra",
+      "source": "The Irish Times",
       "category": "broad",
-      "title": "How a World Solitaire Championship Turned Quiet Play Into a Global Spectacle",
-      "link": "https://extratv.com/2026/04/06/how-a-world-solitaire-championship-turned-quiet-play-into-a-global-spectacle/",
-      "published": "2026-04-06T21:15:58Z",
-      "summary": "For decades, solitaire has been the ultimate solo pastime, played in bedrooms, on laptops, or during moments of downtime.\u00a0\n This year, the game took on a different energy at the World Solitaire Championship in Miami, with roaring crowds, high-stakes competiti\u2026",
-      "is_signal": false
+      "title": "Large number of parents seek shift to multidenominational ethos in schools",
+      "link": "https://www.irishtimes.com/ireland/education/2026/04/07/large-number-of-parents-seek-shift-to-multidenominational-ethos-in-schools/",
+      "published": "2026-04-06T23:01:00Z",
+      "summary": "Almost three-quarters of parents with children in single-sex schools said they would like to see those schools transition to coeducational",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "GlobeNewswire",
+      "category": "broad",
+      "title": "LGI Homes Reports March and First Quarter 2026 Home Closings and Announces Date for First Quarter Earnings Conference Call",
+      "link": "https://www.globenewswire.com/news-release/2026/04/06/3268770/28788/en/LGI-Homes-Reports-March-and-First-Quarter-2026-Home-Closings-and-Announces-Date-for-First-Quarter-Earnings-Conference-Call.html",
+      "published": "2026-04-06T22:36:00Z",
+      "summary": "THE WOODLANDS, Texas, April 06, 2026 (GLOBE NEWSWIRE) -- LGI Homes, Inc. (NASDAQ: LGIH) today announced it closed 451 homes in March 2026, which includes the closing of 9 currently or previously leased single-family rental homes. The Company closed 916 homes \u2026",
+      "is_signal": true
     }
   ],
   "weekly_report": null,
