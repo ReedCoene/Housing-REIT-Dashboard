@@ -96,6 +96,7 @@ function summaryBox(title, date, items, accentColor) {
 // ── CTRE: Daily Summary ───────────────────────────────────────
 function renderFocusSummary(data) {
   const s   = data.stocks['MRP'];
+  if (!s) { document.getElementById('focusSummary').innerHTML = ''; return; }
   const cd  = data.focus_details || {};
   const { text, cls } = fmtChange(s.pct_change);
   const items = [];
