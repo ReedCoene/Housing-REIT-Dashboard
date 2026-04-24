@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-04-23T22:10:45.155872+00:00",
-  "market_date": "April 23, 2026",
+  "last_updated": "2026-04-24T22:06:29.534412+00:00",
+  "market_date": "April 24, 2026",
   "stocks": {
     "EQR": {
       "name": "Equity Residential",
       "ticker": "EQR",
-      "price": 62.65,
-      "prev_close": 61.7,
-      "pct_change": 1.54,
-      "market_cap": 23473371136,
-      "dividend_yield": 4.55,
+      "price": 62.26,
+      "prev_close": 62.65,
+      "pct_change": -0.62,
+      "market_cap": 23327248384,
+      "dividend_yield": 4.49,
       "fifty_two_week_high": 72.4,
       "fifty_two_week_low": 57.57,
       "next_earnings": "2026-04-28"
@@ -17,11 +17,11 @@
     "AVB": {
       "name": "AvalonBay Communities",
       "ticker": "AVB",
-      "price": 173.35,
-      "prev_close": 171.31,
-      "pct_change": 1.19,
-      "market_cap": 24114933760,
-      "dividend_yield": 4.16,
+      "price": 172.38,
+      "prev_close": 173.35,
+      "pct_change": -0.56,
+      "market_cap": 23979995136,
+      "dividend_yield": 4.11,
       "fifty_two_week_high": 213.34,
       "fifty_two_week_low": 160.1,
       "next_earnings": "2026-04-27"
@@ -29,11 +29,11 @@
     "ESS": {
       "name": "Essex Property Trust",
       "ticker": "ESS",
-      "price": 255.06,
-      "prev_close": 252.19,
-      "pct_change": 1.14,
-      "market_cap": 16445536256,
-      "dividend_yield": 4.08,
+      "price": 255.37,
+      "prev_close": 255.06,
+      "pct_change": 0.12,
+      "market_cap": 16465523712,
+      "dividend_yield": 4.04,
       "fifty_two_week_high": 294.09,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-04-28"
@@ -41,11 +41,11 @@
     "MAA": {
       "name": "Mid-America Apartment",
       "ticker": "MAA",
-      "price": 126.0,
-      "prev_close": 124.59,
-      "pct_change": 1.13,
-      "market_cap": 14659802112,
-      "dividend_yield": 4.91,
+      "price": 125.66,
+      "prev_close": 126.0,
+      "pct_change": -0.27,
+      "market_cap": 14620243968,
+      "dividend_yield": 0,
       "fifty_two_week_high": 169.0,
       "fifty_two_week_low": 120.3,
       "next_earnings": "2026-04-29"
@@ -53,11 +53,11 @@
     "UDR": {
       "name": "UDR Inc",
       "ticker": "UDR",
-      "price": 34.91,
-      "prev_close": 34.51,
-      "pct_change": 1.16,
-      "market_cap": 13143232512,
-      "dividend_yield": 5.04,
+      "price": 34.77,
+      "prev_close": 34.91,
+      "pct_change": -0.4,
+      "market_cap": 13090524160,
+      "dividend_yield": 4.98,
       "fifty_two_week_high": 43.92,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-04-29"
@@ -65,11 +65,11 @@
     "CPT": {
       "name": "Camden Property Trust",
       "ticker": "CPT",
-      "price": 102.43,
-      "prev_close": 101.48,
-      "pct_change": 0.94,
-      "market_cap": 10727136256,
-      "dividend_yield": 4.18,
+      "price": 101.75,
+      "prev_close": 102.43,
+      "pct_change": -0.66,
+      "market_cap": 10655922176,
+      "dividend_yield": 4.14,
       "fifty_two_week_high": 121.33,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-04-30"
@@ -77,11 +77,11 @@
     "IRT": {
       "name": "Independence Realty Trust",
       "ticker": "IRT",
-      "price": 15.85,
-      "prev_close": 15.5,
-      "pct_change": 2.26,
-      "market_cap": 3855067648,
-      "dividend_yield": 4.39,
+      "price": 15.79,
+      "prev_close": 15.85,
+      "pct_change": -0.38,
+      "market_cap": 3840474112,
+      "dividend_yield": 4.29,
       "fifty_two_week_high": 19.83,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-04-29"
@@ -89,11 +89,11 @@
     "AMH": {
       "name": "American Homes 4 Rent",
       "ticker": "AMH",
-      "price": 30.61,
-      "prev_close": 30.18,
-      "pct_change": 1.42,
-      "market_cap": 11135789056,
-      "dividend_yield": 4.08,
+      "price": 30.55,
+      "prev_close": 30.61,
+      "pct_change": -0.2,
+      "market_cap": 11113960448,
+      "dividend_yield": 4.02,
       "fifty_two_week_high": 39.49,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-05-06"
@@ -101,11 +101,11 @@
     "INVH": {
       "name": "Invitation Homes",
       "ticker": "INVH",
-      "price": 27.3,
-      "prev_close": 26.68,
-      "pct_change": 2.32,
-      "market_cap": 16364875776,
-      "dividend_yield": 4.5,
+      "price": 27.13,
+      "prev_close": 27.3,
+      "pct_change": -0.62,
+      "market_cap": 16262970368,
+      "dividend_yield": 4.4,
       "fifty_two_week_high": 35.799,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-04-29"
@@ -113,11 +113,11 @@
     "SUI": {
       "name": "Sun Communities",
       "ticker": "SUI",
-      "price": 129.6,
-      "prev_close": 127.85,
-      "pct_change": 1.37,
-      "market_cap": 16570518528,
-      "dividend_yield": 3.32,
+      "price": 129.83,
+      "prev_close": 129.6,
+      "pct_change": 0.18,
+      "market_cap": 16599925760,
+      "dividend_yield": 3.27,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 115.53,
       "next_earnings": "2026-04-27"
@@ -125,11 +125,11 @@
     "ELS": {
       "name": "Equity LifeStyle Properties",
       "ticker": "ELS",
-      "price": 63.48,
-      "prev_close": 62.82,
-      "pct_change": 1.05,
-      "market_cap": 12310521856,
-      "dividend_yield": 3.45,
+      "price": 63.29,
+      "prev_close": 63.48,
+      "pct_change": -0.3,
+      "market_cap": 12273897472,
+      "dividend_yield": 3.42,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.15,
       "next_earnings": "2026-07-20"
@@ -137,23 +137,23 @@
     "MRP": {
       "name": "MRP Group",
       "ticker": "MRP",
-      "price": 30.49,
-      "prev_close": 30.61,
-      "pct_change": -0.39,
-      "market_cap": 5061446656,
-      "dividend_yield": 9.93,
+      "price": 30.73,
+      "prev_close": 30.49,
+      "pct_change": 0.79,
+      "market_cap": 5101287424,
+      "dividend_yield": 9.97,
       "fifty_two_week_high": 36.0,
-      "fifty_two_week_low": 24.49,
+      "fifty_two_week_low": 24.6,
       "next_earnings": "2026-05-06"
     },
     "NXRT": {
       "name": "NexPoint Residential Trust",
       "ticker": "NXRT",
-      "price": 26.0,
-      "prev_close": 25.68,
-      "pct_change": 1.25,
-      "market_cap": 1340181120,
-      "dividend_yield": 8.26,
+      "price": 26.21,
+      "prev_close": 26.0,
+      "pct_change": 0.81,
+      "market_cap": 1351005568,
+      "dividend_yield": 0,
       "fifty_two_week_high": 38.93,
       "fifty_two_week_low": 23.79,
       "next_earnings": "2026-04-28"
@@ -161,81 +161,103 @@
   },
   "top_gainers": [
     {
+      "name": "NexPoint Residential Trust",
+      "ticker": "NXRT",
+      "price": 26.21,
+      "prev_close": 26.0,
+      "pct_change": 0.81,
+      "market_cap": 1351005568,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 38.93,
+      "fifty_two_week_low": 23.79,
+      "next_earnings": "2026-04-28"
+    },
+    {
+      "name": "MRP Group",
+      "ticker": "MRP",
+      "price": 30.73,
+      "prev_close": 30.49,
+      "pct_change": 0.79,
+      "market_cap": 5101287424,
+      "dividend_yield": 9.97,
+      "fifty_two_week_high": 36.0,
+      "fifty_two_week_low": 24.6,
+      "next_earnings": "2026-05-06"
+    },
+    {
+      "name": "Sun Communities",
+      "ticker": "SUI",
+      "price": 129.83,
+      "prev_close": 129.6,
+      "pct_change": 0.18,
+      "market_cap": 16599925760,
+      "dividend_yield": 3.27,
+      "fifty_two_week_high": 137.85,
+      "fifty_two_week_low": 115.53,
+      "next_earnings": "2026-04-27"
+    }
+  ],
+  "top_losers": [
+    {
+      "name": "Equity Residential",
+      "ticker": "EQR",
+      "price": 62.26,
+      "prev_close": 62.65,
+      "pct_change": -0.62,
+      "market_cap": 23327248384,
+      "dividend_yield": 4.49,
+      "fifty_two_week_high": 72.4,
+      "fifty_two_week_low": 57.57,
+      "next_earnings": "2026-04-28"
+    },
+    {
       "name": "Invitation Homes",
       "ticker": "INVH",
-      "price": 27.3,
-      "prev_close": 26.68,
-      "pct_change": 2.32,
-      "market_cap": 16364875776,
-      "dividend_yield": 4.5,
+      "price": 27.13,
+      "prev_close": 27.3,
+      "pct_change": -0.62,
+      "market_cap": 16262970368,
+      "dividend_yield": 4.4,
       "fifty_two_week_high": 35.799,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-04-29"
     },
     {
-      "name": "Independence Realty Trust",
-      "ticker": "IRT",
-      "price": 15.85,
-      "prev_close": 15.5,
-      "pct_change": 2.26,
-      "market_cap": 3855067648,
-      "dividend_yield": 4.39,
-      "fifty_two_week_high": 19.83,
-      "fifty_two_week_low": 14.6,
-      "next_earnings": "2026-04-29"
-    },
-    {
-      "name": "Equity Residential",
-      "ticker": "EQR",
-      "price": 62.65,
-      "prev_close": 61.7,
-      "pct_change": 1.54,
-      "market_cap": 23473371136,
-      "dividend_yield": 4.55,
-      "fifty_two_week_high": 72.4,
-      "fifty_two_week_low": 57.57,
-      "next_earnings": "2026-04-28"
-    }
-  ],
-  "top_losers": [
-    {
-      "name": "Equity LifeStyle Properties",
-      "ticker": "ELS",
-      "price": 63.48,
-      "prev_close": 62.82,
-      "pct_change": 1.05,
-      "market_cap": 12310521856,
-      "dividend_yield": 3.45,
-      "fifty_two_week_high": 69.0,
-      "fifty_two_week_low": 58.15,
-      "next_earnings": "2026-07-20"
-    },
-    {
       "name": "Camden Property Trust",
       "ticker": "CPT",
-      "price": 102.43,
-      "prev_close": 101.48,
-      "pct_change": 0.94,
-      "market_cap": 10727136256,
-      "dividend_yield": 4.18,
+      "price": 101.75,
+      "prev_close": 102.43,
+      "pct_change": -0.66,
+      "market_cap": 10655922176,
+      "dividend_yield": 4.14,
       "fifty_two_week_high": 121.33,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-04-30"
-    },
-    {
-      "name": "MRP Group",
-      "ticker": "MRP",
-      "price": 30.49,
-      "prev_close": 30.61,
-      "pct_change": -0.39,
-      "market_cap": 5061446656,
-      "dividend_yield": 9.93,
-      "fifty_two_week_high": 36.0,
-      "fifty_two_week_low": 24.49,
-      "next_earnings": "2026-05-06"
     }
   ],
   "news": [
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Residential REITs See Easing Supply: Will AVB, EQR, ESS & UDR Gain in Q1?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/residential-reits-see-easing-supply-162900203.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 16:29:00 +0000",
+      "summary": "AVB, EQR, ESS and UDR are set to report Q1 2026 earnings in late April, as demand rebounds and apartment supply pressure starts easing.",
+      "is_signal": true
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Will EQR\u2019s Shift to Asset Sales and Buybacks After a Tough 2025 Change Equity Residential\u2019s Narrative?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/eqr-shift-asset-sales-buybacks-140358968.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 14:03:58 +0000",
+      "summary": "Equity Residential recently reported that 2025 was a difficult year for its rental portfolio, with early strength in rents fading later in the year, while San Francisco and New York remained relative standouts and are expected to be firm contributors in 2026. The company now expects demand to stabil\u2026",
+      "is_signal": true
+    },
     {
       "ticker": "EQR",
       "company": "Equity Residential",
@@ -259,26 +281,15 @@
       "is_signal": true
     },
     {
-      "ticker": "EQR",
-      "company": "Equity Residential",
-      "source": "EQR",
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
       "category": "reit",
-      "title": "EQR Q4 2025 Earnings Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/04/21/eqr-q4-2025-earnings-transcript/?.tsrc=rss",
-      "published": "Tue, 21 Apr 2026 17:24:20 +0000",
-      "summary": "Mark Parrell: Thank you, Marty.  2025 was a challenging year for the rental housing industry, including Equity Residential.  In many of our coastal markets, we saw stronger-than-expected rental growth through the first half of the year, followed by a deceleration in revenue momentum through the latt\u2026",
+      "title": "Residential REITs See Easing Supply: Will AVB, EQR, ESS & UDR Gain in Q1?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/residential-reits-see-easing-supply-162900203.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 16:29:00 +0000",
+      "summary": "AVB, EQR, ESS and UDR are set to report Q1 2026 earnings in late April, as demand rebounds and apartment supply pressure starts easing.",
       "is_signal": true
-    },
-    {
-      "ticker": "EQR",
-      "company": "Equity Residential",
-      "source": "EQR",
-      "category": "reit",
-      "title": "EQR settles RealPage lawsuit for $56M",
-      "link": "https://www.multifamilydive.com/news/antitrust-collusion-lawsuit-realpage-eqr/817846/?.tsrc=rss",
-      "published": "Fri, 17 Apr 2026 12:50:39 +0000",
-      "summary": "The Chicago-based REIT joins Camden and other peers to resolve allegations that it illegally fixed and inflated rents.",
-      "is_signal": false
     },
     {
       "ticker": "AVB",
@@ -314,15 +325,15 @@
       "is_signal": false
     },
     {
-      "ticker": "AVB",
-      "company": "AvalonBay Communities",
-      "source": "AVB",
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
       "category": "reit",
-      "title": "AvalonBay CEO Joins PulteGroup Board As Valuation Gap Draws Attention",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-ceo-joins-pultegroup-board-180920521.html?.tsrc=rss",
-      "published": "Thu, 09 Apr 2026 18:09:20 +0000",
-      "summary": "AvalonBay Communities CEO Benjamin Schall has been nominated to join the Board of Directors of PulteGroup. The nomination links leadership at NYSE:AVB with another large US real estate player, creating a new governance connection between the two companies. AvalonBay Communities, traded on the NYSE u\u2026",
-      "is_signal": false
+      "title": "Residential REITs See Easing Supply: Will AVB, EQR, ESS & UDR Gain in Q1?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/residential-reits-see-easing-supply-162900203.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 16:29:00 +0000",
+      "summary": "AVB, EQR, ESS and UDR are set to report Q1 2026 earnings in late April, as demand rebounds and apartment supply pressure starts easing.",
+      "is_signal": true
     },
     {
       "ticker": "ESS",
@@ -358,14 +369,14 @@
       "is_signal": true
     },
     {
-      "ticker": "ESS",
-      "company": "Essex Property Trust",
-      "source": "ESS",
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
       "category": "reit",
-      "title": "Essex Announces Release and Conference Call Dates for Its First Quarter 2026 Earnings",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/essex-announces-release-conference-call-201500442.html?.tsrc=rss",
-      "published": "Tue, 07 Apr 2026 20:15:00 +0000",
-      "summary": "SAN MATEO, Calif., April 07, 2026--Essex Property Trust, Inc. (NYSE:ESS) announced today that it plans to release its first quarter 2026 earnings after the market closes on Tuesday, April 28, 2026. A conference call with senior management is scheduled for Wednesday, April 29, 2026 at 10:00 a.m. Paci\u2026",
+      "title": "What's in Store for Mid-America Apartment Stock in Q1 Earnings?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/whats-store-mid-america-apartment-150200460.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 15:02:00 +0000",
+      "summary": "MAA to report Q1 2026 results on April 29. Renewals above 5% and 95%+ occupancy may offset weak new-lease pricing as Sun Belt supply eases.",
       "is_signal": true
     },
     {
@@ -402,15 +413,26 @@
       "is_signal": true
     },
     {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
       "category": "reit",
-      "title": "Is Mid-America Apartment Communities (MAA) Starting To Look Attractive After A 21% Share Price Slide",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/mid-america-apartment-communities-maa-210434767.html?.tsrc=rss",
-      "published": "Sat, 21 Mar 2026 21:04:34 +0000",
-      "summary": "If you are wondering whether Mid-America Apartment Communities is starting to look interesting at current levels, the key question is how its price stacks up against its underlying value. The stock last closed at US$121.79, with returns of a 3.6% decline over 7 days, 9.9% decline over 30 days, 12.5%\u2026",
-      "is_signal": false
+      "title": "Residential REITs See Easing Supply: Will AVB, EQR, ESS & UDR Gain in Q1?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/residential-reits-see-easing-supply-162900203.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 16:29:00 +0000",
+      "summary": "AVB, EQR, ESS and UDR are set to report Q1 2026 earnings in late April, as demand rebounds and apartment supply pressure starts easing.",
+      "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "UDR Set to Report Q1 Earnings: What's in Store for the Stock?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/udr-set-report-q1-earnings-143700727.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 14:37:00 +0000",
+      "summary": "UDR to report Q1 2026 results on April 29, after market close, as strong renewals, mid-96% occupancy and easing concessions set a steadier start to 2026.",
+      "is_signal": true
     },
     {
       "ticker": "UDR",
@@ -432,28 +454,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/udr-inc-named-top-workplace-201600915.html?.tsrc=rss",
       "published": "Thu, 09 Apr 2026 20:16:00 +0000",
       "summary": "DENVER, April 09, 2026--UDR, Inc. (the \"Company\") (NYSE: UDR), a leading multifamily real estate investment trust, announced today that it was recognized as a 2026 Top Workplace by USA Today and Energage, based on a variety of aspects that measure workplace culture and engagement. This follows UDR\u2019s\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "UDR, Inc. Announces Dates for First Quarter 2026 Earnings Release, Webcast, and Conference Call",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/udr-inc-announces-dates-first-201600958.html?.tsrc=rss",
-      "published": "Wed, 08 Apr 2026 20:16:00 +0000",
-      "summary": "DENVER, April 08, 2026--UDR, Inc. (the \"Company\") (NYSE: UDR), a leading multifamily real estate investment trust, announced today that it will release its first quarter 2026 financial results on Wednesday, April 29, 2026, after the market closes. A webcast and conference call will be held on Thursd\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "Earnings Preview: What To Expect From UDR, Inc.'s Report",
-      "link": "https://www.barchart.com/story/news/1173710/earnings-preview-what-to-expect-from-udr-inc-s-report?.tsrc=rss",
-      "published": "Tue, 07 Apr 2026 12:01:58 +0000",
-      "summary": "UDR, Inc. is expected to announce its first-quarter results this month, and analysts are projecting a single-digit rise in its EPS.",
       "is_signal": true
     },
     {
@@ -593,6 +593,17 @@
       "company": "Invitation Homes",
       "source": "INVH",
       "category": "reit",
+      "title": "Is Invitation Homes Inc. (INVH) A Good Stock To Buy Now?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-inc-invh-good-182733545.html?.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 18:27:33 +0000",
+      "summary": "Is INVH a good stock to buy? We came across a bullish thesis on Invitation Homes Inc. on Fidelcashflow\u2019s Substack by Canadian Cashflow. In this article, we will summarize the bulls\u2019 thesis on INVH. Invitation Homes Inc.\u2019s share was trading at $26.28 as of April 15th. INVH\u2019s trailing and forward P/E \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
       "title": "Is Invitation Homes Stock a Smart Buy Before Q1 Earnings Release?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-stock-smart-buy-131600885.html?.tsrc=rss",
       "published": "Thu, 23 Apr 2026 13:16:00 +0000",
@@ -619,17 +630,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-announces-dates-first-203000818.html?.tsrc=rss",
       "published": "Wed, 08 Apr 2026 20:30:00 +0000",
       "summary": "DALLAS, April 08, 2026--Invitation Homes Inc. (NYSE: INVH) (\"Invitation Homes,\" the \"Company,\" or \"our\"), the nation's premier single-family home leasing and management company, will release its first quarter 2026 financial and operating results on Wednesday, April 29, 2026, after the market closes.\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "source": "INVH",
-      "category": "reit",
-      "title": "Invitation Homes' Q1 2026 Earnings: What to Expect",
-      "link": "https://www.barchart.com/story/news/1183031/invitation-homes-q1-2026-earnings-what-to-expect?.tsrc=rss",
-      "published": "Tue, 07 Apr 2026 18:46:23 +0000",
-      "summary": "Invitation Homes is ready to announce its fiscal first-quarter earnings soon, and analysts project a single-digit FFO drop.",
       "is_signal": true
     },
     {
@@ -681,6 +681,17 @@
       "company": "Equity LifeStyle Properties",
       "source": "ELS",
       "category": "reit",
+      "title": "Equity Lifestyle Properties Q1 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/equity-lifestyle-properties-q1-earnings-call-highlights-2026-04-23/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Fri, 24 Apr 2026 02:06:21 +0000",
+      "summary": "Equity Lifestyle Properties (NYSE:ELS) reported first-quarter 2026 results that management said were consistent with expectations, highlighted by normalized funds from operations (FFO) of $0.84 per share and core portfolio net operating income (NOI) growth of 4.9% year-over-year. The company maintai",
+      "is_signal": true
+    },
+    {
+      "ticker": "ELS",
+      "company": "Equity LifeStyle Properties",
+      "source": "ELS",
+      "category": "reit",
       "title": "Equity Lifestyle Properties Inc (ELS) Q1 2026 Earnings Call Highlights: Strong Core Operations ...",
       "link": "https://finance.yahoo.com/markets/stocks/articles/equity-lifestyle-properties-inc-els-070520118.html?.tsrc=rss",
       "published": "Thu, 23 Apr 2026 07:05:20 +0000",
@@ -707,17 +718,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/equity-lifestyle-properties-els-matches-213502082.html?.tsrc=rss",
       "published": "Tue, 21 Apr 2026 21:35:02 +0000",
       "summary": "Equity Lifestyle Properties (ELS) delivered FFO and revenue surprises of +0.45% and -0.98%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "is_signal": true
-    },
-    {
-      "ticker": "ELS",
-      "company": "Equity LifeStyle Properties",
-      "source": "ELS",
-      "category": "reit",
-      "title": "ELS Reports First Quarter Results",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/els-reports-first-quarter-results-201700094.html?.tsrc=rss",
-      "published": "Tue, 21 Apr 2026 20:17:00 +0000",
-      "summary": "Equity LifeStyle Properties, Inc. (NYSE: ELS) (referred to herein as \"we,\" \"us,\" and \"our\") today announced results for the quarter ended March 31, 2026. All per share results are reported on a fully diluted basis unless otherwise noted.",
       "is_signal": true
     },
     {
@@ -813,10 +813,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Retirement confidence declines as worries grow over Social Security, rising expenses",
-      "link": "https://www.housingwire.com/articles/retirement-confidence-declines-as-worries-grow-over-social-security-rising-expenses/",
-      "published": "Thu, 23 Apr 2026 21:11:50 +0000",
-      "summary": "Worker confidence fell 6 percentage points from 2025 to 61%, while retiree confidence fell 5 percentage points to 73%.",
+      "title": "How two LOs helped champion proprietary reverse mortgage legislation in Tennessee",
+      "link": "https://www.housingwire.com/articles/tennessee-proprietary-reverse-mortgages/",
+      "published": "Fri, 24 Apr 2026 21:21:23 +0000",
+      "summary": "Tennessee bill to allow proprietary reverse mortgages expands options beyond HECMs and their $1.25 million limit for 2026.",
       "is_signal": false
     },
     {
@@ -824,32 +824,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Reverse Focus co-founder and HECMWorld editor Shannon Hicks to join HighTechLending",
-      "link": "https://www.housingwire.com/articles/reverse-focus-cofounder-shannon-hicks-joins-hightechlending-ai-expansion/",
-      "published": "Thu, 23 Apr 2026 20:52:38 +0000",
-      "summary": "Reverse Focus co-founder and longtime HECMWorld editor Shannon Hicks announced Thursday that he will leave the reverse mortgage technology and media firm on May 1 to become chief content officer at HighTechLending.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Newark housing market outpaces cooling New Jersey",
-      "link": "https://www.housingwire.com/articles/newark-housing-market-outpaces-cooling-new-jersey/",
-      "published": "Thu, 23 Apr 2026 20:28:26 +0000",
-      "summary": "Newark recorded a 7.66% year-over-year increase in median price for single-family homes as of April 18, while the state median fell 0.79%.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "California court curbs Coastal Commission on building permits",
-      "link": "https://www.housingwire.com/articles/california-court-curbs-coastal-commission-on-building-permits/",
-      "published": "Thu, 23 Apr 2026 20:20:49 +0000",
-      "summary": "A California home builder sought to build three additional houses on lots it had owned for more than two decades in a coastal county. That should have been easy. It had already built four nearby homes. But it wasn&#8217;t. Years of court hearings followed when a state agency overrode San Luis Obispo\u2026",
+      "title": "Pritzker\u2019s honor: Illinois housing reform fight intensifies",
+      "link": "https://www.housingwire.com/articles/illinois-pritzker-housing-reform-fight/",
+      "published": "Fri, 24 Apr 2026 21:17:46 +0000",
+      "summary": "The fight over Illinois Gov. J.B. Pritzker&#8217;s sweeping housing reform agenda is intensifying as both sides harden their positions. Supporters and detractors by the thousands delivered their opening arguments Thursday at the first major hearing on Pritzker&#8217;s six-bill package. Pritzker&#821\u2026",
       "is_signal": true
     },
     {
@@ -857,10 +835,32 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Cotality hires industry veteran Jason Nicosia to lead national real estate solutions",
-      "link": "https://www.housingwire.com/articles/jason-nicosia-joins-cotality/",
-      "published": "Thu, 23 Apr 2026 20:13:38 +0000",
-      "summary": "Cotality hires Jason Nicosia as senior principal of national real estate solutions to advise enterprise real estate clients on tech strategy.",
+      "title": "PulteGroup targets margin stability through an upward mix shift",
+      "link": "https://www.housingwire.com/articles/pultegroup-earnings-q1-2026/",
+      "published": "Fri, 24 Apr 2026 20:59:31 +0000",
+      "summary": "PulteGroup's Q1 2026 ASP fell 5% to $542,000, incentives rose to 10.9%, and gross margin declined to 24.4%.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Meritage Q1 2026 shows why incentives are the new battlefield",
+      "link": "https://www.housingwire.com/articles/meritage-q1-2026-earnings/",
+      "published": "Fri, 24 Apr 2026 20:32:13 +0000",
+      "summary": "The mid-spring earnings cycle has produced a common-language reality check for America\u2019s public homebuilders: the operating backdrop worsened faster than many management teams expected. In such a context of nearly-universal challenge, doing less-worse may count as a win. Meritage Homes\u2019 Q1 2026 numb\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "First-time homebuyer\u2019s shrinking presence \u2014 what it means for real estate agents",
+      "link": "https://www.housingwire.com/articles/first-time-homebuyers-shrinking-presence-what-it-means-for-real-estate-agents/",
+      "published": "Fri, 24 Apr 2026 20:04:16 +0000",
+      "summary": "The trends is reshaping how agents build their businesses, talk about value and prepare for a future without traditional buyer pipelines.",
       "is_signal": false
     },
     {
@@ -954,6 +954,17 @@
     {
       "ticker": null,
       "company": null,
+      "source": "ABC News (AU)",
+      "category": "broad",
+      "title": "This family's eviction exposes a complex tussle between renters and landlords",
+      "link": "https://www.abc.net.au/news/2026-04-23/no-grounds-evictions-complex-tussle-between-renters-landlords/106590476",
+      "published": "2026-04-23T04:46:18Z",
+      "summary": "Evicting a tenant without cause offers landlords a simple way out, but the issue can be much more complex than it appears. One such example of that complexity is Eleanor Kahlo's case of her no-grounds eviction.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "Yahoo Entertainment",
       "category": "broad",
       "title": "Dave Ramsey Helped Him Become A Millionaire By 28. Now He Is Asking For Another Advice About A Creepy Neighbor. 'Go Rent An $800,000 House'",
@@ -987,23 +998,12 @@
     {
       "ticker": null,
       "company": null,
-      "source": "The Real Deal",
-      "category": "broad",
-      "title": "Bluenest, Related Group, Swerdlow are top donors to Miami-Dade politicians",
-      "link": "https://therealdeal.com/miami/2026/04/14/bluenest-related-group-swerdlow-are-top-miami-dade-donors/",
-      "published": "2026-04-14T18:10:15Z",
-      "summary": "Bluenest Development, a relative newcomer to South Florida real estate that needs Miami-Dade approvals for its workforce housing projects, is the top donor to county politicians so far this year.\u00a0 Bluenest, led by brothers Salim and Kamil Chraibi, gave more t\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
       "source": "GlobeNewswire",
       "category": "broad",
-      "title": "Press Release: Sanofi and Regeneron\u2019s Dupixent approved in the US as the first biologic medicine for young children with uncontrolled chronic spontaneous urticaria",
-      "link": "https://www.globenewswire.com/news-release/2026/04/22/3279472/0/en/Press-Release-Sanofi-and-Regeneron-s-Dupixent-approved-in-the-US-as-the-first-biologic-medicine-for-young-children-with-uncontrolled-chronic-spontaneous-urticaria.html",
-      "published": "2026-04-22T21:30:00Z",
-      "summary": "Sanofi and Regeneron\u2019s Dupixent approved in the US as the first biologic medicine for young children with uncontrolled chronic spontaneous urticaria ...",
+      "title": "Proposed Federal Budget Maintaining Current Pell Funding Is a Start: Increased funding needed to provide college access for Native students",
+      "link": "https://www.globenewswire.com/news-release/2026/04/23/3280457/0/en/Proposed-Federal-Budget-Maintaining-Current-Pell-Funding-Is-a-Start-Increased-funding-needed-to-provide-college-access-for-Native-students.html",
+      "published": "2026-04-23T21:49:00Z",
+      "summary": "Denver, Colo., April 23, 2026 (GLOBE NEWSWIRE) -- The\u00a0Trump administration\u2019s Fiscal Year (FY) 2027 budget proposal\u00a0maintains\u00a0the\u00a0maximum\u00a0Pell Grant of $7,395 and provides adequate funding to address the current funding shortfall (read the\u00a0U.S. Department of E\u2026",
       "is_signal": false
     }
   ],
