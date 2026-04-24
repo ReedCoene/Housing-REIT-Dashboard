@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24T22:06:29.534412+00:00",
+  "last_updated": "2026-04-24T22:11:32.689098+00:00",
   "market_date": "April 24, 2026",
   "stocks": {
     "EQR": {
@@ -9,7 +9,7 @@
       "prev_close": 62.65,
       "pct_change": -0.62,
       "market_cap": 23327248384,
-      "dividend_yield": 4.49,
+      "dividend_yield": 0,
       "fifty_two_week_high": 72.4,
       "fifty_two_week_low": 57.57,
       "next_earnings": "2026-04-28"
@@ -33,7 +33,7 @@
       "prev_close": 255.06,
       "pct_change": 0.12,
       "market_cap": 16465523712,
-      "dividend_yield": 4.04,
+      "dividend_yield": 0,
       "fifty_two_week_high": 294.09,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-04-28"
@@ -81,7 +81,7 @@
       "prev_close": 15.85,
       "pct_change": -0.38,
       "market_cap": 3840474112,
-      "dividend_yield": 4.29,
+      "dividend_yield": 0,
       "fifty_two_week_high": 19.83,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-04-29"
@@ -93,7 +93,7 @@
       "prev_close": 30.61,
       "pct_change": -0.2,
       "market_cap": 11113960448,
-      "dividend_yield": 4.02,
+      "dividend_yield": 0,
       "fifty_two_week_high": 39.49,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-05-06"
@@ -205,7 +205,7 @@
       "prev_close": 62.65,
       "pct_change": -0.62,
       "market_cap": 23327248384,
-      "dividend_yield": 4.49,
+      "dividend_yield": 0,
       "fifty_two_week_high": 72.4,
       "fifty_two_week_low": 57.57,
       "next_earnings": "2026-04-28"
