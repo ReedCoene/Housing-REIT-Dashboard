@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27T22:11:47.678135+00:00",
+  "last_updated": "2026-04-27T22:28:19.126918+00:00",
   "market_date": "April 27, 2026",
   "stocks": {
     "EQR": {
@@ -813,6 +813,17 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
+      "title": "Smart home technology continues to emerge as key tool for aging in place",
+      "link": "https://www.housingwire.com/articles/smart-home-technology-aging-in-place/",
+      "published": "Mon, 27 Apr 2026 22:21:06 +0000",
+      "summary": "Experts say that financing these upgrades remains a central challenge \u2014 one that could increasingly be addressed through housing wealth.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
       "title": "Century\u2019s spec and land optionality model zigs as others zag",
       "link": "https://www.housingwire.com/articles/century-communities-earnings-q1-2026/",
       "published": "Mon, 27 Apr 2026 21:03:33 +0000",
@@ -850,17 +861,6 @@
       "link": "https://www.housingwire.com/articles/housing-demand-regime-shift/",
       "published": "Mon, 27 Apr 2026 17:46:27 +0000",
       "summary": "The Changing Landscape \u201cThis is not a forecast. A forecast is a prediction, the validity of which my ego and I are professionally responsible for. What I offer here is speculation \u2013 something that is likely enough to write about but not so likely that my ego hangs in the balance.\u201d \u2013 George Friedman \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "\u2018Off to the races\u2019: Real, REMAX CEOs on tech and culture after acquisition",
-      "link": "https://www.housingwire.com/articles/real-brokerage-max-ceo-poleg-carlson-tech-culture-acquisition/",
-      "published": "Mon, 27 Apr 2026 16:37:59 +0000",
-      "summary": "In an interview with HousingWire, leaders said talks between the two companies accelerated recently but were rooted in years of respect.",
       "is_signal": true
     },
     {
