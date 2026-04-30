@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T22:15:03.511562+00:00",
+  "last_updated": "2026-04-30T22:30:02.060427+00:00",
   "market_date": "April 30, 2026",
   "stocks": {
     "EQR": {
@@ -1004,17 +1004,6 @@
       "link": "https://www.techradar.com/pro/prompts-now-pollutants-later-report-claims-data-centers-are-harming-the-environment-to-the-tune-of-usd25-billion-and-inducing-a-debt-on-the-health-of-current-and-future-generations",
       "published": "2026-04-29T22:05:00Z",
       "summary": "Data center construction and expansion is causing third-party environmental and health costs, and could be damaging future generations before they are even born.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Freerepublic.com",
-      "category": "broad",
-      "title": "New Vatican document urges Catholic families to \u2018ecological conversion\u2019",
-      "link": "https://freerepublic.com/focus/f-religion/4376939/posts",
-      "published": "2026-04-29T21:40:50Z",
-      "summary": "New Vatican document urges Catholic families to \u2018ecological conversion\u2019Two Vatican dicasteries released a joint document calling upon Catholic families to embrace \u2018integral ecology,\u2019 drawing a direct line between environmental practice and moral formation.A n\u2026",
       "is_signal": false
     }
   ],
