@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T22:12:15.573146+00:00",
+  "last_updated": "2026-05-06T22:26:53.642506+00:00",
   "market_date": "May 06, 2026",
   "stocks": {
     "EQR": {
@@ -993,6 +993,17 @@
       "link": "https://www.whitecoatinvestor.com/real-estate-investing-mistakes-doctors-should-avoid-469/",
       "published": "2026-04-30T06:30:16Z",
       "summary": "Answering listener questions about comparing REITs and syndications, how to spot red flags in private deals before you commit your money, and how to avoid PMI when buying a home. \nThe post Real Estate Investing Mistakes Doctors Should Avoid appeared first on \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Fox News",
+      "category": "broad",
+      "title": "ICE deports illegal immigrant convicted of attempting to kill newborn after blue state prison release",
+      "link": "https://www.foxnews.com/politics/ice-deports-illegal-immigrant-convicted-attempting-kill-newborn-after-blue-state-prison-release",
+      "published": "2026-05-05T22:13:21Z",
+      "summary": "DHS confirms deportation of illegal immigrant woman convicted of attempting to murder her newborn on Long Island after serving eight years in prison.",
       "is_signal": false
     },
     {
