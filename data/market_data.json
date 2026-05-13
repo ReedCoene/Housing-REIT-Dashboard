@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T22:42:34.678720+00:00",
+  "last_updated": "2026-05-13T22:47:49.747673+00:00",
   "market_date": "May 13, 2026",
   "stocks": {
     "EQR": {
@@ -1015,17 +1015,6 @@
       "link": "https://nypost.com/2026/05/12/us-news/illegal-migrant-nabbed-for-setting-string-of-dangerous-fires-on-long-island-turned-over-to-ice-as-charges-not-bail-eligible-officials/",
       "published": "2026-05-12T22:19:17Z",
       "summary": "Nassau County District Attorney Anne Donnelly blasted New York\u2019s bail reform laws during an afternoon press conference \u2013 adding that loopholes are needed to detail illegal migrants released without bail.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "NBC News",
-      "category": "broad",
-      "title": "FBI interviewing CIA officers in Brennan investigation",
-      "link": "https://www.nbcnews.com/politics/national-security/fbi-interviewing-cia-officers-brennan-investigation-rcna344817",
-      "published": "2026-05-12T22:08:00Z",
-      "summary": "The FBI is conducting interviews with current and former CIA officers as part of an investigation into ex-CIA director John Brennan",
       "is_signal": false
     }
   ],
