@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15T22:15:17.746328+00:00",
+  "last_updated": "2026-05-15T22:31:59.479554+00:00",
   "market_date": "May 15, 2026",
   "stocks": {
     "EQR": {
@@ -983,17 +983,6 @@
       "published": "2026-05-14T22:05:15Z",
       "summary": "They reasoned the name change was necessary because Canada's first prime minister had a role in founding the residential school system",
       "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "PRNewswire",
-      "category": "broad",
-      "title": "Tareen Development Partners acquires 286-unit Afton View Apartments in St. Paul",
-      "link": "https://www.prnewswire.com/news-releases/tareen-development-partners-acquires-286-unit-afton-view-apartments-in-st-paul-302772948.html",
-      "published": "2026-05-14T21:57:00Z",
-      "summary": "SAINT PAUL, Minn., May 14, 2026 /PRNewswire/ -- Tareen Development Partners (TDP) is pleased to announce the successful acquisition of Afton View Apartments, a 286-unit housing community located in St. Paul, MN. This is TDP's third affordable housing acquisit\u2026",
-      "is_signal": true
     }
   ],
   "weekly_report": null,
