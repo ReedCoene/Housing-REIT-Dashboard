@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T22:36:35.070655+00:00",
-  "market_date": "May 22, 2026",
+  "last_updated": "2026-05-25T22:32:34.880794+00:00",
+  "market_date": "May 25, 2026",
   "stocks": {
     "EQR": {
       "name": "Equity Residential",
@@ -8,8 +8,8 @@
       "price": 66.2,
       "prev_close": 65.76,
       "pct_change": 0.67,
-      "market_cap": 25575413760,
-      "dividend_yield": 4.27,
+      "market_cap": 25578090496,
+      "dividend_yield": 4.24,
       "fifty_two_week_high": 70.31,
       "fifty_two_week_low": 57.57,
       "next_earnings": "2026-04-28"
@@ -21,7 +21,7 @@
       "prev_close": 184.11,
       "pct_change": 0.84,
       "market_cap": 26338547712,
-      "dividend_yield": 3.87,
+      "dividend_yield": 3.84,
       "fifty_two_week_high": 209.86,
       "fifty_two_week_low": 160.1,
       "next_earnings": "2026-04-27"
@@ -33,7 +33,7 @@
       "prev_close": 273.8,
       "pct_change": 1.06,
       "market_cap": 19071879168,
-      "dividend_yield": 3.78,
+      "dividend_yield": 3.74,
       "fifty_two_week_high": 294.09,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-07-28"
@@ -45,7 +45,7 @@
       "prev_close": 130.01,
       "pct_change": 0.87,
       "market_cap": 15648495616,
-      "dividend_yield": 4.71,
+      "dividend_yield": 4.67,
       "fifty_two_week_high": 156.76,
       "fifty_two_week_low": 120.3,
       "next_earnings": "2026-07-29"
@@ -57,7 +57,7 @@
       "prev_close": 37.51,
       "pct_change": 1.33,
       "market_cap": 14083299328,
-      "dividend_yield": 4.61,
+      "dividend_yield": 4.55,
       "fifty_two_week_high": 42.22,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-07-29"
@@ -69,7 +69,7 @@
       "prev_close": 106.17,
       "pct_change": 1.22,
       "market_cap": 10649266176,
-      "dividend_yield": 3.99,
+      "dividend_yield": 3.95,
       "fifty_two_week_high": 119.0,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-07-30"
@@ -81,7 +81,7 @@
       "prev_close": 16.79,
       "pct_change": 0.42,
       "market_cap": 4074325760,
-      "dividend_yield": 4.11,
+      "dividend_yield": 4.09,
       "fifty_two_week_high": 18.74,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-07-29"
@@ -93,7 +93,7 @@
       "prev_close": 32.11,
       "pct_change": 0.5,
       "market_cap": 13254340608,
-      "dividend_yield": 4.11,
+      "dividend_yield": 4.09,
       "fifty_two_week_high": 38.01,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-07-30"
@@ -105,7 +105,7 @@
       "prev_close": 29.03,
       "pct_change": 0.9,
       "market_cap": 17399490560,
-      "dividend_yield": 4.13,
+      "dividend_yield": 4.1,
       "fifty_two_week_high": 34.25,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-07-29"
@@ -117,7 +117,7 @@
       "prev_close": 126.29,
       "pct_change": 1.16,
       "market_cap": 16334218240,
-      "dividend_yield": 3.36,
+      "dividend_yield": 3.32,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 115.53,
       "next_earnings": "2026-04-27"
@@ -129,7 +129,7 @@
       "prev_close": 63.06,
       "pct_change": 0.78,
       "market_cap": 12734394368,
-      "dividend_yield": 3.44,
+      "dividend_yield": 3.41,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.15,
       "next_earnings": "2026-07-20"
@@ -141,7 +141,7 @@
       "prev_close": 27.55,
       "pct_change": 0.29,
       "market_cap": 4587904000,
-      "dividend_yield": 11.03,
+      "dividend_yield": 11.0,
       "fifty_two_week_high": 36.0,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-05-06"
@@ -153,7 +153,7 @@
       "prev_close": 29.51,
       "pct_change": 0.78,
       "market_cap": 1532961024,
-      "dividend_yield": 7.18,
+      "dividend_yield": 7.13,
       "fifty_two_week_high": 35.22,
       "fifty_two_week_low": 23.79,
       "next_earnings": "2026-07-28"
@@ -167,7 +167,7 @@
       "prev_close": 37.51,
       "pct_change": 1.33,
       "market_cap": 14083299328,
-      "dividend_yield": 4.61,
+      "dividend_yield": 4.55,
       "fifty_two_week_high": 42.22,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-07-29"
@@ -179,7 +179,7 @@
       "prev_close": 106.17,
       "pct_change": 1.22,
       "market_cap": 10649266176,
-      "dividend_yield": 3.99,
+      "dividend_yield": 3.95,
       "fifty_two_week_high": 119.0,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-07-30"
@@ -191,7 +191,7 @@
       "prev_close": 126.29,
       "pct_change": 1.16,
       "market_cap": 16334218240,
-      "dividend_yield": 3.36,
+      "dividend_yield": 3.32,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 115.53,
       "next_earnings": "2026-04-27"
@@ -205,7 +205,7 @@
       "prev_close": 32.11,
       "pct_change": 0.5,
       "market_cap": 13254340608,
-      "dividend_yield": 4.11,
+      "dividend_yield": 4.09,
       "fifty_two_week_high": 38.01,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-07-30"
@@ -217,7 +217,7 @@
       "prev_close": 16.79,
       "pct_change": 0.42,
       "market_cap": 4074325760,
-      "dividend_yield": 4.11,
+      "dividend_yield": 4.09,
       "fifty_two_week_high": 18.74,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-07-29"
@@ -229,7 +229,7 @@
       "prev_close": 27.55,
       "pct_change": 0.29,
       "market_cap": 4587904000,
-      "dividend_yield": 11.03,
+      "dividend_yield": 11.0,
       "fifty_two_week_high": 36.0,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-05-06"
@@ -285,6 +285,17 @@
       "company": "AvalonBay Communities",
       "source": "AVB",
       "category": "reit",
+      "title": "Do Wall Street Analysts Like AvalonBay Communities Stock?",
+      "link": "https://www.barchart.com/story/news/2114933/do-wall-street-analysts-like-avalonbay-communities-stock?.tsrc=rss",
+      "published": "Mon, 25 May 2026 12:15:50 +0000",
+      "summary": "AvalonBay Communities has underperformed the broader market over the past year, and analysts remain moderately optimistic about the stock\u2019s prospects.",
+      "is_signal": false
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
       "title": "How Will the AvalonBay and Equity Residential Merger Affect Investors?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-equity-residential-merger-affect-155700714.html?.tsrc=rss",
       "published": "Thu, 21 May 2026 15:57:00 +0000",
@@ -311,17 +322,6 @@
       "link": "https://qz.com/avalonbay-equity-residential-merger-69-billion-052126?.tsrc=rss",
       "published": "Thu, 21 May 2026 13:22:20 +0000",
       "summary": "The all-stock combination of the two apartment REITs would create a company with more than 180,000 rental units across the U.S.",
-      "is_signal": true
-    },
-    {
-      "ticker": "AVB",
-      "company": "AvalonBay Communities",
-      "source": "AVB",
-      "category": "reit",
-      "title": "AvalonBay Communities and Equity Residential Announce Merger of Equals, Creating One of the Country's Leading Real Estate Companies",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-communities-equity-residential-announce-100000272.html?.tsrc=rss",
-      "published": "Thu, 21 May 2026 10:00:00 +0000",
-      "summary": "CHICAGO & ARLINGTON, Va., May 21, 2026--Equity Residential (NYSE: EQR) and AvalonBay Communities, Inc. (NYSE: AVB) today announced a definitive agreement to combine in an all-stock merger of equals creating one of the country's leading real estate companies with the differentiated scale, capabilitie\u2026",
       "is_signal": true
     },
     {
@@ -373,6 +373,28 @@
       "company": "Mid-America Apartment",
       "source": "MAA",
       "category": "reit",
+      "title": "Mid-America Apartment Communities (MAA) Faces Lower Rent Growth Expectations, Scotiabank Says",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mid-america-apartment-communities-maa-221217490.html?.tsrc=rss",
+      "published": "Sun, 24 May 2026 22:12:17 +0000",
+      "summary": "With an annual dividend yield of 4.66%, Mid-America Apartment Communities, Inc. (NYSE:MAA) is included among the 10 High Yield Stocks for Lasting Retirement Income. Top 100 Places Where the Rich People Own Real Estate On May 14, Scotiabank downgraded Mid-America Apartment Communities, Inc. (NYSE:MAA\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "Is Mid-America Apartment Communities (MAA) Offering Value After Recent Share Price Rebound?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/mid-america-apartment-communities-maa-151204612.html?.tsrc=rss",
+      "published": "Sat, 23 May 2026 15:12:04 +0000",
+      "summary": "If you are wondering whether Mid-America Apartment Communities at around US$131 a share is offering fair value or a potential mismatch between price and fundamentals, this breakdown is designed to help you frame that question clearly. The stock has risen 4.3% over the past week and 5.3% over the pas\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
       "title": "MAA Announces Quarterly Common Dividend",
       "link": "https://finance.yahoo.com/markets/stocks/articles/maa-announces-quarterly-common-dividend-201500784.html?.tsrc=rss",
       "published": "Tue, 19 May 2026 20:15:00 +0000",
@@ -389,28 +411,6 @@
       "published": "Thu, 14 May 2026 14:56:46 +0000",
       "summary": "The iShares Residential and Multisector Real Estate ETF (NYSEARCA:REZ) targets income investors seeking exposure to apartments, healthcare facilities, and self-storage properties in a single ticker. One correction: REZ pays quarterly, not monthly. The most recent declaration was a $0.5188 per share \u2026",
       "is_signal": true
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
-      "title": "Starbucks upgraded, Doximity downgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html?.tsrc=rss",
-      "published": "Thu, 14 May 2026 13:45:11 +0000",
-      "summary": "Starbucks upgraded, Doximity downgraded: Wall Street's top analyst calls",
-      "is_signal": true
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
-      "title": "Gasoline Prices Aren\u2019t the Only Inflation Threat. Watch Housing Costs.",
-      "link": "https://finance.yahoo.com/m/d4db5ad7-1307-357d-82c1-649fa3339801/gasoline-prices-aren%E2%80%99t-the.html?.tsrc=rss",
-      "published": "Mon, 11 May 2026 10:03:00 +0000",
-      "summary": "Economists say distortions tied to the 2025 government shutdown could cause shelter inflation to accelerate in April, complicating the Federal Reserve\u2019s fight against rising prices.",
-      "is_signal": false
     },
     {
       "ticker": "UDR",
@@ -593,6 +593,17 @@
       "company": "Invitation Homes",
       "source": "INVH",
       "category": "reit",
+      "title": "INVH Stock Up 11.4% in Three Months: Will the Momentum Last?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invh-stock-11-4-three-140500480.html?.tsrc=rss",
+      "published": "Mon, 25 May 2026 14:05:00 +0000",
+      "summary": "Invitation Homes outpaces its industry as leasing trends, asset-light growth and tech-driven income gains support momentum, even as supply risks weigh.",
+      "is_signal": true
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
       "title": "The Houe Housing Bill Is a Welcome Turn for Blackstone and Other Institutional Investors",
       "link": "https://finance.yahoo.com/m/649d95b0-7d8c-30f6-aba0-3ce54d7eaaa1/the-houe-housing-bill-is-a.html?.tsrc=rss",
       "published": "Mon, 18 May 2026 20:22:00 +0000",
@@ -619,17 +630,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/time-reassess-invitation-homes-invh-211236494.html?.tsrc=rss",
       "published": "Sun, 17 May 2026 21:12:36 +0000",
       "summary": "Investors may be wondering whether Invitation Homes at around US$27.93 is starting to look like a bargain or still has room to fall further on valuation grounds. The stock is up 3.3% over the past month and 0.8% year to date, but has declined 2.8% over the last week and is down 15.4% over the past y\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "source": "INVH",
-      "category": "reit",
-      "title": "This Senior Living Stock Is Up 45%. One Investor Just Doubled Down With $179 Million",
-      "link": "https://www.fool.com/coverage/filings/2026/05/16/this-senior-living-stock-is-up-45-one-investor-just-doubled-down-with-usd179-million/?.tsrc=rss",
-      "published": "Sat, 16 May 2026 17:38:38 +0000",
-      "summary": "Sonida Senior Living runs senior housing communities nationwide, providing independent living, assisted living, and memory care services.",
       "is_signal": false
     },
     {
@@ -813,10 +813,21 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "As HEI regulations expand, states debate loan classification",
-      "link": "https://www.housingwire.com/articles/hei-loan-classification-states/",
-      "published": "Fri, 22 May 2026 20:45:44 +0000",
-      "summary": "State HEI legislation is expanding as Maine sets standards, Illinois updates licensing and other states debate whether HEIs are loans.",
+      "title": "What happens to mortgage rates if the Iran conflict is over?",
+      "link": "https://www.housingwire.com/articles/what-happens-to-mortgage-rates-if-the-iran-conflict-is-over/",
+      "published": "Mon, 25 May 2026 18:12:20 +0000",
+      "summary": "Getting the 10-year yield and mortgage rates to pre-conflict lows will be harder than people think even if this conflict is truly over.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Clients are interviewing real estate agents differently. Here\u2019s what they\u2019re really looking for",
+      "link": "https://www.housingwire.com/articles/clients-want-advisors-real-estate-agents/",
+      "published": "Mon, 25 May 2026 13:57:11 +0000",
+      "summary": "Clients are choosing real estate agents based on listening, candor, and steady follow-up, as uncertainty raises the bar for service.",
       "is_signal": true
     },
     {
@@ -824,10 +835,21 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "HouseAmerica Financial joins All Western Mortgage",
-      "link": "https://www.housingwire.com/articles/all-western-houseamerica-expansion/",
-      "published": "Fri, 22 May 2026 20:14:06 +0000",
-      "summary": "HouseAmerica Financial joins All Western Mortgage, a $500M lender, as AWM targets $3B in 2026 funding and expands in California.",
+      "title": "New federal funding a mixed bag for housing programs",
+      "link": "https://www.housingwire.com/articles/new-federal-funding-a-mixed-bag-for-housing-programs/",
+      "published": "Mon, 25 May 2026 10:45:55 +0000",
+      "summary": "Just under $35 billion is provided for HUD\u2019s tenant-based rental assistance account \u2014 commonly known as the Housing Choice Voucher Program.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Meet the AI platform giving every agent a personal coach",
+      "link": "https://www.housingwire.com/articles/meet-the-ai-platform-giving-every-agent-a-personal-coach/",
+      "published": "Mon, 25 May 2026 10:26:28 +0000",
+      "summary": "With 12 coaching personas covering everything from objection handling to mindset, Power Mentor gives every agent access to an AI coach.",
       "is_signal": false
     },
     {
@@ -835,33 +857,11 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "House passes bill hiking VA mortgage refi fees to fund expanded veterans\u2019 benefits",
-      "link": "https://www.housingwire.com/articles/hr-6047-va-loan-fees/",
-      "published": "Fri, 22 May 2026 20:04:06 +0000",
-      "summary": "The U.S. House of Representatives on Thursday passed a bill that increases benefits for veterans and their surviving families, offsetting the cost by raising fees on VA refinance transactions.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Judge orders MRED to restore Zillow listing feeds in Chicago",
-      "link": "https://www.housingwire.com/articles/judge-restores-zillow-mred-feeds/",
-      "published": "Fri, 22 May 2026 19:54:07 +0000",
-      "summary": "Judge John Tharp Jr. granted Zillow\u2019s injunction, restoring MRED IDX and VOW feeds after a cutoff affecting about 43,000 listings.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "California MBA backs $100M fund in governor\u2019s budget proposal for wildfire rebuilding",
-      "link": "https://www.housingwire.com/articles/california-mba-backs-100-million-southern-california-rebuild-fund/",
-      "published": "Fri, 22 May 2026 19:46:53 +0000",
-      "summary": "The proposed funding is designed to expand access to construction financing for homeowners affected by last year's Southern California wildfires by helping to bridge the gap between insurance payouts and actual rebuilding costs.",
-      "is_signal": false
+      "title": "Atlas VMS\u2019s Erik Morin on HECM second appraisals, AIM-Port acquisition",
+      "link": "https://www.housingwire.com/articles/hecm-second-appraisals-atlas-vms/",
+      "published": "Mon, 25 May 2026 10:00:00 +0000",
+      "summary": "Atlas VMS says 8.3% of HECM loans needed a second appraisal in Q1 2026 versus 10.4% in Q4 2025, adding cost and time.",
+      "is_signal": true
     },
     {
       "ticker": null,
@@ -943,35 +943,24 @@
     {
       "ticker": null,
       "company": null,
-      "source": "PRNewswire",
+      "source": "Motley Fool Australia",
       "category": "broad",
-      "title": "CREFC Statement on Passage of House Amendment to the 21st Century ROAD to Housing Act (H.R. 6644)",
-      "link": "https://www.prnewswire.com/news-releases/crefc-statement-on-passage-of-house-amendment-to-the-21st-century-road-to-housing-act-hr-6644-302778208.html",
-      "published": "2026-05-20T21:03:00Z",
-      "summary": "NEW YORK, May 20, 2026 /PRNewswire/ -- The CRE Finance Council (CREFC) applauds Congress for its efforts to advance legislation aimed at expanding housing supply and improving affordability. We believe these objectives are best achieved through policies that \u2026",
+      "title": "Australia is 180,000 homes short of its 2029 target. Here's 3 ASX shares that could benefit",
+      "link": "https://www.fool.com.au/2026/05/25/australia-is-180000-homes-short-of-its-2029-target-heres-3-asx-shares-that-could-benefit/",
+      "published": "2026-05-24T22:15:00Z",
+      "summary": "The shortfall may be a tailwind for ASX-listed companies that develop, build, and supply the Australian housing market.\nThe post Australia is 180,000 homes short of its 2029 target. Here's 3 ASX shares that could benefit appeared first on The Motley Fool Aust\u2026",
       "is_signal": true
     },
     {
       "ticker": null,
       "company": null,
-      "source": "Commercial Observer",
+      "source": "Yahoo Entertainment",
       "category": "broad",
-      "title": "Build-to-Rent Investors Catch a Break in U.S. House Bill",
-      "link": "http://commercialobserver.com/2026/05/build-to-rent-housing-affordability-bill/",
-      "published": "2026-05-20T18:44:05Z",
-      "summary": "The U.S. House of Representatives approved a revised bipartisan housing affordability bill Wednesday. The final version addressed commercial real estate concerns about restrictions to build-to-rent (BTR) projects in the initial legislation. The amended House \u2026",
+      "title": "Mid-America Apartment Communities (MAA) Faces Lower Rent Growth Expectations, Scotiabank Says",
+      "link": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_621a38f5-fcc2-479b-94ba-836381f7285b",
+      "published": "2026-05-24T22:12:17Z",
+      "summary": "",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Crypto Briefing",
-      "category": "broad",
-      "title": "US House passes bill to limit large investors in housing, includes stealth CBDC ban",
-      "link": "https://cryptobriefing.com/house-passes-housing-investor-cbdc-bill/",
-      "published": "2026-05-20T18:13:47Z",
-      "summary": "The bill's passage could reshape housing market dynamics and bolster private stablecoins by delaying federal digital currency competition.\nThe post US House passes bill to limit large investors in housing, includes stealth CBDC ban appeared first on Crypto Br\u2026",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
