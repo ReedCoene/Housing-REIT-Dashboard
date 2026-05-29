@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T22:51:03.758621+00:00",
+  "last_updated": "2026-05-29T22:52:35.160480+00:00",
   "market_date": "May 29, 2026",
   "stocks": {
     "EQR": {
@@ -86,6 +86,18 @@
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-07-29"
     },
+    "AMH": {
+      "name": "American Homes 4 Rent",
+      "ticker": "AMH",
+      "price": 32.08,
+      "prev_close": 31.99,
+      "pct_change": 0.28,
+      "market_cap": 13176301568,
+      "dividend_yield": 4.13,
+      "fifty_two_week_high": 38.01,
+      "fifty_two_week_low": 27.22,
+      "next_earnings": "2026-07-30"
+    },
     "INVH": {
       "name": "Invitation Homes",
       "ticker": "INVH",
@@ -149,6 +161,18 @@
   },
   "top_gainers": [
     {
+      "name": "American Homes 4 Rent",
+      "ticker": "AMH",
+      "price": 32.08,
+      "prev_close": 31.99,
+      "pct_change": 0.28,
+      "market_cap": 13176301568,
+      "dividend_yield": 4.13,
+      "fifty_two_week_high": 38.01,
+      "fifty_two_week_low": 27.22,
+      "next_earnings": "2026-07-30"
+    },
+    {
       "name": "MRP Group",
       "ticker": "MRP",
       "price": 28.22,
@@ -171,18 +195,6 @@
       "fifty_two_week_high": 34.25,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-07-29"
-    },
-    {
-      "name": "Equity LifeStyle Properties",
-      "ticker": "ELS",
-      "price": 61.77,
-      "prev_close": 62.24,
-      "pct_change": -0.76,
-      "market_cap": 12377710592,
-      "dividend_yield": 3.49,
-      "fifty_two_week_high": 69.0,
-      "fifty_two_week_low": 58.15,
-      "next_earnings": "2026-07-20"
     }
   ],
   "top_losers": [
