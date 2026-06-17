@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T22:54:53.579730+00:00",
+  "last_updated": "2026-06-17T23:01:52.190293+00:00",
   "market_date": "June 17, 2026",
   "stocks": {
     "EQR": {
@@ -960,28 +960,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/4-500-eric-jacksons-bold-104609112.html",
       "published": "2026-06-15T10:46:09Z",
       "summary": "EMJ Capital\u2019s Founder Eric Jackson has released a new thesis arguing that real estate platform Opendoor Technologies Inc. isn\u2019t just an iBuyer recovering fro...",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "PRNewswire",
-      "category": "broad",
-      "title": "Toby Neugebauer Supports John Sellers of Double Eagle as Chairman and CEO of Fermi 3.0",
-      "link": "https://www.prnewswire.com/news-releases/toby-neugebauer-supports-john-sellers-of-double-eagle-as-chairman-and-ceo-of-fermi-3-0--302802423.html",
-      "published": "2026-06-16T22:47:00Z",
-      "summary": "Neugebauer reaffirms bullishness for Project Matador \u2013 excited to take grandkids to site in 2035 Highlights the risk of value destruction by the current Board and management team during the campaign, including failure to replace nine key senior executives who\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "GlobeNewswire",
-      "category": "broad",
-      "title": "GFiber and Quext Bring First-of-its-Kind Multifamily Network Experience to Irvine Company\u2019s Pacifica Place",
-      "link": "https://www.globenewswire.com/news-release/2026/06/16/3313128/0/en/GFiber-and-Quext-Bring-First-of-its-Kind-Multifamily-Network-Experience-to-Irvine-Company-s-Pacifica-Place.html",
-      "published": "2026-06-16T22:39:00Z",
-      "summary": "GFiber and Quext debut a first-of-its-kind Wi-Fi 7 and smart home network experience at Irvine Company\u2019s Pacifica Place apartments....",
       "is_signal": false
     }
   ],
