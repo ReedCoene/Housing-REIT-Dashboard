@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T23:19:49.171677+00:00",
-  "market_date": "June 18, 2026",
+  "last_updated": "2026-06-19T22:28:59.776604+00:00",
+  "market_date": "June 19, 2026",
   "stocks": {
     "EQR": {
       "name": "Equity Residential",
@@ -101,9 +101,9 @@
     "INVH": {
       "name": "Invitation Homes",
       "ticker": "INVH",
-      "price": 28.41,
-      "prev_close": 28.49,
-      "pct_change": -0.28,
+      "price": 28.49,
+      "prev_close": 29.0,
+      "pct_change": -1.76,
       "market_cap": 16876732416,
       "dividend_yield": 4.14,
       "fifty_two_week_high": 34.19,
@@ -199,18 +199,6 @@
   ],
   "top_losers": [
     {
-      "name": "Equity LifeStyle Properties",
-      "ticker": "ELS",
-      "price": 62.19,
-      "prev_close": 62.82,
-      "pct_change": -1.0,
-      "market_cap": 12461872128,
-      "dividend_yield": 3.37,
-      "fifty_two_week_high": 69.0,
-      "fifty_two_week_low": 58.15,
-      "next_earnings": "2026-07-20"
-    },
-    {
       "name": "AvalonBay Communities",
       "ticker": "AVB",
       "price": 177.32,
@@ -221,6 +209,18 @@
       "fifty_two_week_high": 209.86,
       "fifty_two_week_low": 160.1,
       "next_earnings": "2026-04-27"
+    },
+    {
+      "name": "Invitation Homes",
+      "ticker": "INVH",
+      "price": 28.49,
+      "prev_close": 29.0,
+      "pct_change": -1.76,
+      "market_cap": 16876732416,
+      "dividend_yield": 4.14,
+      "fifty_two_week_high": 34.19,
+      "fifty_two_week_low": 24.25,
+      "next_earnings": "2026-07-29"
     },
     {
       "name": "Sun Communities",
@@ -236,6 +236,17 @@
     }
   ],
   "news": [
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "AvalonBay (AVB) Could Benefit From a Changing Housing Market, Says Mizuho",
+      "link": "https://finance.yahoo.com/real-estate/articles/avalonbay-avb-could-benefit-changing-002422308.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 00:24:22 +0000",
+      "summary": "With a short percentage of shares outstanding of 2.82%, AvalonBay Communities, Inc. (NYSE:AVB) is among the 7 Best \u201cLand Owner\u201d Stocks to Buy for Hard Asset Value. On June 10, Mizuho raised its price target on AvalonBay Communities, Inc. (NYSE:AVB) to $192 from $189 while maintaining a Neutral ratin\u2026",
+      "is_signal": true
+    },
     {
       "ticker": "EQR",
       "company": "Equity Residential",
@@ -270,14 +281,25 @@
       "is_signal": false
     },
     {
-      "ticker": "EQR",
-      "company": "Equity Residential",
-      "source": "EQR",
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
       "category": "reit",
-      "title": "AvalonBay And Equity Residential Merger Reshapes Multifamily REIT Valuation Story",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-equity-residential-merger-reshapes-151256786.html?.tsrc=rss",
-      "published": "Sat, 13 Jun 2026 15:12:56 +0000",
-      "summary": "AvalonBay Communities (NYSE:AVB) and Equity Residential have agreed to merge, creating a combined multifamily REIT under a newly announced executive leadership team. The companies have outlined how the merged REIT will be structured, including key management roles and governance for the integrated p\u2026",
+      "title": "Is AvalonBay Stock Underperforming the S&P 500?",
+      "link": "https://www.barchart.com/story/news/2553931/is-avalonbay-stock-underperforming-the-s-p-500?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 11:36:51 +0000",
+      "summary": "AvalonBay stock has trailed behind the S&amp;P 500\u2019s returns over the past year, but analysts are moderately optimistic about the stock.",
+      "is_signal": false
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
+      "title": "AvalonBay (AVB) Could Benefit From a Changing Housing Market, Says Mizuho",
+      "link": "https://finance.yahoo.com/real-estate/articles/avalonbay-avb-could-benefit-changing-002422308.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 00:24:22 +0000",
+      "summary": "With a short percentage of shares outstanding of 2.82%, AvalonBay Communities, Inc. (NYSE:AVB) is among the 7 Best \u201cLand Owner\u201d Stocks to Buy for Hard Asset Value. On June 10, Mizuho raised its price target on AvalonBay Communities, Inc. (NYSE:AVB) to $192 from $189 while maintaining a Neutral ratin\u2026",
       "is_signal": true
     },
     {
@@ -301,28 +323,6 @@
       "published": "Fri, 12 Jun 2026 11:51:48 +0000",
       "summary": "Equity Residential has underperformed the broader real estate sector over the past year, and analysts are cautiously bullish about the stock\u2019s future prospects.",
       "is_signal": false
-    },
-    {
-      "ticker": "AVB",
-      "company": "AvalonBay Communities",
-      "source": "AVB",
-      "category": "reit",
-      "title": "AvalonBay Communities, Inc. Declares Second Quarter 2026 Dividends",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-communities-inc-declares-second-201500794.html?.tsrc=rss",
-      "published": "Tue, 09 Jun 2026 20:15:00 +0000",
-      "summary": "ARLINGTON, Va., June 09, 2026--AvalonBay Communities, Inc. (NYSE: AVB) (the \"Company\") announced today that its Board of Directors declared a cash dividend on the Company\u2019s Common Stock (par value $0.01 per share) for the second quarter of 2026. The Common Stock dividend is $1.78 per share and is pa\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "AVB",
-      "company": "AvalonBay Communities",
-      "source": "AVB",
-      "category": "reit",
-      "title": "Toll Brothers upgraded, Lennar downgraded: Wall Street's top analyst calls",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/toll-brothers-upgraded-lennar-downgraded-133255377.html?.tsrc=rss",
-      "published": "Tue, 09 Jun 2026 13:32:55 +0000",
-      "summary": "Toll Brothers upgraded, Lennar downgraded: Wall Street's top analyst calls",
-      "is_signal": true
     },
     {
       "ticker": "ESS",
@@ -417,6 +417,17 @@
       "company": "UDR Inc",
       "source": "UDR",
       "category": "reit",
+      "title": "Is UDR Stock Underperforming the Nasdaq?",
+      "link": "https://www.barchart.com/story/news/2551614/is-udr-stock-underperforming-the-nasdaq?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 09:02:17 +0000",
+      "summary": "UDR has underperformed the Nasdaq Composite over the past year, yet Wall Street remains optimistic about the stock.",
+      "is_signal": false
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
       "title": "UDR Stock Gains 9% in Three Months: Will the Uptrend Continue?",
       "link": "https://finance.yahoo.com/markets/stocks/articles/udr-stock-gains-9-three-131700017.html?.tsrc=rss",
       "published": "Thu, 11 Jun 2026 13:17:00 +0000",
@@ -444,17 +455,6 @@
       "published": "Mon, 25 May 2026 23:05:09 +0000",
       "summary": "UDR, Inc. (NYSE:UDR) is one of the 10 Best Residential REITs to Buy in 2026. On May 14, 2026, Scotiabank lowered the firm\u2019s price target on UDR, Inc. (NYSE:UDR) to $38 from $39 and maintained a Sector Perform rating on the shares. The firm said it updated its outlook for U.S. multifamily REITs and c\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "Gasoline Prices Aren\u2019t the Only Inflation Threat. Watch Housing Costs.",
-      "link": "https://finance.yahoo.com/m/d4db5ad7-1307-357d-82c1-649fa3339801/gasoline-prices-aren%E2%80%99t-the.html?.tsrc=rss",
-      "published": "Mon, 11 May 2026 10:03:00 +0000",
-      "summary": "Economists say distortions tied to the 2025 government shutdown could cause shelter inflation to accelerate in April, complicating the Federal Reserve\u2019s fight against rising prices.",
-      "is_signal": false
     },
     {
       "ticker": "CPT",
@@ -637,6 +637,17 @@
       "company": "Sun Communities",
       "source": "SUI",
       "category": "reit",
+      "title": "Why RBC Still Likes Sun Communities (SUI) After Its Latest Asset Sale",
+      "link": "https://finance.yahoo.com/real-estate/articles/why-rbc-still-likes-sun-002431959.html?.tsrc=rss",
+      "published": "Fri, 19 Jun 2026 00:24:31 +0000",
+      "summary": "With a short percentage of shares outstanding of 2.59%, Sun Communities, Inc. (NYSE:SUI) is among the 7 Best \u201cLand Owner\u201d Stocks to Buy for Hard Asset Value. On June 5, RBC Capital lowered its price target on Sun Communities, Inc. (NYSE:SUI) to $149 from $151 while maintaining an Outperform rating o\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
       "title": "Deutsche Bank Maintains Hold Rating on Sun Communities (SUI)",
       "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-maintains-hold-rating-230752044.html?.tsrc=rss",
       "published": "Mon, 25 May 2026 23:07:52 +0000",
@@ -663,17 +674,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/sun-communities-inc-announces-agreement-063300430.html?.tsrc=rss",
       "published": "Thu, 21 May 2026 06:33:00 +0000",
       "summary": "Results in Leading North American Pure-Play MH and RV PlatformSouthfield, MI, May 21, 2026 (GLOBE NEWSWIRE) -- Sun Communities, Inc. (NYSE: SUI) (the \u201cCompany\u201d or \u201cSun\u201d), a real estate investment trust (\u201cREIT\u201d) that owns and operates or has an interest in manufactured housing (\u201cMH\u201d) and recreational\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "A Look At Sun Communities (SUI) Valuation As Strong Q1 Results And Higher Guidance Reshape Expectations",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-sun-communities-sui-valuation-030932917.html?.tsrc=rss",
-      "published": "Fri, 01 May 2026 03:09:32 +0000",
-      "summary": "Sun Communities (SUI) shares were in focus after first quarter 2026 results topped management expectations, supported by higher full year guidance, early strength in RV demand, and ongoing buybacks and acquisitions. See our latest analysis for Sun Communities. The share price has a year to date retu\u2026",
       "is_signal": true
     },
     {
@@ -813,10 +813,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Retirement plan participation reaches record high, but financial pressures persist",
-      "link": "https://www.housingwire.com/articles/retirement-plan-participation-reaches-record-high-but-financial-pressures-persist/",
-      "published": "Thu, 18 Jun 2026 21:46:11 +0000",
-      "summary": "Nearly two-thirds of retirement plans now automatically enroll new participants at contribution rates of at least 4%.",
+      "title": "What a 50-year-old letter says about accountability in homebuilding",
+      "link": "https://www.housingwire.com/articles/fathers-day-responsibility-builders/",
+      "published": "Fri, 19 Jun 2026 17:05:19 +0000",
+      "summary": "Exactly 50 years ago this time of year, a 51-year-old man handwrote a four-page letter on a legal pad to his then 21-year-old son, one of seven children \u2013 six of them sons and one angel of a daughter \u2013 who was spending a semester studying in Dublin, Ireland. The letter\u2019s narrative arc, now mostly [&\u2026",
       "is_signal": false
     },
     {
@@ -824,10 +824,21 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Beazer refinancing raises Dream Finders deal cost by $53 million",
-      "link": "https://www.housingwire.com/articles/beazer-notes-change-control-cost/",
-      "published": "Thu, 18 Jun 2026 20:52:39 +0000",
-      "summary": "For weeks, a central question surrounding Dream Finders Homes&#8216; pursuit of Beazer Homes has been unambiguous: Will Dream Finders&#8217; offer for the company and its public relations campaign be enough to convince Beazer shareholders that a sale should occur? A just-completed debt refinancing b\u2026",
+      "title": "Four rules for underwriting secondary Texas markets in a slower cycle",
+      "link": "https://www.housingwire.com/articles/texas-builders-secondary-yield/",
+      "published": "Fri, 19 Jun 2026 14:23:46 +0000",
+      "summary": "For the better part of a decade, the Texas growth playbook was remarkably simple. If you wanted scale, liquidity and appreciation, you went to the Texas Triangle: Austin, Dallas\u2013Fort Worth, Houston, and San Antonio and tried to be early to the next ring of rooftops. Those four metros captured the li\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "ICE executives detail AI cybersecurity efforts through Project Glasswing",
+      "link": "https://www.housingwire.com/articles/ice-claude-mythos-cybersecurity/",
+      "published": "Fri, 19 Jun 2026 14:00:00 +0000",
+      "summary": "ICE is using Claude Mythos via Project Glasswing to find vulnerabilities faster, with a focus on accuracy, speed and fixes.",
       "is_signal": true
     },
     {
@@ -835,10 +846,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "With Warsh\u2019s Fed overhaul, mortgage rates face a new risk",
-      "link": "https://www.housingwire.com/articles/warsh-fed-guidance-mortgage-volatility/",
-      "published": "Thu, 18 Jun 2026 20:45:43 +0000",
-      "summary": "Federal Reserve Chair Kevin Warsh\u2019s new framework for the U.S. central bank carries significant implications for the mortgage industry and broader housing market.",
+      "title": "Home flipping slowed in early 2026 but investors saw returns tick up",
+      "link": "https://www.housingwire.com/articles/attom-q1-2026-home-flipping/",
+      "published": "Fri, 19 Jun 2026 13:00:00 +0000",
+      "summary": "ATTOM reports 64,348 Q1 2026 flips, 8% of sales, as typical gross returns rose to 25.4% and gross profit increased to $66,000.",
       "is_signal": false
     },
     {
@@ -846,21 +857,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "HUD aims to help multi-story manufactured housing go vertical",
-      "link": "https://www.housingwire.com/articles/hud-multistory-manufactured-homes/",
-      "published": "Thu, 18 Jun 2026 20:09:04 +0000",
-      "summary": "HUD proposed a rule to allow chassis free upper floors in manufactured homes, a change developers say can cut $5,000 to $10,000 per home.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Intent beats volume: What real estate teams are learning from AI-powered follow-up",
-      "link": "https://www.housingwire.com/articles/ai-follow-up-intent-signals/",
-      "published": "Thu, 18 Jun 2026 19:14:22 +0000",
-      "summary": "Insights from one million calls show intent based targeting, better context, and local numbers can improve appointment conversion.",
+      "title": "Aging in place is reshaping housing demand \u2014 and most homes aren\u2019t ready",
+      "link": "https://www.housingwire.com/articles/aging-in-place-reshape-housing-demand/",
+      "published": "Fri, 19 Jun 2026 10:00:00 +0000",
+      "summary": "An expert expains why aging in place is shifting from preference to financial necessity \u2014 and what housing professionals need to know.",
       "is_signal": true
     },
     {
@@ -976,34 +976,12 @@
     {
       "ticker": null,
       "company": null,
-      "source": "PRNewswire",
+      "source": "CBC News",
       "category": "broad",
-      "title": "Realtor.com\u00ae Monthly Rent Report: The Markets Locals Love -- and the Ones Outsiders Are Taking Over",
-      "link": "https://www.prnewswire.com/news-releases/realtorcom-monthly-rent-report-the-markets-locals-love--and-the-ones-outsiders-are-taking-over-302800641.html",
-      "published": "2026-06-16T10:00:00Z",
-      "summary": "Las Vegas leads in local renter loyalty, Raleigh draws the most outsiders \u2014 and in San Francisco, the AI boom may be turning renters into homeowners AUSTIN, TEXAS, June 16, 2026 /PRNewswire/ -- Not every rental market is the same, and new data shows renters a\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Americanthinker.com",
-      "category": "broad",
-      "title": "When housing policies favor corporations over community",
-      "link": "https://www.americanthinker.com/blog/2026/06/when_housing_policies_favor_corporations_over_community.html",
-      "published": "2026-06-16T04:00:00Z",
-      "summary": "The unintended consequence of piling new taxes and fees onto small housing providers is a housing market increasingly dominated by corporate ownership, not community-based housing.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Richmondmagazine.com",
-      "category": "broad",
-      "title": "The Big Shortage",
-      "link": "https://richmondmagazine.com/news/features/the-big-shortage/",
-      "published": "2026-06-15T15:50:00Z",
-      "summary": "Rates are down, sellers are up \u2014 but RVA\u2019s housing supply is still slim.",
+      "title": "Banff car-share program aims to reduce parking, increase affordability",
+      "link": "https://www.cbc.ca/news/canada/calgary/banff-carshare-communauto-9.7240795",
+      "published": "2026-06-18T21:46:11Z",
+      "summary": "A car-sharing pilot program in Banff will run through 2028 and start with five vehicles residents can get from three different locations.",
       "is_signal": true
     }
   ],
