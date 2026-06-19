@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T22:28:59.776604+00:00",
+  "last_updated": "2026-06-19T22:32:09.091888+00:00",
   "market_date": "June 19, 2026",
   "stocks": {
     "EQR": {
@@ -101,9 +101,9 @@
     "INVH": {
       "name": "Invitation Homes",
       "ticker": "INVH",
-      "price": 28.49,
-      "prev_close": 29.0,
-      "pct_change": -1.76,
+      "price": 28.41,
+      "prev_close": 28.49,
+      "pct_change": -0.28,
       "market_cap": 16876732416,
       "dividend_yield": 4.14,
       "fifty_two_week_high": 34.19,
@@ -199,6 +199,18 @@
   ],
   "top_losers": [
     {
+      "name": "Equity LifeStyle Properties",
+      "ticker": "ELS",
+      "price": 62.19,
+      "prev_close": 62.82,
+      "pct_change": -1.0,
+      "market_cap": 12461872128,
+      "dividend_yield": 3.37,
+      "fifty_two_week_high": 69.0,
+      "fifty_two_week_low": 58.15,
+      "next_earnings": "2026-07-20"
+    },
+    {
       "name": "AvalonBay Communities",
       "ticker": "AVB",
       "price": 177.32,
@@ -209,18 +221,6 @@
       "fifty_two_week_high": 209.86,
       "fifty_two_week_low": 160.1,
       "next_earnings": "2026-04-27"
-    },
-    {
-      "name": "Invitation Homes",
-      "ticker": "INVH",
-      "price": 28.49,
-      "prev_close": 29.0,
-      "pct_change": -1.76,
-      "market_cap": 16876732416,
-      "dividend_yield": 4.14,
-      "fifty_two_week_high": 34.19,
-      "fifty_two_week_low": 24.25,
-      "next_earnings": "2026-07-29"
     },
     {
       "name": "Sun Communities",
