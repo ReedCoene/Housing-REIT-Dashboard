@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T22:53:24.833449+00:00",
+  "last_updated": "2026-06-25T22:57:41.368935+00:00",
   "market_date": "June 25, 2026",
   "stocks": {
     "EQR": {
@@ -153,7 +153,7 @@
       "prev_close": 27.73,
       "pct_change": -1.51,
       "market_cap": 1407705600,
-      "dividend_yield": 7.65,
+      "dividend_yield": 7.77,
       "fifty_two_week_high": 35.08,
       "fifty_two_week_low": 23.79,
       "next_earnings": "2026-07-28"
@@ -229,7 +229,7 @@
       "prev_close": 27.73,
       "pct_change": -1.51,
       "market_cap": 1407705600,
-      "dividend_yield": 7.65,
+      "dividend_yield": 7.77,
       "fifty_two_week_high": 35.08,
       "fifty_two_week_low": 23.79,
       "next_earnings": "2026-07-28"
