@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T22:40:13.777159+00:00",
+  "last_updated": "2026-06-26T22:47:28.595685+00:00",
   "market_date": "June 26, 2026",
   "stocks": {
     "EQR": {
@@ -1020,13 +1020,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Fox News",
+      "source": "Fauquier Now",
       "category": "broad",
-      "title": "EXCLUSIVE: DHS asks Florida not to release illegal immigrant accused of drugging, raping woman after clubbing",
-      "link": "https://www.foxnews.com/us/exclusive-dhs-asks-florida-release-illegal-immigrant-accused-drugging-raping-woman-clubbing",
-      "published": "2026-06-25T22:21:30Z",
-      "summary": "DHS asks Florida authorities not to release Cuban illegal immigrant Yusel Keoma Perez-Leyva, accused of drugging and raping a woman in Miami.",
-      "is_signal": false
+      "title": "Fauquier Health releases annual community report",
+      "link": "https://www.fauquiernow.com/news/business/fauquier-health-community-benefit-report-notes-over-2m-in-capital-investments-61m-in-payroll/article_e23a5b77-b10c-4c7b-859c-1fe6082c7844.html",
+      "published": "2026-06-25T22:44:02Z",
+      "summary": "Fauquier Health published its community benefit report this month, highlighting the \u201cvarious ways the hospital is working to support the health and economic vitality of Fauquier County and the region.\u201d",
+      "is_signal": true
     }
   ],
   "weekly_report": null,
