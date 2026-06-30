@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T22:46:16.652159+00:00",
+  "last_updated": "2026-06-30T22:52:11.658885+00:00",
   "market_date": "June 30, 2026",
   "stocks": {
     "EQR": {
@@ -1004,17 +1004,6 @@
       "link": "https://www.globenewswire.com/news-release/2026/06/29/3319346/0/en/FEMSA-Schedules-Conference-Call-to-Discuss-Second-Quarter-Financial-Results.html",
       "published": "2026-06-29T22:34:00Z",
       "summary": "MONTERREY, Mexico, June 29, 2026 (GLOBE NEWSWIRE) -- Fomento Econ\u00f3mico Mexicano, S.A.B. de C.V. (\u201cFEMSA\u201d or the \u201cCompany\u201d) (NYSE: FMX; BMV: FEMSAUBD, FEMSAUB) is pleased to invite you to participate in its Second Quarter Conference Call that will be held on:",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Albertadoctors.org",
-      "category": "broad",
-      "title": "AMA Releases Second Annual State of Health Care Report | AMA",
-      "link": "https://www.albertadoctors.org/news/publications/presidents-letter/ama-releases-second-annual-state-of-health-care-report/",
-      "published": "2026-06-29T22:07:06Z",
-      "summary": "The AMA's second annual State of Health Care report shows Albertans are confident in the quality and skill of their physicians and health care teams, but have less confidence in the system's ability to provide timely access to care when and where it's needed.",
       "is_signal": true
     }
   ],
