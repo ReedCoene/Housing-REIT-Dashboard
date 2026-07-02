@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T22:33:05.628526+00:00",
+  "last_updated": "2026-07-02T22:39:21.852485+00:00",
   "market_date": "July 02, 2026",
   "stocks": {
     "EQR": {
@@ -1004,6 +1004,17 @@
       "link": "https://military.com/va-loans/learn/buying-a-duplex-or-multi-family-property",
       "published": "2026-06-25T22:14:58Z",
       "summary": "Can you buy a duplex with a VA loan? Learn how to use military house-hacking to purchase up to a 4-unit property with zero money down and build equity",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Bangor Daily News",
+      "category": "broad",
+      "title": "See how much new housing is being built in your Maine town",
+      "link": "https://www.bangordailynews.com/2026/07/01/business/business-housing/how-much-new-housing-maine-towns/",
+      "published": "2026-07-01T22:35:25Z",
+      "summary": "New Maine housing data shows about half of counties met building permit goals set by the state two years ago.",
       "is_signal": false
     },
     {
