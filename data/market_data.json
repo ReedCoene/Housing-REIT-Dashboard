@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T22:39:21.852485+00:00",
-  "market_date": "July 02, 2026",
+  "last_updated": "2026-07-03T22:30:31.625683+00:00",
+  "market_date": "July 03, 2026",
   "stocks": {
     "EQR": {
       "name": "Equity Residential",
@@ -9,7 +9,7 @@
       "prev_close": 68.63,
       "pct_change": 1.75,
       "market_cap": 26980636672,
-      "dividend_yield": 4.09,
+      "dividend_yield": 4.02,
       "fifty_two_week_high": 69.83,
       "fifty_two_week_low": 57.57,
       "next_earnings": "2026-04-28"
@@ -21,7 +21,7 @@
       "prev_close": 190.43,
       "pct_change": 1.85,
       "market_cap": 27517505536,
-      "dividend_yield": 3.74,
+      "dividend_yield": 3.67,
       "fifty_two_week_high": 205.0,
       "fifty_two_week_low": 160.1,
       "next_earnings": "2026-04-27"
@@ -33,7 +33,7 @@
       "prev_close": 295.18,
       "pct_change": 1.07,
       "market_cap": 20562749440,
-      "dividend_yield": 3.51,
+      "dividend_yield": 3.47,
       "fifty_two_week_high": 299.29,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-07-28"
@@ -45,7 +45,7 @@
       "prev_close": 139.94,
       "pct_change": 1.61,
       "market_cap": 16967055360,
-      "dividend_yield": 4.37,
+      "dividend_yield": 4.3,
       "fifty_two_week_high": 153.93,
       "fifty_two_week_low": 120.3,
       "next_earnings": "2026-07-29"
@@ -57,7 +57,7 @@
       "prev_close": 40.62,
       "pct_change": 1.16,
       "market_cap": 15224487936,
-      "dividend_yield": 4.26,
+      "dividend_yield": 4.21,
       "fifty_two_week_high": 41.6,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-07-29"
@@ -69,7 +69,7 @@
       "prev_close": 115.66,
       "pct_change": 1.37,
       "market_cap": 11618371584,
-      "dividend_yield": 3.67,
+      "dividend_yield": 3.62,
       "fifty_two_week_high": 117.56,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-07-30"
@@ -81,7 +81,7 @@
       "prev_close": 17.16,
       "pct_change": 0.99,
       "market_cap": 4187904000,
-      "dividend_yield": 4.02,
+      "dividend_yield": 3.98,
       "fifty_two_week_high": 18.18,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-07-29"
@@ -93,7 +93,7 @@
       "prev_close": 33.72,
       "pct_change": 1.07,
       "market_cap": 13971165184,
-      "dividend_yield": 3.91,
+      "dividend_yield": 3.87,
       "fifty_two_week_high": 36.86,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-07-30"
@@ -105,7 +105,7 @@
       "prev_close": 30.35,
       "pct_change": 0.59,
       "market_cap": 18136102912,
-      "dividend_yield": 3.95,
+      "dividend_yield": 3.93,
       "fifty_two_week_high": 32.81,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-07-29"
@@ -117,7 +117,7 @@
       "prev_close": 120.78,
       "pct_change": 2.36,
       "market_cap": 15807431680,
-      "dividend_yield": 3.58,
+      "dividend_yield": 3.49,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 115.53,
       "next_earnings": "2026-04-27"
@@ -129,7 +129,7 @@
       "prev_close": 65.01,
       "pct_change": 1.91,
       "market_cap": 13275430912,
-      "dividend_yield": 0,
+      "dividend_yield": 3.28,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.15,
       "next_earnings": "2026-07-20"
@@ -141,7 +141,7 @@
       "prev_close": 29.66,
       "pct_change": 0.37,
       "market_cap": 4943246848,
-      "dividend_yield": 0,
+      "dividend_yield": 10.35,
       "fifty_two_week_high": 36.0,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-05-06"
@@ -153,7 +153,7 @@
       "prev_close": 28.32,
       "pct_change": 1.41,
       "market_cap": 1480384640,
-      "dividend_yield": 7.49,
+      "dividend_yield": 7.38,
       "fifty_two_week_high": 35.08,
       "fifty_two_week_low": 23.79,
       "next_earnings": "2026-07-28"
@@ -167,7 +167,7 @@
       "prev_close": 120.78,
       "pct_change": 2.36,
       "market_cap": 15807431680,
-      "dividend_yield": 3.58,
+      "dividend_yield": 3.49,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 115.53,
       "next_earnings": "2026-04-27"
@@ -179,7 +179,7 @@
       "prev_close": 65.01,
       "pct_change": 1.91,
       "market_cap": 13275430912,
-      "dividend_yield": 0,
+      "dividend_yield": 3.28,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.15,
       "next_earnings": "2026-07-20"
@@ -191,7 +191,7 @@
       "prev_close": 190.43,
       "pct_change": 1.85,
       "market_cap": 27517505536,
-      "dividend_yield": 3.74,
+      "dividend_yield": 3.67,
       "fifty_two_week_high": 205.0,
       "fifty_two_week_low": 160.1,
       "next_earnings": "2026-04-27"
@@ -205,7 +205,7 @@
       "prev_close": 17.16,
       "pct_change": 0.99,
       "market_cap": 4187904000,
-      "dividend_yield": 4.02,
+      "dividend_yield": 3.98,
       "fifty_two_week_high": 18.18,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-07-29"
@@ -217,7 +217,7 @@
       "prev_close": 30.35,
       "pct_change": 0.59,
       "market_cap": 18136102912,
-      "dividend_yield": 3.95,
+      "dividend_yield": 3.93,
       "fifty_two_week_high": 32.81,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-07-29"
@@ -229,7 +229,7 @@
       "prev_close": 29.66,
       "pct_change": 0.37,
       "market_cap": 4943246848,
-      "dividend_yield": 0,
+      "dividend_yield": 10.35,
       "fifty_two_week_high": 36.0,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-05-06"
@@ -813,6 +813,17 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
+      "title": "Reffkin takes the stand, MRED CEO says Zillow threatened litigation over listing policy dispute",
+      "link": "https://www.housingwire.com/articles/zillow-injunction-hearing-testimony/",
+      "published": "Fri, 03 Jul 2026 19:45:27 +0000",
+      "summary": "Compass and MRED leaders testified Zillow threatened litigation over listing access standards, briefs due July 9 and July 13.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
       "title": "Government-backed modular housing trend arrives in Cleveland",
       "link": "https://www.housingwire.com/articles/cleveland-local-government-modular-housing-backing/",
       "published": "Thu, 02 Jul 2026 21:05:07 +0000",
@@ -850,17 +861,6 @@
       "link": "https://www.housingwire.com/articles/realtrends-verified-the-craig-tann-group-continues-decade-of-growth/",
       "published": "Thu, 02 Jul 2026 20:13:04 +0000",
       "summary": "The team closed $486 million in sales volume across 877 transactions last year, which ranked No. 10 and No. 3 nationally among mega teams.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "MISMO updates mortgage insurance data guide for VantageScore 4.0 and FICO 10T",
-      "link": "https://www.housingwire.com/articles/mismo-mortgage-insurance-guide-vantagescore-4-fico-10t/",
-      "published": "Thu, 02 Jul 2026 19:13:35 +0000",
-      "summary": "MISMO updated its mortgage insurance data standards to support VantageScore 4.0 and FICO 10T, helping firms prepare for new credit models.",
       "is_signal": false
     },
     {
@@ -987,45 +987,12 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Al Jazeera English",
+      "source": "Raw Story",
       "category": "broad",
-      "title": "\u2018Affordability crisis\u2019: How the Western housing crisis spiralled",
-      "link": "https://www.aljazeera.com/economy/2026/6/26/affordability-crisis-how-the-western-housing-crisis-spiralled",
-      "published": "2026-06-26T08:36:52Z",
-      "summary": "Rising rents and prices outpacing wages provoke global debate: Is housing a basic right or an investment asset?",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Military.com",
-      "category": "broad",
-      "title": "VA Loan Multifamily Rules: How to House Hack a Duplex",
-      "link": "https://military.com/va-loans/learn/buying-a-duplex-or-multi-family-property",
-      "published": "2026-06-25T22:14:58Z",
-      "summary": "Can you buy a duplex with a VA loan? Learn how to use military house-hacking to purchase up to a 4-unit property with zero money down and build equity",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Bangor Daily News",
-      "category": "broad",
-      "title": "See how much new housing is being built in your Maine town",
-      "link": "https://www.bangordailynews.com/2026/07/01/business/business-housing/how-much-new-housing-maine-towns/",
-      "published": "2026-07-01T22:35:25Z",
-      "summary": "New Maine housing data shows about half of counties met building permit goals set by the state two years ago.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Israelnationalnews.com",
-      "category": "broad",
-      "title": "Major milestone for Otniel: 156 new housing units approved",
-      "link": "https://www.israelnationalnews.com/news/429503",
-      "published": "2026-07-01T22:11:10Z",
-      "summary": "The Higher Planning Council approves 156 housing units in Otniel, along with 52 in Kfar Adumim and 21 in Elkana.",
+      "title": "Trump admin suffers major court loss as judge finds gambit 'a complete fantasy'",
+      "link": "https://www.rawstory.com/trump-detention-policy-struck-down/",
+      "published": "2026-07-02T22:11:32Z",
+      "summary": "A federal appeals court ruled Thursday that the Trump administration's legal strategy for detaining longtime undocumented residents without bond hearings is \"a complete fantasy.\"The Fifth Circuit Court of Appeals affirmed, 2-1, the release of three men who ha\u2026",
       "is_signal": false
     }
   ],
