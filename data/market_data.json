@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T22:29:43.047801+00:00",
+  "last_updated": "2026-07-08T22:34:29.823689+00:00",
   "market_date": "July 08, 2026",
   "stocks": {
     "EQR": {
@@ -545,50 +545,6 @@
       "is_signal": true
     },
     {
-      "ticker": "AMH",
-      "company": "American Homes 4 Rent",
-      "source": "AMH",
-      "category": "reit",
-      "title": "Want $1,500 a Month in Rent Without a Single 2 a.m. Phone Call? These 3 ETFs Pay You Like a Landlord",
-      "link": "https://247wallst.com/investing/etf/2026/06/30/want-1500-a-month-in-rent-without-a-single-2-a-m-phone-call-these-3-etfs-pay-you-like-a-landlord/?.tsrc=rss",
-      "published": "Wed, 01 Jul 2026 00:14:50 +0000",
-      "summary": "You like the idea of rental income, but you hate the idea of a tenant calling you at 2 a.m. about a broken water heater. That is the exact gap these three real estate names fill. Realty Income (NYSE:O), STAG Industrial (NYSE:STAG), and American Homes 4 Rent (NYSE:AMH) collect rent from thousands of \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "AMH",
-      "company": "American Homes 4 Rent",
-      "source": "AMH",
-      "category": "reit",
-      "title": "Is American Homes 4 Rent (AMH) A Good Stock To Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/american-homes-4-rent-amh-210748526.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 21:07:48 +0000",
-      "summary": "Is AMH a good stock to buy? We came across a bullish thesis on American Homes 4 Rent on TheDividendPrince\u2019s Substack. In this article, we will summarize the bulls\u2019 thesis on AMH. American Homes 4 Rent\u2019s share was trading at $34.09 as of June 26th. AMH\u2019s trailing and forward P/E were 27.72 and 26.25 \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "AMH",
-      "company": "American Homes 4 Rent",
-      "source": "AMH",
-      "category": "reit",
-      "title": "BMO Capital Upgrades American Homes (AMH) to Outperform",
-      "link": "https://finance.yahoo.com/real-estate/articles/bmo-capital-upgrades-american-homes-161453916.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 16:14:53 +0000",
-      "summary": "American Homes 4 Rent (NYSE:AMH) is one of the 10 Interest Rate Sensitive Stocks to Buy Now. On June 26, 2026, BMO Capital upgraded American Homes 4 Rent (NYSE:AMH) to Outperform from Market Perform with an unchanged $39 price target. BMO Capital said the company\u2019s worst-case regulatory scenarios ar\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "AMH",
-      "company": "American Homes 4 Rent",
-      "source": "AMH",
-      "category": "reit",
-      "title": "House and Senate Leaders Reach Deal on Housing Bill",
-      "link": "https://finance.yahoo.com/m/5c650725-de83-3776-ab2c-21e627c3ca84/house-and-senate-leaders.html?.tsrc=rss",
-      "published": "Tue, 16 Jun 2026 21:28:00 +0000",
-      "summary": "The so-called 21st Century Road to Housing Act is a bipartisan effort to increase home affordability.",
-      "is_signal": true
-    },
-    {
       "ticker": "INVH",
       "company": "Invitation Homes",
       "source": "INVH",
@@ -630,50 +586,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/why-invitation-homes-invh-7-081454384.html?.tsrc=rss",
       "published": "Tue, 30 Jun 2026 08:14:54 +0000",
       "summary": "In late June 2026, Wells Fargo upgraded Invitation Homes Inc. to Overweight and highlighted it as a top residential pick, citing a better-than-feared spring leasing season, potential benefits from the 21st Century ROAD to Housing Act, and the completion of share repurchases. An interesting angle is \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Is Sun Communities (SUI) the Best Interest Rate Sensitive Stock to Buy Now?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sun-communities-sui-best-interest-161459772.html?.tsrc=rss",
-      "published": "Mon, 29 Jun 2026 16:14:59 +0000",
-      "summary": "Sun Communities, Inc. (NYSE:SUI) is one of the 10 Interest Rate Sensitive Stocks to Buy Now. On June 26, 2026, Truist lowered its price target on Sun Communities, Inc. (NYSE:SUI) to $138 from $141 and kept a Buy rating. Truist reduced its FY27 FFO view to $7.15 from $7.43 to reflect the announced UK\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "SUN COMMUNITIES APPOINTS ILEANA MCALARY AS GENERAL COUNSEL, EXECUTIVE VICE PRESIDENT, AND SECRETARY",
-      "link": "https://finance.yahoo.com/real-estate/articles/sun-communities-appoints-ileana-mcalary-201800547.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 20:18:00 +0000",
-      "summary": "Southfield, MI, June 22, 2026 (GLOBE NEWSWIRE) -- Sun Communities, Inc. (NYSE: SUI) (the \u201cCompany\u201d), a real estate investment trust (\u201cREIT\u201d) that owns and operates, or has an interest in, manufactured housing (\u201cMH\u201d) and recreational vehicle (\u201cRV\u201d) communities (collectively, the \u201cproperties\u201d), today \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Why RBC Still Likes Sun Communities (SUI) After Its Latest Asset Sale",
-      "link": "https://finance.yahoo.com/real-estate/articles/why-rbc-still-likes-sun-002431959.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 00:24:31 +0000",
-      "summary": "With a short percentage of shares outstanding of 2.59%, Sun Communities, Inc. (NYSE:SUI) is among the 7 Best \u201cLand Owner\u201d Stocks to Buy for Hard Asset Value. On June 5, RBC Capital lowered its price target on Sun Communities, Inc. (NYSE:SUI) to $149 from $151 while maintaining an Outperform rating o\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Deutsche Bank Maintains Hold Rating on Sun Communities (SUI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-maintains-hold-rating-230752044.html?.tsrc=rss",
-      "published": "Mon, 25 May 2026 23:07:52 +0000",
-      "summary": "Sun Communities, Inc. (NYSE:SUI) is one of the 10 Best Residential REITs to Buy in 2026. On May 14, 2026, Deutsche Bank lowered the firm\u2019s price target on Sun Communities, Inc. (NYSE:SUI) to $133 from $138 and maintained a Hold rating on the shares. Truist also lowered the firm\u2019s price target on Sun\u2026",
       "is_signal": true
     },
     {
