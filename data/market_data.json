@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T22:26:38.999085+00:00",
+  "last_updated": "2026-07-15T22:32:02.628257+00:00",
   "market_date": "July 15, 2026",
   "stocks": {
     "EQR": {
@@ -954,6 +954,17 @@
     {
       "ticker": null,
       "company": null,
+      "source": "Yahoo Entertainment",
+      "category": "broad",
+      "title": "Homebuilders Say Construction Worker Shortage Is Worsening the Housing Affordability Crisis",
+      "link": "https://finance.yahoo.com/real-estate/articles/homebuilders-construction-worker-shortage-worsening-143103311.html",
+      "published": "2026-07-14T14:31:03Z",
+      "summary": "A shortage of skilled construction workers is emerging as a major obstacle to easing the U.S. housing affordability crisis, with homebuilders warning that la...",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "Realtor.com News",
       "category": "broad",
       "title": "Rise of the Micro-Move...",
@@ -994,17 +1005,6 @@
       "published": "2026-07-10T15:07:00Z",
       "summary": "Congress overwhelmingly passed a massive affordable housing bill that is set to go into law, even though Trump refused to sign it",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "NPR",
-      "category": "broad",
-      "title": "A major housing bill is set to become law at midnight \u2014 even though Trump says he won't sign",
-      "link": "https://www.npr.org/2026/07/10/nx-s1-5885027/housing-bill-without-trump-signature",
-      "published": "2026-07-10T14:55:21Z",
-      "summary": "President Trump says he is refusing to sign the bill without Congress first passing his sweeping voter ID bill.",
-      "is_signal": false
     },
     {
       "ticker": null,
