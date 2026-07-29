@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T22:25:34.593933+00:00",
+  "last_updated": "2026-07-29T22:30:49.785463+00:00",
   "market_date": "July 29, 2026",
   "stocks": {
     "EQR": {
@@ -8,8 +8,8 @@
       "price": 68.85,
       "prev_close": 68.09,
       "pct_change": 1.12,
-      "market_cap": 26601986048,
-      "dividend_yield": 4.13,
+      "market_cap": 0,
+      "dividend_yield": 4.18,
       "fifty_two_week_high": 71.5,
       "fifty_two_week_low": 57.57,
       "next_earnings": "2026-10-21"
@@ -24,7 +24,7 @@
       "dividend_yield": 3.74,
       "fifty_two_week_high": 202.07,
       "fifty_two_week_low": 160.1,
-      "next_earnings": "2026-07-22"
+      "next_earnings": null
     },
     "ESS": {
       "name": "Essex Property Trust",
@@ -33,7 +33,7 @@
       "prev_close": 294.52,
       "pct_change": 0.77,
       "market_cap": 20457293824,
-      "dividend_yield": 3.52,
+      "dividend_yield": 3.56,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-07-29"
@@ -45,7 +45,7 @@
       "prev_close": 135.64,
       "pct_change": 1.28,
       "market_cap": 16393094144,
-      "dividend_yield": 4.51,
+      "dividend_yield": 4.59,
       "fifty_two_week_high": 151.72,
       "fifty_two_week_low": 120.3,
       "next_earnings": "2026-07-29"
@@ -68,8 +68,8 @@
       "price": 116.37,
       "prev_close": 115.04,
       "pct_change": 1.16,
-      "market_cap": 11531172864,
-      "dividend_yield": 3.69,
+      "market_cap": 0,
+      "dividend_yield": 3.76,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-07-30"
@@ -81,7 +81,7 @@
       "prev_close": 16.69,
       "pct_change": 1.2,
       "market_cap": 4081575168,
-      "dividend_yield": 4.13,
+      "dividend_yield": 4.2,
       "fifty_two_week_high": 18.18,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-08-03"
@@ -92,8 +92,8 @@
       "price": 33.71,
       "prev_close": 33.78,
       "pct_change": -0.21,
-      "market_cap": 13819481088,
-      "dividend_yield": 3.91,
+      "market_cap": 0,
+      "dividend_yield": 3.95,
       "fifty_two_week_high": 36.13,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-07-30"
@@ -129,7 +129,7 @@
       "prev_close": 66.02,
       "pct_change": 2.47,
       "market_cap": 13555968000,
-      "dividend_yield": 3.34,
+      "dividend_yield": 3.29,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.15,
       "next_earnings": "2026-10-21"
@@ -141,7 +141,7 @@
       "prev_close": 28.59,
       "pct_change": -1.92,
       "market_cap": 4655983616,
-      "dividend_yield": 10.85,
+      "dividend_yield": 10.77,
       "fifty_two_week_high": 36.0,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-08-04"
@@ -153,7 +153,7 @@
       "prev_close": 26.91,
       "pct_change": 0.41,
       "market_cap": 1392757504,
-      "dividend_yield": 7.88,
+      "dividend_yield": 8.06,
       "fifty_two_week_high": 34.87,
       "fifty_two_week_low": 23.79,
       "next_earnings": "2026-08-04"
@@ -179,7 +179,7 @@
       "prev_close": 66.02,
       "pct_change": 2.47,
       "market_cap": 13555968000,
-      "dividend_yield": 3.34,
+      "dividend_yield": 3.29,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.15,
       "next_earnings": "2026-10-21"
@@ -216,8 +216,8 @@
       "price": 33.71,
       "prev_close": 33.78,
       "pct_change": -0.21,
-      "market_cap": 13819481088,
-      "dividend_yield": 3.91,
+      "market_cap": 0,
+      "dividend_yield": 3.95,
       "fifty_two_week_high": 36.13,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-07-30"
@@ -229,7 +229,7 @@
       "prev_close": 28.59,
       "pct_change": -1.92,
       "market_cap": 4655983616,
-      "dividend_yield": 10.85,
+      "dividend_yield": 10.77,
       "fifty_two_week_high": 36.0,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-08-04"
@@ -681,6 +681,17 @@
       "company": "Equity LifeStyle Properties",
       "source": "ELS",
       "category": "reit",
+      "title": "ELS Declares Third Quarter 2026 Dividend",
+      "link": "https://finance.yahoo.com/real-estate/articles/els-declares-third-quarter-2026-211400060.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:14:00 +0000",
+      "summary": "On July 28, 2026, the Board of Directors of Equity LifeStyle Properties, Inc. (NYSE: ELS) (referred to herein as \"we,\" \"us,\" and \"our\") declared a third quarter 2026 dividend of $0.5425 per common share, representing, on an annualized basis, a dividend of $2.17 per common share. The dividend will be\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "ELS",
+      "company": "Equity LifeStyle Properties",
+      "source": "ELS",
+      "category": "reit",
       "title": "Equity Lifestyle Properties Inc (ELS) Q2 2026 Earnings Call Highlights: Strong Financial Growth ...",
       "link": "https://finance.yahoo.com/real-estate/articles/equity-lifestyle-properties-inc-els-230213323.html?.tsrc=rss",
       "published": "Thu, 23 Jul 2026 23:02:13 +0000",
@@ -703,21 +714,10 @@
       "company": "Equity LifeStyle Properties",
       "source": "ELS",
       "category": "reit",
-      "title": "Equity Lifestyle Properties (ELS) Surpasses Q2 FFO and Revenue Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-lifestyle-properties-els-surpasses-215504729.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 21:55:04 +0000",
-      "summary": "Equity Lifestyle Properties (ELS) delivered FFO and revenue surprises of +2.78% and +4.02%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "is_signal": true
-    },
-    {
-      "ticker": "ELS",
-      "company": "Equity LifeStyle Properties",
-      "source": "ELS",
-      "category": "reit",
-      "title": "ELS Reports Second Quarter Results",
-      "link": "https://finance.yahoo.com/real-estate/articles/els-reports-second-quarter-results-201600431.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 20:16:00 +0000",
-      "summary": "Equity LifeStyle Properties, Inc. (NYSE: ELS) (referred to herein as \"we,\" \"us,\" and \"our\") today announced results for the quarter and six months ended June 30, 2026. All per share results are reported on a fully diluted basis unless otherwise noted.",
+      "title": "Equity LifeStyle Properties, Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-equity-lifestyle-properties-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 12:30:00 +0000",
+      "summary": "Moby summary of Equity LifeStyle Properties, Inc.'s Q2 2026 earnings call",
       "is_signal": true
     },
     {
