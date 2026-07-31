@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T22:29:15.746643+00:00",
+  "last_updated": "2026-07-31T22:34:44.169842+00:00",
   "market_date": "July 31, 2026",
   "stocks": {
     "EQR": {
@@ -998,6 +998,17 @@
     {
       "ticker": null,
       "company": null,
+      "source": "pymnts.com",
+      "category": "broad",
+      "title": "OCC Releases Compliance Guide for New Community Bank Leverage Ratio Framework",
+      "link": "https://www.pymnts.com/news/banking/2026/occ-releases-compliance-guide-for-new-community-bank-leverage-ratio-framework/",
+      "published": "2026-07-30T22:33:31Z",
+      "summary": "The\u00a0Office of the Comptroller of the Currency\u00a0(OCC) has issued a revised\u00a0compliance guide for the community bank leverage ratio (CBLR) framework. The updated guide is designed to help community banks understand the revisions to the optional\u00a0CBLR framework tha\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "Dailymail.com",
       "category": "broad",
       "title": "Angela Rayner 'will miss Labour's housing target of 1.5MILLION homes'",
@@ -1005,17 +1016,6 @@
       "published": "2026-07-30T22:11:59Z",
       "summary": "More than 1,000 new homes need to be built each day to meet the party's manifesto pledge.",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "ABC News (AU)",
-      "category": "broad",
-      "title": "Young Indigenous creators dealing with social media 'cesspit'",
-      "link": "https://www.abc.net.au/news/2026-07-31/indigenous-content-creators-social-media-racism/106967658",
-      "published": "2026-07-30T22:01:24Z",
-      "summary": "Young creators specialising in topics as innocuous as fishing and cooking have been met with torrents of abuse social media companies are reluctant to do anything about.",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
