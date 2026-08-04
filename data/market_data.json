@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T22:32:30.522676+00:00",
+  "last_updated": "2026-08-04T22:37:32.994920+00:00",
   "market_date": "August 04, 2026",
   "stocks": {
     "EQR": {
@@ -329,6 +329,28 @@
       "company": "Essex Property Trust",
       "source": "ESS",
       "category": "reit",
+      "title": "West Coast portfolio helps Essex beat Q2 expectations",
+      "link": "https://www.multifamilydive.com/news/west-coast-apartment-rents-technology-jobs/826876/?.tsrc=rss",
+      "published": "Mon, 03 Aug 2026 15:46:25 +0000",
+      "summary": "Strong supply-demand combined with continued technology sector investments across the Bay Area powered the REIT\u2019s Northern California strength.",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
+      "title": "Essex Property Trust Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/essex-property-trust-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 08:03:59 +0000",
+      "summary": "Essex Property Trust (NYSE:ESS) raised its full-year outlook after reporting second-quarter operating performance that exceeded its expectations, led by stronger apartment revenue trends and lower-than-anticipated expenses across its West Coast portfolio. President and Chief Executive Officer Angel",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
       "title": "Essex Property Trust Inc (ESS) (Q2 2026) Earnings Call Highlights: Strong FFO Beat and Raised ...",
       "link": "https://finance.yahoo.com/real-estate/articles/essex-property-trust-inc-ess-030101008.html?.tsrc=rss",
       "published": "Fri, 31 Jul 2026 03:01:01 +0000",
@@ -340,32 +362,10 @@
       "company": "Essex Property Trust",
       "source": "ESS",
       "category": "reit",
-      "title": "Essex Property Trust (ESS) Heads Into Earnings On A Fairly Valued Narrative",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/essex-property-trust-ess-heads-151737237.html?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 15:17:37 +0000",
-      "summary": "Essex Property Trust (ESS) is set to report its second quarter 2026 results after the market closes on July 29, with expectations centered on a slightly softer funds from operations figure. See our latest analysis for Essex Property Trust. At a share price of $292.79, Essex Property Trust has seen a\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "ESS",
-      "company": "Essex Property Trust",
-      "source": "ESS",
-      "category": "reit",
-      "title": "Essex Property Trust (ESS) Stock Sees Modest Fair Value Lift As Analysts Raise Targets",
-      "link": "https://finance.yahoo.com/real-estate/articles/essex-property-trust-ess-stock-122027147.html?.tsrc=rss",
-      "published": "Thu, 16 Jul 2026 12:20:27 +0000",
-      "summary": "Essex Property Trust is back in focus after several firms lifted their price targets into the high US$200s and low US$300s, with one move taking the target up to US$320. These changes reflect fresh analyst commentary around West Coast rental demand, Bay Area exposure tied to artificial intelligence \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "ESS",
-      "company": "Essex Property Trust",
-      "source": "ESS",
-      "category": "reit",
-      "title": "Essex Property Trust (ESS) Stock Could Be A Bargain Despite Rich Earnings",
-      "link": "https://finance.yahoo.com/real-estate/articles/essex-property-trust-ess-stock-211052243.html?.tsrc=rss",
-      "published": "Wed, 15 Jul 2026 21:10:52 +0000",
-      "summary": "Essex Property Trust has delivered a 39.2% return over the past three years, yet there is a clear split between what its intrinsic value estimate suggests and what traditional market multiples signal about the stock at around US$298 per share. A 39.2% gain over three years points to steady sharehold\u2026",
+      "title": "ESS Q2 FFO Beats Estimates on Higher Property NOI, '26 View Raised",
+      "link": "https://finance.yahoo.com/real-estate/articles/ess-q2-ffo-beats-estimates-162200276.html?.tsrc=rss",
+      "published": "Thu, 30 Jul 2026 16:22:00 +0000",
+      "summary": "ESS tops Q2 FFO estimates as same-property NOI and revenues rise, Northern California outperforms, and its 2026 core FFO outlook is raised.",
       "is_signal": true
     },
     {
@@ -439,10 +439,10 @@
       "company": "UDR Inc",
       "source": "UDR",
       "category": "reit",
-      "title": "UDR (UDR) Reports Q2 Earnings: What Key Metrics Have to Say",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/udr-udr-reports-q2-earnings-220003573.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 22:00:03 +0000",
-      "summary": "Although the revenue and EPS for UDR (UDR) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+      "title": "United Dominion Realty Trust Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/united-dominion-realty-trust-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:04:13 +0000",
+      "summary": "United Dominion Realty Trust (NYSE:UDR) raised its full-year outlook after reporting second-quarter results that exceeded its expectations, supported by stronger apartment operating trends, higher retention and expense controls. Chairman, President and CEO Tom Toomey said apartment fundamentals hav",
       "is_signal": true
     },
     {
@@ -450,10 +450,10 @@
       "company": "UDR Inc",
       "source": "UDR",
       "category": "reit",
-      "title": "Ahead of UDR (UDR) Q2 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/ahead-udr-udr-q2-earnings-131509042.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 13:15:09 +0000",
-      "summary": "Besides Wall Street's top-and-bottom-line estimates for UDR (UDR), review projections for some of its key metrics to gain a deeper understanding of how the company might have fared during the quarter ended June 2026.",
+      "title": "UDR Q2 FFO & Revenues Beat Estimates on Leasing Strength, '26 View Up",
+      "link": "https://finance.yahoo.com/real-estate/articles/udr-q2-ffo-revenues-beat-132100877.html?.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 13:21:00 +0000",
+      "summary": "UDR outpaces Q2 FFO estimates, delivers stronger leasing and same-store growth, and raises its 2026 FFO outlook as occupancy and resident retention remain strong.",
       "is_signal": true
     },
     {
@@ -516,17 +516,6 @@
       "company": "Independence Realty Trust",
       "source": "IRT",
       "category": "reit",
-      "title": "A Look At Independence Realty Trust (IRT) Valuation After Recent Share Price Momentum And Mixed Return Trends",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/look-independence-realty-trust-irt-021223576.html?.tsrc=rss",
-      "published": "Mon, 04 May 2026 02:12:23 +0000",
-      "summary": "Independence Realty Trust (IRT) has drawn fresh attention after recent trading, with the share price closing at US$16.25 as investors weigh its multifamily REIT profile in relation to recent return trends and fundamentals. See our latest analysis for Independence Realty Trust. That US$16.25 share pr\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
       "title": "LPL Financial Holdings Inc. (LPLA) Q2 Earnings and Revenues Beat Estimates",
       "link": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-holdings-inc-lpla-233006276.html?.tsrc=rss",
       "published": "Thu, 30 Jul 2026 23:30:06 +0000",
@@ -542,6 +531,17 @@
       "link": "https://finance.yahoo.com/real-estate/articles/mid-america-apartment-communities-maa-212506228.html?.tsrc=rss",
       "published": "Wed, 29 Jul 2026 21:25:06 +0000",
       "summary": "Mid-America Apartment Communities (MAA) delivered FFO and revenue surprises of 0.00% and -0.39%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty Trust Inc (IRT) (Q2 2026) Earnings Call Highlights: Market Recovery Signals ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-inc-irt-210034556.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 21:00:34 +0000",
+      "summary": "IRT reports sequential improvement in new lease rates, accelerated Wi-FY initiative, and upgraded credit outlook despite elevated interest expenses and development headwinds.",
       "is_signal": true
     },
     {
@@ -593,6 +593,17 @@
       "company": "Invitation Homes",
       "source": "INVH",
       "category": "reit",
+      "title": "Is Invitation Homes (INVH) Cheap When Earnings Look Fair?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/invitation-homes-invh-cheap-earnings-170731694.html?.tsrc=rss",
+      "published": "Sat, 01 Aug 2026 17:07:31 +0000",
+      "summary": "Invitation Homes has delivered a decline of 12.6% over the past 5 years, and the stock now trades at about US$29.72. A Discounted Cash Flow (DCF) intrinsic value estimate suggests meaningful upside, while market based multiples look roughly in line with peers. That split leaves investors weighing wh\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
       "title": "Invitation Home Q2 Earnings Call Highlights",
       "link": "https://www.marketbeat.com/instant-alerts/invitation-home-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "published": "Fri, 31 Jul 2026 11:04:11 +0000",
@@ -619,17 +630,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-inc-invh-q2-230050987.html?.tsrc=rss",
       "published": "Thu, 30 Jul 2026 23:00:50 +0000",
       "summary": "Invitation Homes Inc (INVH) reports strong Q2 2026 results with accelerating new lease growth and disciplined cost management, while navigating supply pressures and legislative tailwinds.",
-      "is_signal": true
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "source": "INVH",
-      "category": "reit",
-      "title": "Invitation Homes to Post Q2 Earnings: Is It a Portfolio Must-Have Stock?",
-      "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-post-q2-earnings-144900181.html?.tsrc=rss",
-      "published": "Fri, 24 Jul 2026 14:49:00 +0000",
-      "summary": "INVH enters Q2 earnings results with improving occupancy, stronger leasing trends and revenue growth expectations as demand stays healthy.",
       "is_signal": true
     },
     {
@@ -769,10 +769,10 @@
       "company": "NexPoint Residential Trust",
       "source": "NXRT",
       "category": "reit",
-      "title": "NexPoint Residential Trust, Inc. Announces Second Quarter 2026 Earnings Conference Call",
-      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-trust-inc-announces-203000967.html?.tsrc=rss",
-      "published": "Thu, 09 Jul 2026 20:30:00 +0000",
-      "summary": "NexPoint Residential Trust, Inc. (\"NXRT\" or the \"Company\") (NYSE: NXRT) announced today that the Company is scheduled to host a conference call on Tuesday, August 4, 2026, at 11:00 a.m. ET (10:00 am CT), to discuss second quarter 2026 financial results.",
+      "title": "NexPoint Residential Trust Inc. (NXRT) Q2 FFO and Revenues Beat Estimates",
+      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-trust-inc-nxrt-133501991.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 13:35:01 +0000",
+      "summary": "NexPoint Residential Trust Inc. (NXRT) delivered FFO and revenue surprises of +8.20% and +1.10%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
     },
     {
@@ -780,10 +780,21 @@
       "company": "NexPoint Residential Trust",
       "source": "NXRT",
       "category": "reit",
-      "title": "Why The NexPoint Residential Trust (NXRT) Story Is Shifting On Valuation, Dividends And Debt Risks",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-nexpoint-residential-trust-nxrt-080620231.html?.tsrc=rss",
-      "published": "Mon, 08 Jun 2026 08:06:20 +0000",
-      "summary": "The latest update on NexPoint Residential Trust trims the fair value estimate from US$32.00 to US$30.40, a decline of about 5% in the revised model. Analysts link this shift to a mix of supportive and cautious views, with bulls pointing to an implied cap rate near 6.7% and dividend signals, while be\u2026",
+      "title": "NEXPOINT RESIDENTIAL TRUST, INC. REPORTS SECOND QUARTER 2026 RESULTS",
+      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-trust-inc-reports-121500569.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 12:15:00 +0000",
+      "summary": "NexPoint Residential Trust, Inc. (NYSE:NXRT) reported financial results for the second quarter ended June 30, 2026.",
+      "is_signal": true
+    },
+    {
+      "ticker": "NXRT",
+      "company": "NexPoint Residential Trust",
+      "source": "NXRT",
+      "category": "reit",
+      "title": "Independence Realty Trust (IRT) Q2 FFO Beat Estimates",
+      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-q2-214503977.html?.tsrc=rss",
+      "published": "Mon, 03 Aug 2026 21:45:03 +0000",
+      "summary": "Independence Realty Trust (IRT) delivered FFO and revenue surprises of +3.70% and -1.14%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
     },
     {
@@ -796,17 +807,6 @@
       "published": "Wed, 29 Jul 2026 12:25:04 +0000",
       "summary": "Banc of California (BANC) delivered earnings and revenue surprises of -67.50% and -8.03%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
-    },
-    {
-      "ticker": "NXRT",
-      "company": "NexPoint Residential Trust",
-      "source": "NXRT",
-      "category": "reit",
-      "title": "Best Income Stocks to Buy for July 28th",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-july-123600239.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 12:36:00 +0000",
-      "summary": "NXRT, M and CCS made it to the Zacks Rank #1 (Strong Buy) income stocks list on July 28, 2026.",
-      "is_signal": false
     },
     {
       "ticker": null,
@@ -1016,28 +1016,6 @@
       "published": "2026-08-03T22:12:28Z",
       "summary": "Research from Oregon Health & Science University's Center for Mental Health Innovation provides new evidence that the way caregivers interact with children when they're very young can protect against the negative effects of inflammation during pregnancy, incl\u2026",
       "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "PRNewswire",
-      "category": "broad",
-      "title": "Trilogy Metals Provides an Update on the Strategic Equity Investment by the U.S. Department of War",
-      "link": "https://www.prnewswire.com/news-releases/trilogy-metals-provides-an-update-on-the-strategic-equity-investment-by-the-us-department-of-war-302841665.html",
-      "published": "2026-08-03T21:42:00Z",
-      "summary": "VANCOUVER, BC, Aug. 3, 2026 /PRNewswire/ -- Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") is pleased to provide an update on the previously announced strategic equity investment by the U.S. Department of Wa\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "PRNewswire",
-      "category": "broad",
-      "title": "Rice expands signature financial aid program, offering free tuition to families earning up to $200,000",
-      "link": "https://www.prnewswire.com/news-releases/rice-expands-signature-financial-aid-program-offering-free-tuition-to-families-earning-up-to-200-000--302841662.html",
-      "published": "2026-08-03T21:38:00Z",
-      "summary": "Expanded Rice Investment strengthens access and affordability while building opportunity for future generations HOUSTON, Aug. 3, 2026 /PRNewswire/ -- Rice University today announced a major expansion of the Rice Investment, its signature financial aid program\u2026",
-      "is_signal": true
     }
   ],
   "weekly_report": null,
