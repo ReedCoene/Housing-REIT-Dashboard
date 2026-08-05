@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T22:32:11.684281+00:00",
+  "last_updated": "2026-08-05T22:36:29.536934+00:00",
   "market_date": "August 05, 2026",
   "stocks": {
     "EQR": {
@@ -527,10 +527,10 @@
       "company": "Independence Realty Trust",
       "source": "IRT",
       "category": "reit",
-      "title": "Independence Realty Trust, Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-independence-realty-trust-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 12:30:00 +0000",
-      "summary": "Moby summary of Independence Realty Trust, Inc.'s Q2 2026 earnings call",
+      "title": "Independence Realty Trust boosts dividend 6%",
+      "link": "https://www.multifamilydive.com/news/irt-apartment-stock-dividend-investors/820624/?.tsrc=rss",
+      "published": "Tue, 19 May 2026 16:23:00 +0000",
+      "summary": "Chairman and CEO Scott Schaeffer cited \u201cimproving fundamentals we are seeing across our markets\u201d as a reason for the bump from $0.17 to $0.18 per share.",
       "is_signal": true
     },
     {
@@ -538,10 +538,10 @@
       "company": "Independence Realty Trust",
       "source": "IRT",
       "category": "reit",
-      "title": "Independence Realty Trust (IRT) Q2 FFO Beat Estimates",
-      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-q2-214503977.html?.tsrc=rss",
-      "published": "Mon, 03 Aug 2026 21:45:03 +0000",
-      "summary": "Independence Realty Trust (IRT) delivered FFO and revenue surprises of +3.70% and -1.14%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "title": "Independence Realty Trust, Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-independence-realty-trust-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 12:30:00 +0000",
+      "summary": "Moby summary of Independence Realty Trust, Inc.'s Q2 2026 earnings call",
       "is_signal": true
     },
     {
@@ -633,50 +633,6 @@
       "is_signal": true
     },
     {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Sun Communities, Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-sun-communities-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "published": "Wed, 29 Jul 2026 22:23:52 +0000",
-      "summary": "Moby summary of Sun Communities, Inc.'s Q2 2026 earnings call",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Sun Communities Inc (SUI) Q2 2026 Earnings Call Highlights: Surpassing Expectations with Strong ...",
-      "link": "https://finance.yahoo.com/real-estate/articles/sun-communities-inc-sui-q2-230016119.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 23:00:16 +0000",
-      "summary": "Sun Communities Inc (SUI) reports robust financial performance, exceeding guidance and enhancing shareholder value through strategic initiatives and a focused portfolio.",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Sun Communities Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/sun-communities-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 20:03:59 +0000",
-      "summary": "Sun Communities (NYSE:SUI) reported second-quarter 2026 Core FFO of $1.84 per share, exceeding the high end of its guidance range by $0.05, as strength in manufactured housing, resilient RV operations and expense management supported results. Chief Executive Officer Charles Young said the company\u2019s",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Sun Communities Reports Results for the Second Quarter and First Six Months of 2026",
-      "link": "https://finance.yahoo.com/real-estate/articles/sun-communities-reports-results-second-203400375.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 20:34:00 +0000",
-      "summary": "Net Loss per Diluted Share of $8.08 for the Quarter, inclusive of a Net Loss from Discontinued Operations Net Income per Diluted Share from Continuing Operations of $0.32 for the Quarter Core FFO per Share of $1.84 for the Quarter Same Property NOI Grew by 6.0% for the Quarter Driven by Strength in \u2026",
-      "is_signal": true
-    },
-    {
       "ticker": "ELS",
       "company": "Equity LifeStyle Properties",
       "source": "ELS",
@@ -725,21 +681,10 @@
       "company": "MRP Group",
       "source": "MRP",
       "category": "reit",
-      "title": "Millrose Properties to Provide Permanent Capital Solution to JPI for Multifamily Housing Development",
-      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-permanent-capital-solution-120000267.html?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 12:00:00 +0000",
-      "summary": "MIAMI & DALLAS, July 30, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, and JPI, a premier developer of multifamily communities and subsidiary of Sumitomo Forestry Co., Ltd. (TSE: 1911), today announced the closing of the first acq\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "MRP",
-      "company": "MRP Group",
-      "source": "MRP",
-      "category": "reit",
-      "title": "Millrose Properties Announces Date of Second Quarter 2026 Earnings Release and Conference Call",
-      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-announces-date-second-203000535.html?.tsrc=rss",
-      "published": "Tue, 14 Jul 2026 20:30:00 +0000",
-      "summary": "MIAMI, July 14, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, today announced that it will release its financial results for the second quarter ended June 30, 2026, before the market opens on Tuesday, August 4, 2026. The Company w\u2026",
+      "title": "Millrose Properties Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/millrose-properties-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 11:04:03 +0000",
+      "summary": "Millrose Properties (NYSE:MRP) reported second-quarter 2026 adjusted funds from operations of $127.6 million, or $0.77 per diluted share, as recurring option-fee income increased alongside its invested capital base. The company said its exit run-rate AFFO was about $0.80 per share after redeploying",
       "is_signal": true
     },
     {
@@ -758,11 +703,22 @@
       "company": "MRP Group",
       "source": "MRP",
       "category": "reit",
-      "title": "Millrose Properties Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/millrose-properties-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 11:04:03 +0000",
-      "summary": "Millrose Properties (NYSE:MRP) reported second-quarter 2026 adjusted funds from operations of $127.6 million, or $0.77 per diluted share, as recurring option-fee income increased alongside its invested capital base. The company said its exit run-rate AFFO was about $0.80 per share after redeploying",
+      "title": "Millrose Properties Reports Second Quarter 2026 Financial Results",
+      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-reports-second-quarter-120000859.html?.tsrc=rss",
+      "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+      "summary": "MIAMI, August 04, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\" or the \"Company\"), the homesite option platform for residential homebuilders and developers, today announced its financial results for the second quarter ended June 30, 2026.",
       "is_signal": true
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
+      "title": "Millrose Properties to Provide Permanent Capital Solution to JPI for Multifamily Housing Development",
+      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-permanent-capital-solution-120000267.html?.tsrc=rss",
+      "published": "Thu, 30 Jul 2026 12:00:00 +0000",
+      "summary": "MIAMI & DALLAS, July 30, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, and JPI, a premier developer of multifamily communities and subsidiary of Sumitomo Forestry Co., Ltd. (TSE: 1911), today announced the closing of the first acq\u2026",
+      "is_signal": false
     },
     {
       "ticker": "NXRT",
