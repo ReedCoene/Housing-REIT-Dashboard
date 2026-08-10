@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T22:03:30.044837+00:00",
+  "last_updated": "2026-08-10T22:09:02.069321+00:00",
   "market_date": "August 10, 2026",
   "stocks": {
     "EQR": {
@@ -285,17 +285,6 @@
       "company": "AvalonBay Communities",
       "source": "AVB",
       "category": "reit",
-      "title": "Apartment REITs Signal Recovery, but Lease Pricing Lags",
-      "link": "https://www.credaily.com/briefs/apartment-reits-signal-recovery-but-lease-pricing-lags/?.tsrc=rss",
-      "published": "Thu, 06 Aug 2026 05:50:45 +0000",
-      "summary": "Apartment REITs show recovery, but new lease pricing stays uneven as coastal markets continue outperforming Sun Belt peers.",
-      "is_signal": false
-    },
-    {
-      "ticker": "AVB",
-      "company": "AvalonBay Communities",
-      "source": "AVB",
-      "category": "reit",
       "title": "AvalonBay Communities (AVB) Could Be 8% Below Fair Value As Merger Plans Progress",
       "link": "https://finance.yahoo.com/real-estate/articles/avalonbay-communities-avb-could-8-080823525.html?.tsrc=rss",
       "published": "Sun, 02 Aug 2026 08:08:23 +0000",
@@ -307,21 +296,32 @@
       "company": "AvalonBay Communities",
       "source": "AVB",
       "category": "reit",
-      "title": "Equity Residential, AvalonBay announce name of combined firm: Vivmark Residential",
-      "link": "https://www.multifamilydive.com/news/equity-residential-avalonbay-combined-vivmark-residential/826741/?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 13:45:00 +0000",
-      "summary": "The name reflects \u201ca company determined to set a new standard for the experience of home,\u201d said Benjamin Schall, AvalonBay CEO and incoming CEO of Vivmark Residential.",
-      "is_signal": false
+      "title": "AvalonBay Q2 FFO Beats Estimates on Same-Store Gains, '26 Views Raised",
+      "link": "https://finance.yahoo.com/real-estate/articles/avalonbay-q2-ffo-beats-estimates-150000229.html?.tsrc=rss",
+      "published": "Thu, 23 Jul 2026 15:00:00 +0000",
+      "summary": "AVB tops Q2 core FFO estimates, raises its same-store outlook and advances development plans as it moves closer to its proposed merger.",
+      "is_signal": true
     },
     {
       "ticker": "AVB",
       "company": "AvalonBay Communities",
       "source": "AVB",
       "category": "reit",
-      "title": "Camden Property Q2 FFO & Revenues Beat Estimates, Occupancy Improves",
-      "link": "https://finance.yahoo.com/real-estate/articles/camden-property-q2-ffo-revenues-132700622.html?.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 13:27:00 +0000",
-      "summary": "CPT tops Q2 core FFO estimates as occupancy remains firm and leasing trends improve, while acquisitions and updated guidance shape its outlook.",
+      "title": "AvalonBay (AVB) Reports Q2 Earnings: What Key Metrics Have to Say",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/avalonbay-avb-reports-q2-earnings-220003819.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 22:00:03 +0000",
+      "summary": "Although the revenue and EPS for AvalonBay (AVB) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+      "is_signal": true
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
+      "title": "AvalonBay Communities (AVB) Beats Q2 FFO and Revenue Estimates",
+      "link": "https://finance.yahoo.com/real-estate/articles/avalonbay-communities-avb-beats-q2-215502766.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 21:55:02 +0000",
+      "summary": "AvalonBay (AVB) delivered FFO and revenue surprises of +2.14% and +0.31%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
     },
     {
@@ -450,10 +450,10 @@
       "company": "UDR Inc",
       "source": "UDR",
       "category": "reit",
-      "title": "UDR (UDR) Reports Q2 Earnings: What Key Metrics Have to Say",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/udr-udr-reports-q2-earnings-220003573.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 22:00:03 +0000",
-      "summary": "Although the revenue and EPS for UDR (UDR) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+      "title": "United Dominion Realty Trust Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/united-dominion-realty-trust-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:04:13 +0000",
+      "summary": "United Dominion Realty Trust (NYSE:UDR) raised its full-year outlook after reporting second-quarter results that exceeded its expectations, supported by stronger apartment operating trends, higher retention and expense controls. Chairman, President and CEO Tom Toomey said apartment fundamentals hav",
       "is_signal": true
     },
     {
@@ -725,6 +725,28 @@
       "company": "MRP Group",
       "source": "MRP",
       "category": "reit",
+      "title": "Dream Finders to Acquire Rival Homebuilder Beazer in $2.2 Billion Deal",
+      "link": "https://finance.yahoo.com/real-estate/articles/dream-finders-acquire-rival-homebuilder-175536437.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 17:55:36 +0000",
+      "summary": "Dream Finders Homes (DFH) has agreed to acquire Beazer Homes USA (BZH) in a roughly $2.2 billion all",
+      "is_signal": false
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
+      "title": "Dream Finders to Buy Beazer for $915 Million",
+      "link": "https://www.wsj.com/business/deals/dream-finders-to-buy-beazer-for-915-million-d808be05?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 11:51:00 +0000",
+      "summary": "Dream Finders Homes inked a deal to buy Beazer Homes for about $915 million, following several months of talks.",
+      "is_signal": false
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
       "title": "Millrose Properties to Provide Capital Support for Dream Finders Homes' Announced Acquisition of Beazer Homes with Up to $1.25 Billion Commitment",
       "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-capital-support-dream-111900187.html?.tsrc=rss",
       "published": "Fri, 07 Aug 2026 11:19:00 +0000",
@@ -736,32 +758,10 @@
       "company": "MRP Group",
       "source": "MRP",
       "category": "reit",
-      "title": "Millrose Properties to Provide Permanent Capital Solution to JPI for Multifamily Housing Development",
-      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-permanent-capital-solution-120000267.html?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 12:00:00 +0000",
-      "summary": "MIAMI & DALLAS, July 30, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, and JPI, a premier developer of multifamily communities and subsidiary of Sumitomo Forestry Co., Ltd. (TSE: 1911), today announced the closing of the first acq\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": "MRP",
-      "company": "MRP Group",
-      "source": "MRP",
-      "category": "reit",
-      "title": "Millrose Properties Announces Date of Second Quarter 2026 Earnings Release and Conference Call",
-      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-announces-date-second-203000535.html?.tsrc=rss",
-      "published": "Tue, 14 Jul 2026 20:30:00 +0000",
-      "summary": "MIAMI, July 14, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, today announced that it will release its financial results for the second quarter ended June 30, 2026, before the market opens on Tuesday, August 4, 2026. The Company w\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MRP",
-      "company": "MRP Group",
-      "source": "MRP",
-      "category": "reit",
-      "title": "Millrose Properties, Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-millrose-properties-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "published": "Tue, 04 Aug 2026 16:46:13 +0000",
-      "summary": "Moby summary of Millrose Properties, Inc.'s Q2 2026 earnings call",
+      "title": "Millrose Properties Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/millrose-properties-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 11:04:03 +0000",
+      "summary": "Millrose Properties (NYSE:MRP) reported second-quarter 2026 adjusted funds from operations of $127.6 million, or $0.77 per diluted share, as recurring option-fee income increased alongside its invested capital base. The company said its exit run-rate AFFO was about $0.80 per share after redeploying",
       "is_signal": true
     },
     {
@@ -1064,13 +1064,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Dailymail.com",
+      "source": "MarketBeat",
       "category": "broad",
-      "title": "Labour jail plan to spark 89,000 more crimes: As Andy Burnham pursues early release scheme, analysis shows sex offenders, robbers and arsonists will cause mayhem",
-      "link": "https://www.dailymail.com/news/article-16040287/Labour-jail-plan-spark-crime-Burnham-early-release.html",
-      "published": "2026-08-09T21:18:45Z",
-      "summary": "Sex offenders, robbers, arsonists and violent criminals will commit nearly 90,000 extra offences after being freed early, according to analysis.",
-      "is_signal": false
+      "title": "Crombie Real Estate Investment Trust Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/crombie-real-estate-investment-trust-q2-earnings-call-highlights-2026-08-09/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+      "published": "2026-08-09T22:03:47Z",
+      "summary": "Crombie Real Estate Investment Trust (TSE:CRR.UN) reported second-quarter results marked by continued leasing growth, near-record occupancy and a strengthene...",
+      "is_signal": true
     }
   ],
   "weekly_report": null,
