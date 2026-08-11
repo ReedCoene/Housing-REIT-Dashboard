@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T22:09:16.785546+00:00",
+  "last_updated": "2026-08-11T22:20:31.169486+00:00",
   "market_date": "August 11, 2026",
   "stocks": {
     "EQR": {
@@ -92,7 +92,7 @@
       "price": 33.87,
       "prev_close": 34.13,
       "pct_change": -0.76,
-      "market_cap": 0,
+      "market_cap": 13885073408,
       "dividend_yield": 3.87,
       "fifty_two_week_high": 35.85,
       "fifty_two_week_low": 27.22,
@@ -241,6 +241,28 @@
       "company": "Equity Residential",
       "source": "EQR",
       "category": "reit",
+      "title": "Apartment REITs Signal Recovery, but Lease Pricing Lags",
+      "link": "https://www.credaily.com/briefs/apartment-reits-signal-recovery-but-lease-pricing-lags/?.tsrc=rss",
+      "published": "Thu, 06 Aug 2026 05:50:45 +0000",
+      "summary": "Apartment REITs show recovery, but new lease pricing stays uneven as coastal markets continue outperforming Sun Belt peers.",
+      "is_signal": false
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Equity Residential (EQR) On Second Quarter Results And The Case For Undervalued Shares",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-eqr-second-quarter-130959160.html?.tsrc=rss",
+      "published": "Sat, 01 Aug 2026 13:09:59 +0000",
+      "summary": "Equity Residential (EQR) has just released second quarter 2026 results, giving investors fresh detail on how its apartment portfolio is performing. The company also remains in focus following its planned merger into Vivmark Residential. See our latest analysis for Equity Residential. At a share pric\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
       "title": "Equity Residential, AvalonBay announce name of combined firm: Vivmark Residential",
       "link": "https://www.multifamilydive.com/news/equity-residential-avalonbay-combined-vivmark-residential/826741/?.tsrc=rss",
       "published": "Fri, 31 Jul 2026 13:45:00 +0000",
@@ -252,32 +274,10 @@
       "company": "Equity Residential",
       "source": "EQR",
       "category": "reit",
-      "title": "3 Apartment REITs to Buy for Passive Income Before July Ends",
-      "link": "https://247wallst.com/investing/2026/07/25/3-apartment-reits-to-buy-for-passive-income-before-july-ends/?.tsrc=rss",
-      "published": "Sat, 25 Jul 2026 12:00:04 +0000",
-      "summary": "Multifamily supply is falling off a cliff, and three apartment REITs are paying dividends this month before most investors notice the setup has changed.",
-      "is_signal": true
-    },
-    {
-      "ticker": "EQR",
-      "company": "Equity Residential",
-      "source": "EQR",
-      "category": "reit",
-      "title": "AvalonBay, Equity Residential beat FFO estimates in Q2",
-      "link": "https://www.multifamilydive.com/news/multifamily-reit-mergers-earnings-report/826090/?.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 16:16:00 +0000",
-      "summary": "The \u201cmerger of equals\u201d partners raised guidance, following signs of strength in San Francisco and New York City.",
-      "is_signal": true
-    },
-    {
-      "ticker": "EQR",
-      "company": "Equity Residential",
-      "source": "EQR",
-      "category": "reit",
-      "title": "Equity Residential (EQR) Q2 Earnings: How Key Metrics Compare to Wall Street Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-residential-eqr-q2-earnings-223004327.html?.tsrc=rss",
-      "published": "Wed, 22 Jul 2026 22:30:04 +0000",
-      "summary": "The headline numbers for Equity Residential (EQR) give insight into how the company performed in the quarter ended June 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
+      "title": "Camden Property Q2 FFO & Revenues Beat Estimates, Occupancy Improves",
+      "link": "https://finance.yahoo.com/real-estate/articles/camden-property-q2-ffo-revenues-132700622.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 13:27:00 +0000",
+      "summary": "CPT tops Q2 core FFO estimates as occupancy remains firm and leasing trends improve, while acquisitions and updated guidance shape its outlook.",
       "is_signal": true
     },
     {
@@ -373,43 +373,43 @@
       "company": "Mid-America Apartment",
       "source": "MAA",
       "category": "reit",
-      "title": "Apartment REITs Signal Recovery, but Lease Pricing Lags",
-      "link": "https://www.credaily.com/briefs/apartment-reits-signal-recovery-but-lease-pricing-lags/?.tsrc=rss",
-      "published": "Thu, 06 Aug 2026 05:50:45 +0000",
-      "summary": "Apartment REITs show recovery, but new lease pricing stays uneven as coastal markets continue outperforming Sun Belt peers.",
-      "is_signal": false
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
-      "title": "National Healthcare Properties Reports Second Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/healthcare/articles/national-healthcare-properties-reports-second-204800640.html?.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 20:48:00 +0000",
-      "summary": "SHOP Same Store Cash NOI increased 20.1% on a year-over-year basis $400 million of 2026 SHOP acquisitions completed or under definitive agreement Secured an additional $650 million of credit facility commitments at improved spreads and terms Transformed net leverage profile with successful IPO Appoi\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
-      "title": "Mid-America Apartment Communities Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/mid-america-apartment-communities-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 13:03:59 +0000",
-      "summary": "Mid-America Apartment Communities (NYSE:MAA) reported second-quarter Core FFO of $2.08 per diluted share, exceeding its guidance by $0.02, as lower-than-expected property operating expenses and contributions from its non-same-store portfolio offset slightly softer same-store revenue. Chief Executiv",
-      "is_signal": true
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
       "title": "Mid-America Apartment Communities Inc (MAA) (Q2 2026) Earnings Call Highlights: Strong Demand ...",
       "link": "https://finance.yahoo.com/real-estate/articles/mid-america-apartment-communities-inc-210648710.html?.tsrc=rss",
       "published": "Thu, 30 Jul 2026 21:06:48 +0000",
       "summary": "Core FFO beats expectations as robust migration and record-low rent-to-income ratios support operations, but cautious consumer sentiment and supply pressures temper revenue growth.",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "Mid-America Apartment Communities (MAA) Meets Q2 FFO Estimates",
+      "link": "https://finance.yahoo.com/real-estate/articles/mid-america-apartment-communities-maa-212506228.html?.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 21:25:06 +0000",
+      "summary": "Mid-America Apartment Communities (MAA) delivered FFO and revenue surprises of 0.00% and -0.39%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "Mid-America Apartment to Post Q2 Earnings: Is MAA a Must-Have Stock?",
+      "link": "https://finance.yahoo.com/real-estate/articles/mid-america-apartment-post-q2-143300947.html?.tsrc=rss",
+      "published": "Fri, 24 Jul 2026 14:33:00 +0000",
+      "summary": "MAA heads into Q2 earnings results with steady occupancy, improving lease trends and easing supply pressures, but higher costs are likely to have weighed on core FFO.",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
+      "title": "Earnings Preview: What To Expect From Mid-America Apartment Communities' Report",
+      "link": "https://www.barchart.com/story/news/3143662/earnings-preview-what-to-expect-from-mid-america-apartment-communities-report?.tsrc=rss",
+      "published": "Mon, 06 Jul 2026 15:02:28 +0000",
+      "summary": "Mid-America Apartment Communities is poised to release its second-quarter results later this month, with analysts expecting a single-digit decline in core FFO year-over-year.",
       "is_signal": true
     },
     {
@@ -450,10 +450,10 @@
       "company": "UDR Inc",
       "source": "UDR",
       "category": "reit",
-      "title": "UDR (UDR) Reports Q2 Earnings: What Key Metrics Have to Say",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/udr-udr-reports-q2-earnings-220003573.html?.tsrc=rss",
-      "published": "Mon, 27 Jul 2026 22:00:03 +0000",
-      "summary": "Although the revenue and EPS for UDR (UDR) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+      "title": "United Dominion Realty Trust Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/united-dominion-realty-trust-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 21:04:13 +0000",
+      "summary": "United Dominion Realty Trust (NYSE:UDR) raised its full-year outlook after reporting second-quarter results that exceeded its expectations, supported by stronger apartment operating trends, higher retention and expense controls. Chairman, President and CEO Tom Toomey said apartment fundamentals hav",
       "is_signal": true
     },
     {
@@ -571,10 +571,10 @@
       "company": "American Homes 4 Rent",
       "source": "AMH",
       "category": "reit",
-      "title": "American Homes 4 Rent Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/american-homes-4-rent-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Fri, 31 Jul 2026 17:04:22 +0000",
-      "summary": "American Homes 4 Rent (NYSE:AMH) raised the midpoint of its 2026 Core FFO-per-share guidance after reporting second-quarter results that management said reflected strong leasing execution, controlled expenses, development lease-up activity and higher-than-expected disposition proceeds. Chief Execut",
+      "title": "American Homes 4 Rent (AMH) (Q2 2026) Earnings Call Highlights: Strong FFO Growth and Raised ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/american-homes-4-rent-amh-230153275.html?.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 23:01:53 +0000",
+      "summary": "AMH delivers solid Q2 results with core FFO up 5.2% year-over-year, raises full-year guidance, and navigates a shifting regulatory landscape.",
       "is_signal": true
     },
     {
@@ -582,10 +582,10 @@
       "company": "American Homes 4 Rent",
       "source": "AMH",
       "category": "reit",
-      "title": "Compared to Estimates, American Homes 4 Rent (AMH) Q2 Earnings: A Look at Key Metrics",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-american-homes-4-230004509.html?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 23:00:04 +0000",
-      "summary": "While the top- and bottom-line numbers for American Homes 4 Rent (AMH) give a sense of how the business performed in the quarter ended June 2026, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+      "title": "American Homes 4 Rent Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/american-homes-4-rent-q2-earnings-call-highlights-2026-07-31/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Fri, 31 Jul 2026 17:04:22 +0000",
+      "summary": "American Homes 4 Rent (NYSE:AMH) raised the midpoint of its 2026 Core FFO-per-share guidance after reporting second-quarter results that management said reflected strong leasing execution, controlled expenses, development lease-up activity and higher-than-expected disposition proceeds. Chief Execut",
       "is_signal": true
     },
     {
@@ -637,6 +637,17 @@
       "company": "Sun Communities",
       "source": "SUI",
       "category": "reit",
+      "title": "Sun Communities, Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-sun-communities-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Wed, 29 Jul 2026 22:23:52 +0000",
+      "summary": "Moby summary of Sun Communities, Inc.'s Q2 2026 earnings call",
+      "is_signal": true
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
       "title": "Sun Communities Inc (SUI) Q2 2026 Earnings Call Highlights: Surpassing Expectations with Strong ...",
       "link": "https://finance.yahoo.com/real-estate/articles/sun-communities-inc-sui-q2-230016119.html?.tsrc=rss",
       "published": "Tue, 28 Jul 2026 23:00:16 +0000",
@@ -648,10 +659,10 @@
       "company": "Sun Communities",
       "source": "SUI",
       "category": "reit",
-      "title": "SUN COMMUNITIES APPOINTS ILEANA MCALARY AS GENERAL COUNSEL, EXECUTIVE VICE PRESIDENT, AND SECRETARY",
-      "link": "https://finance.yahoo.com/real-estate/articles/sun-communities-appoints-ileana-mcalary-201800547.html?.tsrc=rss",
-      "published": "Mon, 22 Jun 2026 20:18:00 +0000",
-      "summary": "Southfield, MI, June 22, 2026 (GLOBE NEWSWIRE) -- Sun Communities, Inc. (NYSE: SUI) (the \u201cCompany\u201d), a real estate investment trust (\u201cREIT\u201d) that owns and operates, or has an interest in, manufactured housing (\u201cMH\u201d) and recreational vehicle (\u201cRV\u201d) communities (collectively, the \u201cproperties\u201d), today \u2026",
+      "title": "Sun Communities Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/sun-communities-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Tue, 28 Jul 2026 20:03:59 +0000",
+      "summary": "Sun Communities (NYSE:SUI) reported second-quarter 2026 Core FFO of $1.84 per share, exceeding the high end of its guidance range by $0.05, as strength in manufactured housing, resilient RV operations and expense management supported results. Chief Executive Officer Charles Young said the company\u2019s",
       "is_signal": true
     },
     {
@@ -659,32 +670,10 @@
       "company": "Sun Communities",
       "source": "SUI",
       "category": "reit",
-      "title": "Why RBC Still Likes Sun Communities (SUI) After Its Latest Asset Sale",
-      "link": "https://finance.yahoo.com/real-estate/articles/why-rbc-still-likes-sun-002431959.html?.tsrc=rss",
-      "published": "Fri, 19 Jun 2026 00:24:31 +0000",
-      "summary": "With a short percentage of shares outstanding of 2.59%, Sun Communities, Inc. (NYSE:SUI) is among the 7 Best \u201cLand Owner\u201d Stocks to Buy for Hard Asset Value. On June 5, RBC Capital lowered its price target on Sun Communities, Inc. (NYSE:SUI) to $149 from $151 while maintaining an Outperform rating o\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Deutsche Bank Maintains Hold Rating on Sun Communities (SUI)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-bank-maintains-hold-rating-230752044.html?.tsrc=rss",
-      "published": "Mon, 25 May 2026 23:07:52 +0000",
-      "summary": "Sun Communities, Inc. (NYSE:SUI) is one of the 10 Best Residential REITs to Buy in 2026. On May 14, 2026, Deutsche Bank lowered the firm\u2019s price target on Sun Communities, Inc. (NYSE:SUI) to $133 from $138 and maintained a Hold rating on the shares. Truist also lowered the firm\u2019s price target on Sun\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "ELS",
-      "company": "Equity LifeStyle Properties",
-      "source": "ELS",
-      "category": "reit",
-      "title": "ELS Declares Third Quarter 2026 Dividend",
-      "link": "https://finance.yahoo.com/real-estate/articles/els-declares-third-quarter-2026-211400060.html?.tsrc=rss",
-      "published": "Tue, 28 Jul 2026 21:14:00 +0000",
-      "summary": "On July 28, 2026, the Board of Directors of Equity LifeStyle Properties, Inc. (NYSE: ELS) (referred to herein as \"we,\" \"us,\" and \"our\") declared a third quarter 2026 dividend of $0.5425 per common share, representing, on an annualized basis, a dividend of $2.17 per common share. The dividend will be\u2026",
+      "title": "Sun Communities Reports Results for the Second Quarter and First Six Months of 2026",
+      "link": "https://finance.yahoo.com/real-estate/articles/sun-communities-reports-results-second-203400375.html?.tsrc=rss",
+      "published": "Mon, 27 Jul 2026 20:34:00 +0000",
+      "summary": "Net Loss per Diluted Share of $8.08 for the Quarter, inclusive of a Net Loss from Discontinued Operations Net Income per Diluted Share from Continuing Operations of $0.32 for the Quarter Core FFO per Share of $1.84 for the Quarter Same Property NOI Grew by 6.0% for the Quarter Driven by Strength in \u2026",
       "is_signal": true
     },
     {
@@ -714,10 +703,21 @@
       "company": "Equity LifeStyle Properties",
       "source": "ELS",
       "category": "reit",
-      "title": "Equity LifeStyle Properties, Inc. Q2 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-equity-lifestyle-properties-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "published": "Thu, 23 Jul 2026 12:30:00 +0000",
-      "summary": "Moby summary of Equity LifeStyle Properties, Inc.'s Q2 2026 earnings call",
+      "title": "Equity Lifestyle Properties (ELS) Surpasses Q2 FFO and Revenue Estimates",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/equity-lifestyle-properties-els-surpasses-215504729.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 21:55:04 +0000",
+      "summary": "Equity Lifestyle Properties (ELS) delivered FFO and revenue surprises of +2.78% and +4.02%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "is_signal": true
+    },
+    {
+      "ticker": "ELS",
+      "company": "Equity LifeStyle Properties",
+      "source": "ELS",
+      "category": "reit",
+      "title": "ELS Reports Second Quarter Results",
+      "link": "https://finance.yahoo.com/real-estate/articles/els-reports-second-quarter-results-201600431.html?.tsrc=rss",
+      "published": "Wed, 22 Jul 2026 20:16:00 +0000",
+      "summary": "Equity LifeStyle Properties, Inc. (NYSE: ELS) (referred to herein as \"we,\" \"us,\" and \"our\") today announced results for the quarter and six months ended June 30, 2026. All per share results are reported on a fully diluted basis unless otherwise noted.",
       "is_signal": true
     },
     {
@@ -736,21 +736,10 @@
       "company": "MRP Group",
       "source": "MRP",
       "category": "reit",
-      "title": "Millrose Properties to Provide Capital Support for Dream Finders Homes' Announced Acquisition of Beazer Homes with Up to $1.25 Billion Commitment",
-      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-capital-support-dream-111900187.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 11:19:00 +0000",
-      "summary": "MIAMI, August 07, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, today announced a commitment by its manager to provide acquisition financing of up to $1.25 billion to support Dream Finders Homes, Inc.\u2019s (\"Dream Finders\") publicly \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MRP",
-      "company": "MRP Group",
-      "source": "MRP",
-      "category": "reit",
-      "title": "Millrose Properties to Provide Permanent Capital Solution to JPI for Multifamily Housing Development",
-      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-permanent-capital-solution-120000267.html?.tsrc=rss",
-      "published": "Thu, 30 Jul 2026 12:00:00 +0000",
-      "summary": "MIAMI & DALLAS, July 30, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, and JPI, a premier developer of multifamily communities and subsidiary of Sumitomo Forestry Co., Ltd. (TSE: 1911), today announced the closing of the first acq\u2026",
+      "title": "Dream Finders to Acquire Rival Homebuilder Beazer in $2.2 Billion Deal",
+      "link": "https://finance.yahoo.com/real-estate/articles/dream-finders-acquire-rival-homebuilder-175536437.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 17:55:36 +0000",
+      "summary": "Dream Finders Homes (DFH) has agreed to acquire Beazer Homes USA (BZH) in a roughly $2.2 billion all",
       "is_signal": false
     },
     {
@@ -758,10 +747,21 @@
       "company": "MRP Group",
       "source": "MRP",
       "category": "reit",
-      "title": "Millrose Properties Announces Date of Second Quarter 2026 Earnings Release and Conference Call",
-      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-announces-date-second-203000535.html?.tsrc=rss",
-      "published": "Tue, 14 Jul 2026 20:30:00 +0000",
-      "summary": "MIAMI, July 14, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, today announced that it will release its financial results for the second quarter ended June 30, 2026, before the market opens on Tuesday, August 4, 2026. The Company w\u2026",
+      "title": "Dream Finders to Buy Beazer for $915 Million",
+      "link": "https://www.wsj.com/business/deals/dream-finders-to-buy-beazer-for-915-million-d808be05?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 11:51:00 +0000",
+      "summary": "Dream Finders Homes inked a deal to buy Beazer Homes for about $915 million, following several months of talks.",
+      "is_signal": false
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
+      "title": "Millrose Properties to Provide Capital Support for Dream Finders Homes' Announced Acquisition of Beazer Homes with Up to $1.25 Billion Commitment",
+      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-capital-support-dream-111900187.html?.tsrc=rss",
+      "published": "Fri, 07 Aug 2026 11:19:00 +0000",
+      "summary": "MIAMI, August 07, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, today announced a commitment by its manager to provide acquisition financing of up to $1.25 billion to support Dream Finders Homes, Inc.\u2019s (\"Dream Finders\") publicly \u2026",
       "is_signal": true
     },
     {
@@ -780,33 +780,33 @@
       "company": "NexPoint Residential Trust",
       "source": "NXRT",
       "category": "reit",
-      "title": "New Strong Buy Stocks for August 7th",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/strong-buy-stocks-august-7th-084600026.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 08:46:00 +0000",
-      "summary": "EDRY, OPBK, SUPN, MSBI and NXRT have been added to the Zacks Rank #1 (Strong Buy) List on August 7th, 2026.",
-      "is_signal": false
-    },
-    {
-      "ticker": "NXRT",
-      "company": "NexPoint Residential Trust",
-      "source": "NXRT",
-      "category": "reit",
-      "title": "Best Value Stocks to Buy for August 7th",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/best-value-stocks-buy-august-074500164.html?.tsrc=rss",
-      "published": "Fri, 07 Aug 2026 07:45:00 +0000",
-      "summary": "BCAL, SUPN and NXRT made it to the Zacks Rank #1 (Strong Buy) value stocks list on August 7th, 2026.",
-      "is_signal": false
-    },
-    {
-      "ticker": "NXRT",
-      "company": "NexPoint Residential Trust",
-      "source": "NXRT",
-      "category": "reit",
       "title": "Best Income Stocks to Buy for August 7th",
       "link": "https://finance.yahoo.com/markets/stocks/articles/best-income-stocks-buy-august-065700718.html?.tsrc=rss",
       "published": "Fri, 07 Aug 2026 06:57:00 +0000",
       "summary": "NXRT, QUAD and MSBI made it to the Zacks Rank #1 (Strong Buy) income stocks list on August 7th, 2026.",
       "is_signal": false
+    },
+    {
+      "ticker": "NXRT",
+      "company": "NexPoint Residential Trust",
+      "source": "NXRT",
+      "category": "reit",
+      "title": "NexPoint Residential Trust Q2 Earnings Call Highlights",
+      "link": "https://www.marketbeat.com/instant-alerts/nexpoint-residential-trust-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 12:04:06 +0000",
+      "summary": "NexPoint Residential Trust (NYSE:NXRT) lowered its full-year 2026 core funds from operations guidance after higher projected interest expense and softer-than-expected revenue in several markets, despite management pointing to improving leasing trends and lower operating-cost growth. The multifamily",
+      "is_signal": true
+    },
+    {
+      "ticker": "NXRT",
+      "company": "NexPoint Residential Trust",
+      "source": "NXRT",
+      "category": "reit",
+      "title": "NexPoint Residential Trust, Inc. Q2 2026 Earnings Call Summary",
+      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-nexpoint-residential-trust-inc-q2-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "published": "Wed, 05 Aug 2026 12:30:00 +0000",
+      "summary": "Moby summary of NexPoint Residential Trust, Inc.'s Q2 2026 earnings call",
+      "is_signal": true
     },
     {
       "ticker": null,
@@ -1081,17 +1081,6 @@
       "link": "http://ma.tt/2026/08/omfest-registration/",
       "published": "2026-08-10T21:54:47Z",
       "summary": "Thank you to everyone who expressed interest in shaping OmFest. We\u2019re still working out some details, but we\u2019ve got a Luma registration page for the event up. Please join on September 29, 2026, Om\u2019s 60th birth anniversary, for an eclectic conference curated b\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Vanguard",
-      "category": "broad",
-      "title": "Abuja-Kano road to be completed in November \u2013 Umahi",
-      "link": "https://www.vanguardngr.com/2026/08/abuja-kano-road-to-be-completed-in-november-umahi/",
-      "published": "2026-08-10T21:42:23Z",
-      "summary": "Umahi said the Federal Government had spent more than N200 billion on the project, adding that the current phase, alongside other components, had received more than 80 per cent payment.\nThe post Abuja-Kano road to be completed in November \u2013 Umahi appeared fir\u2026",
       "is_signal": false
     }
   ],
