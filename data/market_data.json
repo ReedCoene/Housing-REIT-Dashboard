@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T21:43:30.282756+00:00",
+  "last_updated": "2026-08-18T21:50:30.062017+00:00",
   "market_date": "August 18, 2026",
   "stocks": {
     "EQR": {
@@ -1053,13 +1053,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Medical Daily",
+      "source": "Associated Press",
       "category": "broad",
-      "title": "Five Infants Were Possibly Exposed to HIV Through Breast Milk Shared in a Social Media Group",
-      "link": "https://www.medicaldaily.com/infant-hiv-exposure-donated-breast-milk-social-media-santa-clara-477413",
-      "published": "2026-08-17T21:25:11Z",
-      "summary": "Health officials traced five infants possibly exposed to HIV through breast milk shared online. All tested negative. What parents should know now.",
-      "is_signal": false
+      "title": "Wells Fargo invests $1.5 million with Habitat for Humanity to scale innovative home construction in rural communities",
+      "link": "https://apnews.com/press-release/pr-newswire/press-release-cd36565a2887cde6bbf881ba77afe3bd",
+      "published": "2026-08-17T21:44:42Z",
+      "summary": "DES MOINES, Iowa, Aug. 17, 2026 /PRNewswire/ -- Wells Fargo announced today at the Iowa State Fair that it is making a $1.5 million investment to Habitat for Humanity to focus on innovative and affordable housing options in towns and rural communities across \u2026",
+      "is_signal": true
     }
   ],
   "weekly_report": null,
