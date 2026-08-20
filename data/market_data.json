@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T21:52:51.743717+00:00",
-  "market_date": "August 19, 2026",
+  "last_updated": "2026-08-20T21:49:33.408275+00:00",
+  "market_date": "August 20, 2026",
   "stocks": {
     "EQR": {
       "name": "Equity Residential",
@@ -8,7 +8,7 @@
       "price": 63.66,
       "prev_close": 63.66,
       "pct_change": 0.0,
-      "market_cap": 24609972224,
+      "market_cap": 24611481600,
       "dividend_yield": 4.26,
       "fifty_two_week_high": 71.5,
       "fifty_two_week_low": 57.57,
@@ -29,11 +29,11 @@
     "ESS": {
       "name": "Essex Property Trust",
       "ticker": "ESS",
-      "price": 287.36,
-      "prev_close": 283.71,
-      "pct_change": 1.29,
-      "market_cap": 19806629888,
-      "dividend_yield": 3.65,
+      "price": 287.71,
+      "prev_close": 287.36,
+      "pct_change": 0.12,
+      "market_cap": 19832680448,
+      "dividend_yield": 3.61,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -41,11 +41,11 @@
     "MAA": {
       "name": "Mid-America Apartment",
       "ticker": "MAA",
-      "price": 131.47,
-      "prev_close": 130.17,
-      "pct_change": 1.0,
-      "market_cap": 15687873536,
-      "dividend_yield": 4.7,
+      "price": 132.06,
+      "prev_close": 131.47,
+      "pct_change": 0.45,
+      "market_cap": 15710358528,
+      "dividend_yield": 4.66,
       "fifty_two_week_high": 146.41,
       "fifty_two_week_low": 120.3,
       "next_earnings": "2026-10-28"
@@ -53,11 +53,11 @@
     "UDR": {
       "name": "UDR Inc",
       "ticker": "UDR",
-      "price": 37.51,
-      "prev_close": 37.09,
-      "pct_change": 1.13,
-      "market_cap": 13898041344,
-      "dividend_yield": 0,
+      "price": 37.69,
+      "prev_close": 37.51,
+      "pct_change": 0.48,
+      "market_cap": 13845956608,
+      "dividend_yield": 4.61,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-10-28"
@@ -65,11 +65,11 @@
     "CPT": {
       "name": "Camden Property Trust",
       "ticker": "CPT",
-      "price": 108.4,
-      "prev_close": 107.28,
-      "pct_change": 1.04,
-      "market_cap": 10898465792,
-      "dividend_yield": 0,
+      "price": 107.92,
+      "prev_close": 108.4,
+      "pct_change": -0.44,
+      "market_cap": 10850206720,
+      "dividend_yield": 3.91,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-07-30"
@@ -77,11 +77,11 @@
     "IRT": {
       "name": "Independence Realty Trust",
       "ticker": "IRT",
-      "price": 16.62,
-      "prev_close": 16.38,
-      "pct_change": 1.47,
-      "market_cap": 4016328192,
-      "dividend_yield": 4.21,
+      "price": 16.63,
+      "prev_close": 16.62,
+      "pct_change": 0.06,
+      "market_cap": 4019241472,
+      "dividend_yield": 4.15,
       "fifty_two_week_high": 18.18,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-10-28"
@@ -89,11 +89,11 @@
     "AMH": {
       "name": "American Homes 4 Rent",
       "ticker": "AMH",
-      "price": 34.33,
-      "prev_close": 33.67,
-      "pct_change": 1.96,
-      "market_cap": 14073653248,
-      "dividend_yield": 3.92,
+      "price": 34.37,
+      "prev_close": 34.33,
+      "pct_change": 0.12,
+      "market_cap": 0,
+      "dividend_yield": 3.85,
       "fifty_two_week_high": 35.85,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-10-28"
@@ -101,11 +101,11 @@
     "INVH": {
       "name": "Invitation Homes",
       "ticker": "INVH",
-      "price": 30.2,
-      "prev_close": 29.72,
-      "pct_change": 1.62,
-      "market_cap": 17940068352,
-      "dividend_yield": 4.04,
+      "price": 30.27,
+      "prev_close": 30.2,
+      "pct_change": 0.23,
+      "market_cap": 17981650944,
+      "dividend_yield": 3.97,
       "fifty_two_week_high": 31.378,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-10-28"
@@ -113,11 +113,11 @@
     "SUI": {
       "name": "Sun Communities",
       "ticker": "SUI",
-      "price": 122.06,
-      "prev_close": 120.17,
-      "pct_change": 1.57,
-      "market_cap": 15606689792,
-      "dividend_yield": 0,
+      "price": 122.29,
+      "prev_close": 122.06,
+      "pct_change": 0.19,
+      "market_cap": 15451671552,
+      "dividend_yield": 3.54,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 115.9,
       "next_earnings": "2026-10-28"
@@ -125,11 +125,11 @@
     "ELS": {
       "name": "Equity LifeStyle Properties",
       "ticker": "ELS",
-      "price": 65.73,
-      "prev_close": 64.49,
-      "pct_change": 1.92,
-      "market_cap": 13171231744,
-      "dividend_yield": 3.36,
+      "price": 65.44,
+      "prev_close": 65.73,
+      "pct_change": -0.44,
+      "market_cap": 13121434624,
+      "dividend_yield": 3.3,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.72,
       "next_earnings": "2026-10-21"
@@ -137,11 +137,11 @@
     "MRP": {
       "name": "MRP Group",
       "ticker": "MRP",
-      "price": 30.52,
-      "prev_close": 29.94,
-      "pct_change": 1.94,
-      "market_cap": 5067782656,
-      "dividend_yield": 10.29,
+      "price": 30.58,
+      "prev_close": 30.52,
+      "pct_change": 0.2,
+      "market_cap": 5077745152,
+      "dividend_yield": 10.09,
       "fifty_two_week_high": 36.0,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-08-04"
@@ -149,11 +149,11 @@
     "NXRT": {
       "name": "NexPoint Residential Trust",
       "ticker": "NXRT",
-      "price": 24.06,
-      "prev_close": 23.48,
-      "pct_change": 2.47,
-      "market_cap": 1241587456,
-      "dividend_yield": 9.03,
+      "price": 24.19,
+      "prev_close": 24.06,
+      "pct_change": 0.54,
+      "market_cap": 1248295936,
+      "dividend_yield": 8.81,
       "fifty_two_week_high": 34.87,
       "fifty_two_week_low": 23.47,
       "next_earnings": "2026-10-27"
@@ -163,65 +163,41 @@
     {
       "name": "NexPoint Residential Trust",
       "ticker": "NXRT",
-      "price": 24.06,
-      "prev_close": 23.48,
-      "pct_change": 2.47,
-      "market_cap": 1241587456,
-      "dividend_yield": 9.03,
+      "price": 24.19,
+      "prev_close": 24.06,
+      "pct_change": 0.54,
+      "market_cap": 1248295936,
+      "dividend_yield": 8.81,
       "fifty_two_week_high": 34.87,
       "fifty_two_week_low": 23.47,
       "next_earnings": "2026-10-27"
     },
     {
-      "name": "American Homes 4 Rent",
-      "ticker": "AMH",
-      "price": 34.33,
-      "prev_close": 33.67,
-      "pct_change": 1.96,
-      "market_cap": 14073653248,
-      "dividend_yield": 3.92,
-      "fifty_two_week_high": 35.85,
-      "fifty_two_week_low": 27.22,
+      "name": "UDR Inc",
+      "ticker": "UDR",
+      "price": 37.69,
+      "prev_close": 37.51,
+      "pct_change": 0.48,
+      "market_cap": 13845956608,
+      "dividend_yield": 4.61,
+      "fifty_two_week_high": 42.0,
+      "fifty_two_week_low": 32.94,
       "next_earnings": "2026-10-28"
     },
-    {
-      "name": "MRP Group",
-      "ticker": "MRP",
-      "price": 30.52,
-      "prev_close": 29.94,
-      "pct_change": 1.94,
-      "market_cap": 5067782656,
-      "dividend_yield": 10.29,
-      "fifty_two_week_high": 36.0,
-      "fifty_two_week_low": 26.3,
-      "next_earnings": "2026-08-04"
-    }
-  ],
-  "top_losers": [
     {
       "name": "Mid-America Apartment",
       "ticker": "MAA",
-      "price": 131.47,
-      "prev_close": 130.17,
-      "pct_change": 1.0,
-      "market_cap": 15687873536,
-      "dividend_yield": 4.7,
+      "price": 132.06,
+      "prev_close": 131.47,
+      "pct_change": 0.45,
+      "market_cap": 15710358528,
+      "dividend_yield": 4.66,
       "fifty_two_week_high": 146.41,
       "fifty_two_week_low": 120.3,
       "next_earnings": "2026-10-28"
-    },
-    {
-      "name": "Equity Residential",
-      "ticker": "EQR",
-      "price": 63.66,
-      "prev_close": 63.66,
-      "pct_change": 0.0,
-      "market_cap": 24609972224,
-      "dividend_yield": 4.26,
-      "fifty_two_week_high": 71.5,
-      "fifty_two_week_low": 57.57,
-      "next_earnings": "2026-10-21"
-    },
+    }
+  ],
+  "top_losers": [
     {
       "name": "AvalonBay Communities",
       "ticker": "AVB",
@@ -233,6 +209,30 @@
       "fifty_two_week_high": 198.63,
       "fifty_two_week_low": 160.1,
       "next_earnings": "2026-10-28"
+    },
+    {
+      "name": "Camden Property Trust",
+      "ticker": "CPT",
+      "price": 107.92,
+      "prev_close": 108.4,
+      "pct_change": -0.44,
+      "market_cap": 10850206720,
+      "dividend_yield": 3.91,
+      "fifty_two_week_high": 119.81,
+      "fifty_two_week_low": 96.53,
+      "next_earnings": "2026-07-30"
+    },
+    {
+      "name": "Equity LifeStyle Properties",
+      "ticker": "ELS",
+      "price": 65.44,
+      "prev_close": 65.73,
+      "pct_change": -0.44,
+      "market_cap": 13121434624,
+      "dividend_yield": 3.3,
+      "fifty_two_week_high": 69.0,
+      "fifty_two_week_low": 58.72,
+      "next_earnings": "2026-10-21"
     }
   ],
   "news": [
@@ -285,6 +285,17 @@
       "company": "AvalonBay Communities",
       "source": "AVB",
       "category": "reit",
+      "title": "The Bull Case For AvalonBay Communities (AVB) Could Change Following Index Exit And Vivmark Overhaul - Learn Why",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-avalonbay-communities-avb-181456930.html?.tsrc=rss",
+      "published": "Thu, 20 Aug 2026 18:14:56 +0000",
+      "summary": "In August 2026, AvalonBay Communities completed a restructuring that saw its S&amp;P 500 slot taken by Reddit, rebranded into Vivmark Residential, executed a 2.793-for-1 stock split, and was removed from multiple major equity indices while reshaping its credit facilities and governance structure. Th\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "AVB",
+      "company": "AvalonBay Communities",
+      "source": "AVB",
+      "category": "reit",
       "title": "What Does AvalonBay Communities (AVB) Shareholder Approval Mean For Investors?",
       "link": "https://finance.yahoo.com/real-estate/articles/does-avalonbay-communities-avb-shareholder-211046293.html?.tsrc=rss",
       "published": "Sat, 15 Aug 2026 21:10:46 +0000",
@@ -311,17 +322,6 @@
       "link": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-rddt-stock-today-024500799.html?.tsrc=rss",
       "published": "Mon, 17 Aug 2026 02:45:00 +0000",
       "summary": "Shares of online community and discussion platform Reddit (NYSE:RDDT) jumped 13.8% in the morning session after S&amp;P Dow Jones Indices announced the social media company will join the S&amp;P 500, replacing AvalonBay Communities (NYSE: AVB), effective prior to the open on Tuesday, August 18.",
-      "is_signal": false
-    },
-    {
-      "ticker": "AVB",
-      "company": "AvalonBay Communities",
-      "source": "AVB",
-      "category": "reit",
-      "title": "Upvoted Into S&P 500, Is Reddit Getting Ratioed?",
-      "link": "https://www.thedailyupside.com/technology/artificial-intelligence/reddit-gets-upvoted-into-the-sp-500/?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 04:01:00 +0000",
-      "summary": "As companies tried to make their AI chatbots sound more human, Reddit posts have become a blueprint for the human experience.",
       "is_signal": false
     },
     {
@@ -373,6 +373,17 @@
       "company": "Mid-America Apartment",
       "source": "MAA",
       "category": "reit",
+      "title": "Mid-America Apartment Communities Stock: Analyst Estimates & Ratings",
+      "link": "https://www.barchart.com/story/news/3947111/mid-america-apartment-communities-stock-analyst-estimates-ratings?.tsrc=rss",
+      "published": "Thu, 20 Aug 2026 11:43:47 +0000",
+      "summary": "Mid-America Apartment has underperformed the broader market over the past year, while analysts remain moderately optimistic about its future prospects.",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
       "title": "Mid-America Apartment Communities Inc (MAA) (Q2 2026) Earnings Call Highlights: Strong Demand ...",
       "link": "https://finance.yahoo.com/real-estate/articles/mid-america-apartment-communities-inc-210648710.html?.tsrc=rss",
       "published": "Thu, 30 Jul 2026 21:06:48 +0000",
@@ -399,17 +410,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/mid-america-apartment-post-q2-143300947.html?.tsrc=rss",
       "published": "Fri, 24 Jul 2026 14:33:00 +0000",
       "summary": "MAA heads into Q2 earnings results with steady occupancy, improving lease trends and easing supply pressures, but higher costs are likely to have weighed on core FFO.",
-      "is_signal": true
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
-      "title": "Earnings Preview: What To Expect From Mid-America Apartment Communities' Report",
-      "link": "https://www.barchart.com/story/news/3143662/earnings-preview-what-to-expect-from-mid-america-apartment-communities-report?.tsrc=rss",
-      "published": "Mon, 06 Jul 2026 15:02:28 +0000",
-      "summary": "Mid-America Apartment Communities is poised to release its second-quarter results later this month, with analysts expecting a single-digit decline in core FFO year-over-year.",
       "is_signal": true
     },
     {
@@ -813,10 +813,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Beyond townhomes: tips from the experts on designing for density",
-      "link": "https://www.housingwire.com/articles/density-mandates-product-mix/",
-      "published": "Wed, 19 Aug 2026 20:59:06 +0000",
-      "summary": "<p>Market-specific design, amenities and products can satisfy density requirements and make projects pencil while appealing to buyers </p>",
+      "title": "Dream Finders bets empty nesters want amenities, not age limits",
+      "link": "https://www.housingwire.com/articles/dream-finders-reverie-resort-lifestyle-non-age-restricted/",
+      "published": "Thu, 20 Aug 2026 20:32:34 +0000",
+      "summary": "<p>Reverie active adult brand targets Gen X buyers seeking amenities and connection, while builders look to protect margins</p>",
       "is_signal": false
     },
     {
@@ -824,10 +824,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Modular Building Institute sues Oregon over modular wage rule",
-      "link": "https://www.housingwire.com/articles/oregon-modular-housing-suit/",
-      "published": "Wed, 19 Aug 2026 20:37:23 +0000",
-      "summary": "<p>The case targets HB 2688 and a July 1, 2026 rule applying Oregon prevailing wages to out-of-state bespoke modules</p>",
+      "title": "Luminate Bank acquires select assets of First State Mortgage Services",
+      "link": "https://www.housingwire.com/articles/luminate-first-state-assets/",
+      "published": "Thu, 20 Aug 2026 20:11:50 +0000",
+      "summary": "<p>Luminate adds volume and a larger Midwest presence</p>",
       "is_signal": false
     },
     {
@@ -835,10 +835,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "KB Home\u2019s CEO says scale matters most at the local level",
-      "link": "https://www.housingwire.com/articles/kb-home-local-scale/",
-      "published": "Wed, 19 Aug 2026 20:15:53 +0000",
-      "summary": "<p>President and CEO Rob McGibney set a goal to be a top-3 builder in each market while keeping Built to Order central to operations</p>",
+      "title": "Toll Brothers luxury moat meets a tougher market test",
+      "link": "https://www.housingwire.com/articles/toll-brothers-luxury-housing-risk/",
+      "published": "Thu, 20 Aug 2026 20:04:05 +0000",
+      "summary": "<p>Cash buyers were 25% of deliveries, and the average loan-to-value was 69% in fiscal Q3</p>",
       "is_signal": false
     },
     {
@@ -846,10 +846,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Better places co-founder Nicholas Calamari on administrative leave",
-      "link": "https://www.housingwire.com/articles/better-nicholas-calamari-leave/",
-      "published": "Wed, 19 Aug 2026 20:10:54 +0000",
-      "summary": "<p>Calamari, a co-founder and long-tenured executive, has been with Better since 2014</p>",
+      "title": "New tax on high-value second homes challenged in Rhode Island",
+      "link": "https://www.housingwire.com/articles/high-value-second-homes-tax-challenged-in-rhode-island/",
+      "published": "Thu, 20 Aug 2026 20:01:17 +0000",
+      "summary": "<p>Plaintiffs say the law should not target out-of-state residents who cannot vote in Rhode Island</p>",
       "is_signal": false
     },
     {
@@ -857,11 +857,11 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Eighth Circuit upholds NAR commission lawsuit settlement",
-      "link": "https://www.housingwire.com/articles/eighth-circuit-nar-settlement/",
-      "published": "Wed, 19 Aug 2026 16:50:36 +0000",
-      "summary": "<p>Parties have two weeks from Aug. 19 to seek rehearing after the November 2024 final approval was affirmed</p>",
-      "is_signal": true
+      "title": "Unlock MLS redefines participants, adds data licensing",
+      "link": "https://www.housingwire.com/articles/unlock-mls-data-licensing/",
+      "published": "Thu, 20 Aug 2026 19:24:44 +0000",
+      "summary": "<p>Starting Sept. 15, platform brokerages must commercially license listing data feeds and pay a fee</p>",
+      "is_signal": false
     },
     {
       "ticker": null,
