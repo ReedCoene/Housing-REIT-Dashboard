@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T21:49:16.307851+00:00",
+  "last_updated": "2026-08-25T21:55:08.671801+00:00",
   "market_date": "August 25, 2026",
   "stocks": {
     "EQR": {
@@ -1037,6 +1037,17 @@
       "link": "https://finance.yahoo.com/real-estate/articles/grant-cardone-says-were-down-190016389.html",
       "published": "2026-08-22T19:00:16Z",
       "summary": "Five thousand dollars isn\u2019t exactly the kind of money that usually inspires a real estate empire. For most people, it\u2019s an emergency fund, a car repair or a...",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Dailymail.com",
+      "category": "broad",
+      "title": "worFEMA reliefBombshell report confirms FEMA workers who skipped Trump supporters' homes after Hurricane Milton broke the law: Watchdog finds crews avoid homes with MAGA flags",
+      "link": "https://www.dailymail.com/news/article-16076233/fema-workers-trump-supporters-broke-law-bombshell-report-watchdog.html",
+      "published": "2026-08-24T21:50:25Z",
+      "summary": "Damning findings released Monday by the DHS's Office of Inspector General, confirm the politically charged snubs in the weeks leading up to the 2024 presidential election.",
       "is_signal": false
     }
   ],
