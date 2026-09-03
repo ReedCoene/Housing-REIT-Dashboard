@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T23:21:49.891210+00:00",
+  "last_updated": "2026-09-03T23:28:49.266391+00:00",
   "market_date": "September 03, 2026",
   "stocks": {
     "ESS": {
@@ -20,7 +20,7 @@
       "price": 128.56,
       "prev_close": 128.61,
       "pct_change": -0.04,
-      "market_cap": 15293984768,
+      "market_cap": 15340632064,
       "dividend_yield": 4.76,
       "fifty_two_week_high": 146.41,
       "fifty_two_week_low": 120.3,
@@ -56,7 +56,7 @@
       "price": 16.13,
       "prev_close": 16.32,
       "pct_change": -1.16,
-      "market_cap": 3898398208,
+      "market_cap": 3897916160,
       "dividend_yield": 4.23,
       "fifty_two_week_high": 18.18,
       "fifty_two_week_low": 14.6,
@@ -180,7 +180,7 @@
       "price": 16.13,
       "prev_close": 16.32,
       "pct_change": -1.16,
-      "market_cap": 3898398208,
+      "market_cap": 3897916160,
       "dividend_yield": 4.23,
       "fifty_two_week_high": 18.18,
       "fifty_two_week_low": 14.6,
@@ -1013,6 +1013,17 @@
       "link": "https://www.npr.org/2026/09/01/nx-s1-5930432/ai-san-francisco-housing-market-real-estate",
       "published": "2026-09-01T09:00:00Z",
       "summary": "Spiking prices and rental bidding wars are raising fears of more displacement in a city where previous tech booms and a housing shortage have already driven out many.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Biztoc.com",
+      "category": "broad",
+      "title": "How These Founder Communities Offer Support \u2014 and a Competitive Edge",
+      "link": "https://biztoc.com/x/7cd3964e11bcfe7a",
+      "published": "2026-09-02T23:27:06Z",
+      "summary": "Opinions expressed by Entrepreneur contributors are their own.\nKey Takeaways\n- Audit your current network to see if your business requires the structured skill-building of a peer advisory network or the infrastructure of an incubator.\n- Join a specialized inc\u2026",
       "is_signal": false
     },
     {
