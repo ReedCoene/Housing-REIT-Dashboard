@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-18T23:31:46.545203+00:00",
-  "market_date": "September 18, 2026",
+  "last_updated": "2026-09-22T00:11:37.549104+00:00",
+  "market_date": "September 22, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
@@ -8,8 +8,8 @@
       "price": 270.05,
       "prev_close": 270.8,
       "pct_change": -0.28,
-      "market_cap": 18615324672,
-      "dividend_yield": 3.83,
+      "market_cap": 18705881088,
+      "dividend_yield": 3.84,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -20,10 +20,10 @@
       "price": 118.93,
       "prev_close": 121.17,
       "pct_change": -1.85,
-      "market_cap": 14148364288,
-      "dividend_yield": 5.05,
+      "market_cap": 14183164928,
+      "dividend_yield": 5.15,
       "fifty_two_week_high": 144.41,
-      "fifty_two_week_low": 118.91,
+      "fifty_two_week_low": 117.98,
       "next_earnings": "2026-10-28"
     },
     "UDR": {
@@ -32,8 +32,8 @@
       "price": 33.9,
       "prev_close": 34.21,
       "pct_change": -0.91,
-      "market_cap": 12453647360,
-      "dividend_yield": 5.06,
+      "market_cap": 12556775424,
+      "dividend_yield": 5.1,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-10-28"
@@ -44,8 +44,8 @@
       "price": 99.12,
       "prev_close": 100.93,
       "pct_change": -1.79,
-      "market_cap": 11471413248,
-      "dividend_yield": 4.2,
+      "market_cap": 9935298560,
+      "dividend_yield": 4.28,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-11-05"
@@ -56,8 +56,8 @@
       "price": 14.79,
       "prev_close": 15.05,
       "pct_change": -1.73,
-      "market_cap": 3574539008,
-      "dividend_yield": 4.78,
+      "market_cap": 3542681600,
+      "dividend_yield": 4.87,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-10-28"
@@ -68,8 +68,8 @@
       "price": 31.02,
       "prev_close": 31.28,
       "pct_change": -0.83,
-      "market_cap": 12716710912,
-      "dividend_yield": 4.22,
+      "market_cap": 12806900736,
+      "dividend_yield": 4.26,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-10-28"
@@ -80,8 +80,8 @@
       "price": 26.91,
       "prev_close": 27.15,
       "pct_change": -0.88,
-      "market_cap": 15893670912,
-      "dividend_yield": 4.42,
+      "market_cap": 15994077184,
+      "dividend_yield": 4.46,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-10-28"
@@ -92,10 +92,10 @@
       "price": 113.75,
       "prev_close": 114.95,
       "pct_change": -1.04,
-      "market_cap": 14372619264,
-      "dividend_yield": 3.9,
+      "market_cap": 14542887936,
+      "dividend_yield": 3.94,
       "fifty_two_week_high": 137.85,
-      "fifty_two_week_low": 113.74,
+      "fifty_two_week_low": 113.18,
       "next_earnings": "2026-10-28"
     },
     "ELS": {
@@ -104,8 +104,8 @@
       "price": 60.4,
       "prev_close": 61.1,
       "pct_change": -1.15,
-      "market_cap": 12110859264,
-      "dividend_yield": 3.55,
+      "market_cap": 12111200256,
+      "dividend_yield": 3.59,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 58.72,
       "next_earnings": "2026-10-21"
@@ -116,8 +116,8 @@
       "price": 28.87,
       "prev_close": 28.79,
       "pct_change": 0.28,
-      "market_cap": 4793803776,
-      "dividend_yield": 10.7,
+      "market_cap": 4762254336,
+      "dividend_yield": 10.67,
       "fifty_two_week_high": 35.1,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-11-11"
@@ -128,8 +128,8 @@
       "price": 21.04,
       "prev_close": 21.29,
       "pct_change": -1.17,
-      "market_cap": 1085744000,
-      "dividend_yield": 9.96,
+      "market_cap": 1102773248,
+      "dividend_yield": 10.08,
       "fifty_two_week_high": 33.34,
       "fifty_two_week_low": 20.66,
       "next_earnings": "2026-10-27"
@@ -142,8 +142,8 @@
       "price": 28.87,
       "prev_close": 28.79,
       "pct_change": 0.28,
-      "market_cap": 4793803776,
-      "dividend_yield": 10.7,
+      "market_cap": 4762254336,
+      "dividend_yield": 10.67,
       "fifty_two_week_high": 35.1,
       "fifty_two_week_low": 26.3,
       "next_earnings": "2026-11-11"
@@ -154,8 +154,8 @@
       "price": 270.05,
       "prev_close": 270.8,
       "pct_change": -0.28,
-      "market_cap": 18615324672,
-      "dividend_yield": 3.83,
+      "market_cap": 18705881088,
+      "dividend_yield": 3.84,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -166,8 +166,8 @@
       "price": 31.02,
       "prev_close": 31.28,
       "pct_change": -0.83,
-      "market_cap": 12716710912,
-      "dividend_yield": 4.22,
+      "market_cap": 12806900736,
+      "dividend_yield": 4.26,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-10-28"
@@ -180,8 +180,8 @@
       "price": 14.79,
       "prev_close": 15.05,
       "pct_change": -1.73,
-      "market_cap": 3574539008,
-      "dividend_yield": 4.78,
+      "market_cap": 3542681600,
+      "dividend_yield": 4.87,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.6,
       "next_earnings": "2026-10-28"
@@ -192,8 +192,8 @@
       "price": 99.12,
       "prev_close": 100.93,
       "pct_change": -1.79,
-      "market_cap": 11471413248,
-      "dividend_yield": 4.2,
+      "market_cap": 9935298560,
+      "dividend_yield": 4.28,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 96.53,
       "next_earnings": "2026-11-05"
@@ -204,10 +204,10 @@
       "price": 118.93,
       "prev_close": 121.17,
       "pct_change": -1.85,
-      "market_cap": 14148364288,
-      "dividend_yield": 5.05,
+      "market_cap": 14183164928,
+      "dividend_yield": 5.15,
       "fifty_two_week_high": 144.41,
-      "fifty_two_week_low": 118.91,
+      "fifty_two_week_low": 117.98,
       "next_earnings": "2026-10-28"
     }
   ],
@@ -461,7 +461,7 @@
       "category": "reit",
       "title": "Apartment cap rates inched up to 5.6% in July: MSCI",
       "link": "https://www.multifamilydive.com/news/apartment-cap-rates-multifamily-sales/829320/?.tsrc=rss",
-      "published": "Tue, 01 Sep 2026 12:49:13 +0000",
+      "published": "Tue, 01 Sep 2026 16:49:13 +0000",
       "summary": "Camden Property Trust\u2019s sale of an 11-property Southern California portfolio to a BlackRock-managed vehicle boosted portfolio trades, but overall sales fell 16% YOY to $12.4 billion.",
       "is_signal": true
     },
@@ -472,8 +472,30 @@
       "category": "reit",
       "title": "Camden CEO talks Sun Belt optimism, EQR-AVB merger",
       "link": "https://www.multifamilydive.com/news/camden-ceo-talks-sun-belt-optimism-eqr-avb-merger/828291/?.tsrc=rss",
-      "published": "Wed, 19 Aug 2026 13:12:26 +0000",
+      "published": "Wed, 19 Aug 2026 17:12:26 +0000",
       "summary": "In conversation with Multifamily Dive, Alex Jessett explains why \"every 25- to 34-year-old in America\" wants to live in Nashville or Austin and why newly formed Vivmark has \"no impact\" on the REIT.",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty Trust (IRT) and Centerspace Combine into an $8.1 Billion Apartment Giant",
+      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-centerspace-231510521.html?.tsrc=rss",
+      "published": "Sun, 20 Sep 2026 23:15:10 +0000",
+      "summary": "On September 9, 2026, Independence Realty Trust, Inc. (NYSE:IRT) and Centerspace announced a definitive all-stock merger agreement. It creates a combined middle-market apartment REIT with a pro forma equity market capitalization of about $5.0 billion and a total enterprise value of approximately $8.\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty Trust (IRT) Stock Trades Below Fair Value After A 16% Slide",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/independence-realty-trust-irt-stock-081142537.html?.tsrc=rss",
+      "published": "Sat, 19 Sep 2026 08:11:42 +0000",
+      "summary": "Independence Realty Trust has fallen out of favor with the market in 2026, and the drop is sharp enough that it raises a simple question for investors who care about cash flow support. Has the recent slide taken the stock away from what its underlying rental cash flows can justify, or closer to it? \u2026",
       "is_signal": true
     },
     {
@@ -496,28 +518,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-centerspace-merge-100000077.html?.tsrc=rss",
       "published": "Wed, 09 Sep 2026 10:00:00 +0000",
       "summary": "PHILADELPHIA & MINNEAPOLIS, September 09, 2026--Independence Realty Trust, Inc. (NYSE: IRT) (\"IRT\") and Centerspace (NYSE: CSR) (\"Centerspace\") today announced that they have entered into a definitive merger agreement under which Centerspace and IRT will combine in an all-stock transaction, creating\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
-      "title": "Independence Realty Trust Declares Third Quarter 2026 Dividend",
-      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-declares-third-204500007.html?.tsrc=rss",
-      "published": "Tue, 08 Sep 2026 20:45:00 +0000",
-      "summary": "PHILADELPHIA, September 08, 2026--Independence Realty Trust, Inc. (NYSE: IRT) (\"IRT\") announces that its board of directors approved a quarterly dividend of $0.18 per share of IRT common stock. The third quarter 2026 dividend is payable on October 23, 2026, to shareholders of record at the close of \u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
-      "title": "Independence Realty Trust Q2 Earnings Call Highlights",
-      "link": "https://www.marketbeat.com/instant-alerts/independence-realty-trust-q2-earnings-call-highlights-2026-08-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "published": "Wed, 05 Aug 2026 07:04:21 +0000",
-      "summary": "Independence Realty Trust (NYSE:IRT) said improving apartment market conditions, reduced concessions and a new community Wi-Fi program supported stronger operating results in the second quarter of 2026, prompting the company to raise the midpoint of its full-year same-store net operating income guid",
       "is_signal": true
     },
     {
@@ -615,7 +615,7 @@
       "category": "reit",
       "title": "Former EQR exec Robert Garechana joins Sun Communities as CFO",
       "link": "https://www.multifamilydive.com/news/vivmark-sun-communities-equity-reidential/829008/?.tsrc=rss",
-      "published": "Thu, 27 Aug 2026 15:49:11 +0000",
+      "published": "Thu, 27 Aug 2026 19:49:11 +0000",
       "summary": "The REIT\u2019s former chief investment officer joins the manufactured housing and recreational vehicle communities firm after more than 20 years at Equity Residential.",
       "is_signal": true
     },
@@ -789,10 +789,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Realtor.com lead dispute heads to closed-door arbitration after appeal fails",
-      "link": "https://www.housingwire.com/articles/ninth-circuit-denies-rehearing-realtorcom-leads/",
-      "published": "Fri, 18 Sep 2026 20:09:50 +0000",
-      "summary": "<p>Appeals court said it lacked jurisdiction because the dismissal was effectively a stay pending arbitration</p>",
+      "title": "Never quote your real estate commission by text",
+      "link": "https://www.housingwire.com/articles/never-quote-commission-text/",
+      "published": "Mon, 21 Sep 2026 21:08:37 +0000",
+      "summary": "<p>Move the question to a call, frame value before price, then give an honest range that leads to a listing appointment</p>",
       "is_signal": true
     },
     {
@@ -800,10 +800,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "NIL era brings new wealth \u2014 and new buyers \u2014 to college housing markets",
-      "link": "https://www.housingwire.com/articles/nil-era-brings-new-wealth-and-new-buyers-to-college-housing-markets/",
-      "published": "Fri, 18 Sep 2026 19:36:03 +0000",
-      "summary": "<p>Experts share best practices for helping student-athletes navigate new wealth and homebuying</p>",
+      "title": "Auction.com taps John Ken as SVP of marketing",
+      "link": "https://www.housingwire.com/articles/auction-com-taps-john-ken-as-svp-of-marketing/",
+      "published": "Mon, 21 Sep 2026 20:39:02 +0000",
+      "summary": "<p>Ken plans to widen education paths for buyers new to the process</p>",
       "is_signal": false
     },
     {
@@ -811,10 +811,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Lennar defends even-flow, land banking strategy as risks build",
-      "link": "https://www.housingwire.com/articles/lennar-q3-2026-earnings/",
-      "published": "Fri, 18 Sep 2026 18:34:49 +0000",
-      "summary": "<p>Miller said nearly 50% of visitors cannot immediately qualify, as CPI ran 3.4% and the Fed lifted rates to 3.75% to 4%</p>",
+      "title": "Networking for real estate agents, ask better questions and follow through",
+      "link": "https://www.housingwire.com/articles/real-estate-networking-listening/",
+      "published": "Mon, 21 Sep 2026 19:09:54 +0000",
+      "summary": "<p>Ask better questions, find a real interest, and leave with a small action you can follow through on</p>",
       "is_signal": false
     },
     {
@@ -822,10 +822,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Hagens Berman seeking plaintiffs for Compass MRED class action",
-      "link": "https://www.housingwire.com/articles/hagens-berman-compass-mred-plaintiffs/",
-      "published": "Fri, 18 Sep 2026 18:11:15 +0000",
-      "summary": "<p>The firm cites claims of 98% market share and points to Compass research showing 4.6% higher sale prices after pre MLS marketing</p>",
+      "title": "HUD showcase spotlights Cavco chassis-free manufactured home",
+      "link": "https://www.housingwire.com/articles/cavco-chassis-free-manufactured-home-model/",
+      "published": "Mon, 21 Sep 2026 19:08:42 +0000",
+      "summary": "<p>Cavco says the chassis-free shift is driven by design flexibility, not just $5,000 to $10,000 in cost reductions cited by others</p>",
       "is_signal": false
     },
     {
@@ -833,10 +833,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Zillow-MRED antitrust battle shifts from courtroom to arbitration",
-      "link": "https://www.housingwire.com/articles/zillow-mred-arbitration-injunction/",
-      "published": "Fri, 18 Sep 2026 17:41:46 +0000",
-      "summary": "<p>Court said evidence did not sufficiently distinguish conspiracy claims from aligned interests pursued independently by MRED and Compass</p>",
+      "title": "Miami Realtors + RWorld forms new education partnership",
+      "link": "https://www.housingwire.com/articles/miami-realtors-rworld-forms-new-education-partnership/",
+      "published": "Mon, 21 Sep 2026 17:24:01 +0000",
+      "summary": "<p>Classes are available in person, by livestream and online</p>",
       "is_signal": false
     },
     {
@@ -908,6 +908,28 @@
     {
       "ticker": null,
       "company": null,
+      "source": "Milliondollarjourney.com",
+      "category": "broad",
+      "title": "Retiring With Rental Properties: Using a \u201cReal Estate Meltdown\u201d to Fund Retiremen",
+      "link": "https://milliondollarjourney.com/using-real-estate-retirement.htm",
+      "published": "2026-09-20T03:28:54Z",
+      "summary": "As an MDJ reader you\u2019ve probably heard us talk about the RRSP meltdown strategy. What thousands of mom-and-pop landlords need however, is a real estate meltdown guide. If you\u2019re retiring with large illiquid assets like rental properties, proper planning will \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "PRNewswire",
+      "category": "broad",
+      "title": "Hyde Park Properties appoints Andria Solomon as Operations Director",
+      "link": "https://www.prnewswire.com/news-releases/hyde-park-properties-appoints-andria-solomon-as-operations-director-302883158.html",
+      "published": "2026-09-18T10:17:00Z",
+      "summary": "Former Crown Estate residential specialist joins Europi Property Group's prime central London housing platform LONDON, Sept. 18, 2026 /PRNewswire/ -- Hyde Park Properties, the prime central London residential platform established by Europi Property Group, has\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "Bahamas Tribune",
       "category": "broad",
       "title": "11,000 new home deficit in decade through COVID",
@@ -926,50 +948,6 @@
       "published": "2026-09-17T10:00:00Z",
       "summary": "Median asking rent in the largest 50 metros drops to $1,699, while 43.5% of rental listings offer concessions; new Avail survey finds high vacancy is the strongest catalyst for landlord incentives AUSTIN, Texas, Sept. 17, 2026 /PRNewswire/ -- Rents continued \u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Chicago Reader",
-      "category": "broad",
-      "title": "Fighting for housing after The Battle of Lincoln Park",
-      "link": "https://chicagoreader.com/books/book-review/battle-lincoln-park-daniel-kay-hertz-new-edition/",
-      "published": "2026-09-16T13:00:00Z",
-      "summary": "During the 2010s, there was a renewed awareness of predatory and speculative housing practices such as redlining, contract buying, blockbusting, and segregationist violence\u2014which had fueled disinvestment across broad swaths of the south and west sides. Daniel\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Yahoo Entertainment",
-      "category": "broad",
-      "title": "I Inherited My Father\u2019s $600K Florida Home \u2014 But My Brother Has Lived There Rent-Free for 5 Years and Says \u2018Good Luck Kicking Me and My Kids Out\u2019",
-      "link": "https://finance.yahoo.com/real-estate/articles/inherited-father-600k-florida-home-230014242.html",
-      "published": "2026-09-15T23:00:14Z",
-      "summary": "Dad thought he had found a way to keep things fair. Then the housing market had other plans. When he died, his two sons inherited very different pieces of hi...",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Yahoo Entertainment",
-      "category": "broad",
-      "title": "Renting a home in Austin saves you $1,917 a month over buying \u2014 and it's not the only metro where renters can save big",
-      "link": "https://finance.yahoo.com/real-estate/articles/renting-home-austin-saves-1-094500054.html",
-      "published": "2026-09-12T09:45:00Z",
-      "summary": "Skyrocketing home prices and mortgage rates are making rentals increasingly more attractive.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Breitbart News",
-      "category": "broad",
-      "title": "Exclusive: Rick Scott Introduces Legislation to Combat Illegal Southern Border Tunnel Crossings",
-      "link": "https://www.breitbart.com/politics/2026/09/17/exclusive-rick-scott-introduces-legislation-to-combat-illegal-southern-border-tunnel-crossings/",
-      "published": "2026-09-17T23:23:46Z",
-      "summary": "Sen. Rick Scott (R-FL) is introducing legislation to combat illegal southern border tunnel crossings, Breitbart News exclusively learned.\nThe post Exclusive: Rick Scott Introduces Legislation to Combat Illegal Southern Border Tunnel Crossings appeared first o\u2026",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
