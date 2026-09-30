@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T00:36:16.513698+00:00",
+  "last_updated": "2026-09-30T00:42:36.106423+00:00",
   "market_date": "September 30, 2026",
   "stocks": {
     "ESS": {
@@ -992,39 +992,6 @@
       "published": "2026-09-23T14:05:00Z",
       "summary": "Thank you for the opportunity to speak to you.  1     My interest in access to affordable housing spans several decades. During my career, I have worked on hou",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "National Observer",
-      "category": "broad",
-      "title": "Minister won't commit to criminalizing residential school denialism",
-      "link": "https://www.nationalobserver.com/2026/09/28/news/minister-wont-commit-criminalizing-residential-school-denialism",
-      "published": "2026-09-29T00:26:47Z",
-      "summary": "Roseanne Casimir, chief of Tk\u0313eml\u00faps te Secw\u00e9pemc First Nation, said on Sunday a group of masked individuals dropped a banner from an overpass in Kamloops, BC. The banner appeared to be questioning reports of human burials at the former sites of residential s\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Punch",
-      "category": "broad",
-      "title": "UBEC unveils platform to track education funds, projects",
-      "link": "https://punchng.com/ubec-unveils-platform-to-track-education-funds-projects/",
-      "published": "2026-09-29T00:22:52Z",
-      "summary": "UBEC has unveiled a digital platform for parents and communities to track basic education projects and funds accessed by states under its new 10-year roadm\n\nRead More: https://punchng.com/ubec-unveils-platform-to-track-education-funds-projects/",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The Punch",
-      "category": "broad",
-      "title": "Floods ravage Osun communities, destroy bridge, property",
-      "link": "https://punchng.com/floods-ravage-osun-communities-destroy-bridge-property/",
-      "published": "2026-09-29T00:22:52Z",
-      "summary": "Torrential rainfall triggers flooding across Osun State communities, destroying property and damaging a key bridge linking Ijaregbe to Ilesa.\n\nRead More: https://punchng.com/floods-ravage-osun-communities-destroy-bridge-property/",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
