@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T00:38:08.923909+00:00",
+  "last_updated": "2026-10-01T00:46:27.306471+00:00",
   "market_date": "October 01, 2026",
   "stocks": {
     "ESS": {
@@ -992,6 +992,17 @@
       "published": "2026-09-23T14:05:00Z",
       "summary": "Thank you for the opportunity to speak to you.  1     My interest in access to affordable housing spans several decades. During my career, I have worked on hou",
       "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Dailymail.com",
+      "category": "broad",
+      "title": "Anyone can make a fortune on Airbnb if you play your cards right. Read our expert guide on how to earn big as a short-term rental host... without breaking the bank",
+      "link": "https://www.dailymail.com/yourmoney/article-16160295/airbnb-investment-jeff-lichtenstein-florida.html",
+      "published": "2026-09-30T00:43:42Z",
+      "summary": "The most profitable Airbnb rentals aren't the biggest or most luxurious homes. Instead, success comes from a steady focus on matching the right features for your market. Read our experts' guide here.",
+      "is_signal": false
     },
     {
       "ticker": null,
