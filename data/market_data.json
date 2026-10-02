@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T00:56:59.367335+00:00",
+  "last_updated": "2026-10-02T01:03:02.357773+00:00",
   "market_date": "October 02, 2026",
   "stocks": {
     "ESS": {
@@ -8,11 +8,11 @@
       "price": 269.39,
       "prev_close": 271.34,
       "pct_change": -0.72,
-      "market_cap": 18578104320,
-      "dividend_yield": 3.85,
-      "fifty_two_week_high": 303.35,
-      "fifty_two_week_low": 238.46,
-      "next_earnings": "2026-10-27"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "MAA": {
       "name": "Mid-America Apartment",
@@ -20,11 +20,11 @@
       "price": 117.74,
       "prev_close": 118.43,
       "pct_change": -0.58,
-      "market_cap": 13845005312,
-      "dividend_yield": 5.2,
-      "fifty_two_week_high": 144.41,
-      "fifty_two_week_low": 116.17,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "UDR": {
       "name": "UDR Inc",
@@ -32,11 +32,11 @@
       "price": 33.55,
       "prev_close": 33.95,
       "pct_change": -1.18,
-      "market_cap": 12372827136,
-      "dividend_yield": 5.19,
-      "fifty_two_week_high": 42.0,
-      "fifty_two_week_low": 32.94,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "CPT": {
       "name": "Camden Property Trust",
@@ -44,11 +44,11 @@
       "price": 96.73,
       "prev_close": 97.4,
       "pct_change": -0.69,
-      "market_cap": 11182082048,
-      "dividend_yield": 4.38,
-      "fifty_two_week_high": 119.81,
-      "fifty_two_week_low": 95.635,
-      "next_earnings": "2026-11-05"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "IRT": {
       "name": "Independence Realty Trust",
@@ -56,11 +56,11 @@
       "price": 14.53,
       "prev_close": 14.65,
       "pct_change": -0.82,
-      "market_cap": 3504450048,
-      "dividend_yield": 4.96,
-      "fifty_two_week_high": 17.79,
-      "fifty_two_week_low": 14.34,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "AMH": {
       "name": "American Homes 4 Rent",
@@ -68,11 +68,11 @@
       "price": 30.39,
       "prev_close": 30.68,
       "pct_change": -0.95,
-      "market_cap": 12515834880,
-      "dividend_yield": 4.34,
-      "fifty_two_week_high": 35.07,
-      "fifty_two_week_low": 27.22,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "INVH": {
       "name": "Invitation Homes",
@@ -80,11 +80,11 @@
       "price": 26.33,
       "prev_close": 26.57,
       "pct_change": -0.9,
-      "market_cap": 15592453120,
-      "dividend_yield": 4.56,
-      "fifty_two_week_high": 30.893,
-      "fifty_two_week_low": 24.25,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "SUI": {
       "name": "Sun Communities",
@@ -92,11 +92,11 @@
       "price": 110.78,
       "prev_close": 110.77,
       "pct_change": 0.01,
-      "market_cap": 13898797056,
-      "dividend_yield": 4.04,
-      "fifty_two_week_high": 137.85,
-      "fifty_two_week_low": 109.77,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "ELS": {
       "name": "Equity LifeStyle Properties",
@@ -104,11 +104,11 @@
       "price": 58.33,
       "prev_close": 58.71,
       "pct_change": -0.65,
-      "market_cap": 11553438720,
-      "dividend_yield": 3.72,
-      "fifty_two_week_high": 69.0,
-      "fifty_two_week_low": 57.455,
-      "next_earnings": "2026-10-21"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "MRP": {
       "name": "MRP Group",
@@ -116,11 +116,11 @@
       "price": 25.97,
       "prev_close": 26.51,
       "pct_change": -2.04,
-      "market_cap": 4184407808,
-      "dividend_yield": 12.17,
-      "fifty_two_week_high": 34.03,
-      "fifty_two_week_low": 24.92,
-      "next_earnings": "2026-11-11"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     "NXRT": {
       "name": "NexPoint Residential Trust",
@@ -128,11 +128,11 @@
       "price": 19.51,
       "prev_close": 19.27,
       "pct_change": 1.25,
-      "market_cap": 973247680,
-      "dividend_yield": 10.87,
-      "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 18.54,
-      "next_earnings": "2026-10-27"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     }
   },
   "top_gainers": [
@@ -142,11 +142,11 @@
       "price": 19.51,
       "prev_close": 19.27,
       "pct_change": 1.25,
-      "market_cap": 973247680,
-      "dividend_yield": 10.87,
-      "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 18.54,
-      "next_earnings": "2026-10-27"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     {
       "name": "Sun Communities",
@@ -154,11 +154,11 @@
       "price": 110.78,
       "prev_close": 110.77,
       "pct_change": 0.01,
-      "market_cap": 13898797056,
-      "dividend_yield": 4.04,
-      "fifty_two_week_high": 137.85,
-      "fifty_two_week_low": 109.77,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     {
       "name": "Mid-America Apartment",
@@ -166,11 +166,11 @@
       "price": 117.74,
       "prev_close": 118.43,
       "pct_change": -0.58,
-      "market_cap": 13845005312,
-      "dividend_yield": 5.2,
-      "fifty_two_week_high": 144.41,
-      "fifty_two_week_low": 116.17,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     }
   ],
   "top_losers": [
@@ -180,11 +180,11 @@
       "price": 30.39,
       "prev_close": 30.68,
       "pct_change": -0.95,
-      "market_cap": 12515834880,
-      "dividend_yield": 4.34,
-      "fifty_two_week_high": 35.07,
-      "fifty_two_week_low": 27.22,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     {
       "name": "UDR Inc",
@@ -192,11 +192,11 @@
       "price": 33.55,
       "prev_close": 33.95,
       "pct_change": -1.18,
-      "market_cap": 12372827136,
-      "dividend_yield": 5.19,
-      "fifty_two_week_high": 42.0,
-      "fifty_two_week_low": 32.94,
-      "next_earnings": "2026-10-28"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     },
     {
       "name": "MRP Group",
@@ -204,11 +204,11 @@
       "price": 25.97,
       "prev_close": 26.51,
       "pct_change": -2.04,
-      "market_cap": 4184407808,
-      "dividend_yield": 12.17,
-      "fifty_two_week_high": 34.03,
-      "fifty_two_week_low": 24.92,
-      "next_earnings": "2026-11-11"
+      "market_cap": 0,
+      "dividend_yield": 0,
+      "fifty_two_week_high": 0,
+      "fifty_two_week_low": 0,
+      "next_earnings": null
     }
   ],
   "news": [
@@ -992,6 +992,17 @@
       "published": "2026-09-23T14:05:00Z",
       "summary": "Thank you for the opportunity to speak to you.  1     My interest in access to affordable housing spans several decades. During my career, I have worked on hou",
       "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Mile High Hockey",
+      "category": "broad",
+      "title": "Open Thread: Colorado Avalanche vs. LA Kings (8 p.m. MT)",
+      "link": "https://www.milehighhockey.com/colorado-avalanche-game-coverage/66660/open-thread-colorado-avalanche-vs-la-kings-8-p-m-mt",
+      "published": "2026-10-01T01:00:00Z",
+      "summary": "I think we will do open threads a little differently this year, now that the new SB Nation app offers real-time updates! We will still drop the need-to-knows here (lineups, where to watch/listen, etc.), but we\u2019ll keep it brief early and update as the game pro\u2026",
+      "is_signal": false
     }
   ],
   "weekly_report": null,
