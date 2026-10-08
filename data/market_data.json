@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T00:57:53.750606+00:00",
-  "market_date": "October 07, 2026",
+  "last_updated": "2026-10-08T01:06:30.570097+00:00",
+  "market_date": "October 08, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
@@ -8,8 +8,8 @@
       "price": 272.49,
       "prev_close": 271.93,
       "pct_change": 0.21,
-      "market_cap": 18783522816,
-      "dividend_yield": 3.81,
+      "market_cap": 18475665408,
+      "dividend_yield": 3.8,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -20,10 +20,10 @@
       "price": 116.99,
       "prev_close": 116.47,
       "pct_change": 0.45,
-      "market_cap": 13917574144,
-      "dividend_yield": 5.25,
+      "market_cap": 13628295168,
+      "dividend_yield": 5.23,
       "fifty_two_week_high": 144.41,
-      "fifty_two_week_low": 114.39,
+      "fifty_two_week_low": 114.19,
       "next_earnings": "2026-10-28"
     },
     "UDR": {
@@ -32,8 +32,8 @@
       "price": 33.91,
       "prev_close": 33.84,
       "pct_change": 0.21,
-      "market_cap": 12457320448,
-      "dividend_yield": 5.14,
+      "market_cap": 12345581568,
+      "dividend_yield": 5.13,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-10-28"
@@ -44,8 +44,8 @@
       "price": 97.65,
       "prev_close": 97.37,
       "pct_change": 0.29,
-      "market_cap": 11301285888,
-      "dividend_yield": 4.35,
+      "market_cap": 9631670272,
+      "dividend_yield": 4.34,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 95.45,
       "next_earnings": "2026-11-05"
@@ -53,10 +53,10 @@
     "IRT": {
       "name": "Independence Realty Trust",
       "ticker": "IRT",
-      "price": 14.72,
-      "prev_close": 14.51,
-      "pct_change": 1.45,
-      "market_cap": 3560037632,
+      "price": 14.73,
+      "prev_close": 14.72,
+      "pct_change": 0.07,
+      "market_cap": 3489517056,
       "dividend_yield": 4.89,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.34,
@@ -65,11 +65,11 @@
     "AMH": {
       "name": "American Homes 4 Rent",
       "ticker": "AMH",
-      "price": 30.08,
-      "prev_close": 30.26,
-      "pct_change": -0.59,
-      "market_cap": 12491237376,
-      "dividend_yield": 4.39,
+      "price": 30.47,
+      "prev_close": 30.08,
+      "pct_change": 1.3,
+      "market_cap": 12298559488,
+      "dividend_yield": 4.33,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-10-28"
@@ -77,11 +77,11 @@
     "INVH": {
       "name": "Invitation Homes",
       "ticker": "INVH",
-      "price": 26.06,
-      "prev_close": 26.04,
-      "pct_change": 0.08,
-      "market_cap": 15586546688,
-      "dividend_yield": 4.6,
+      "price": 26.39,
+      "prev_close": 26.06,
+      "pct_change": 1.27,
+      "market_cap": 15273517056,
+      "dividend_yield": 4.55,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-10-28"
@@ -92,8 +92,8 @@
       "price": 112.07,
       "prev_close": 111.84,
       "pct_change": 0.21,
-      "market_cap": 14160346112,
-      "dividend_yield": 4.01,
+      "market_cap": 14165698560,
+      "dividend_yield": 4.0,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-28"
@@ -104,8 +104,8 @@
       "price": 58.74,
       "prev_close": 58.49,
       "pct_change": 0.43,
-      "market_cap": 11778011136,
-      "dividend_yield": 3.71,
+      "market_cap": 11618255872,
+      "dividend_yield": 3.69,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2026-10-21"
@@ -113,23 +113,23 @@
     "MRP": {
       "name": "MRP Group",
       "ticker": "MRP",
-      "price": 22.51,
-      "prev_close": 23.82,
-      "pct_change": -5.5,
-      "market_cap": 3847330304,
-      "dividend_yield": 14.04,
+      "price": 23.17,
+      "prev_close": 22.51,
+      "pct_change": 2.93,
+      "market_cap": 3756004096,
+      "dividend_yield": 13.64,
       "fifty_two_week_high": 33.49,
       "fifty_two_week_low": 21.85,
-      "next_earnings": "2026-11-11"
+      "next_earnings": "2026-10-27"
     },
     "NXRT": {
       "name": "NexPoint Residential Trust",
       "ticker": "NXRT",
-      "price": 18.61,
-      "prev_close": 18.67,
-      "pct_change": -0.32,
-      "market_cap": 1041364672,
-      "dividend_yield": 11.39,
+      "price": 20.18,
+      "prev_close": 18.61,
+      "pct_change": 8.44,
+      "market_cap": 1006274112,
+      "dividend_yield": 10.51,
       "fifty_two_week_high": 32.36,
       "fifty_two_week_low": 18.135,
       "next_earnings": "2026-11-03"
@@ -137,78 +137,78 @@
   },
   "top_gainers": [
     {
-      "name": "Independence Realty Trust",
-      "ticker": "IRT",
-      "price": 14.72,
-      "prev_close": 14.51,
-      "pct_change": 1.45,
-      "market_cap": 3560037632,
-      "dividend_yield": 4.89,
-      "fifty_two_week_high": 17.79,
-      "fifty_two_week_low": 14.34,
-      "next_earnings": "2026-10-28"
-    },
-    {
-      "name": "Mid-America Apartment",
-      "ticker": "MAA",
-      "price": 116.99,
-      "prev_close": 116.47,
-      "pct_change": 0.45,
-      "market_cap": 13917574144,
-      "dividend_yield": 5.25,
-      "fifty_two_week_high": 144.41,
-      "fifty_two_week_low": 114.39,
-      "next_earnings": "2026-10-28"
-    },
-    {
-      "name": "Equity LifeStyle Properties",
-      "ticker": "ELS",
-      "price": 58.74,
-      "prev_close": 58.49,
-      "pct_change": 0.43,
-      "market_cap": 11778011136,
-      "dividend_yield": 3.71,
-      "fifty_two_week_high": 69.0,
-      "fifty_two_week_low": 57.46,
-      "next_earnings": "2026-10-21"
-    }
-  ],
-  "top_losers": [
-    {
       "name": "NexPoint Residential Trust",
       "ticker": "NXRT",
-      "price": 18.61,
-      "prev_close": 18.67,
-      "pct_change": -0.32,
-      "market_cap": 1041364672,
-      "dividend_yield": 11.39,
+      "price": 20.18,
+      "prev_close": 18.61,
+      "pct_change": 8.44,
+      "market_cap": 1006274112,
+      "dividend_yield": 10.51,
       "fifty_two_week_high": 32.36,
       "fifty_two_week_low": 18.135,
       "next_earnings": "2026-11-03"
     },
     {
+      "name": "MRP Group",
+      "ticker": "MRP",
+      "price": 23.17,
+      "prev_close": 22.51,
+      "pct_change": 2.93,
+      "market_cap": 3756004096,
+      "dividend_yield": 13.64,
+      "fifty_two_week_high": 33.49,
+      "fifty_two_week_low": 21.85,
+      "next_earnings": "2026-10-27"
+    },
+    {
       "name": "American Homes 4 Rent",
       "ticker": "AMH",
-      "price": 30.08,
-      "prev_close": 30.26,
-      "pct_change": -0.59,
-      "market_cap": 12491237376,
-      "dividend_yield": 4.39,
+      "price": 30.47,
+      "prev_close": 30.08,
+      "pct_change": 1.3,
+      "market_cap": 12298559488,
+      "dividend_yield": 4.33,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-10-28"
+    }
+  ],
+  "top_losers": [
+    {
+      "name": "UDR Inc",
+      "ticker": "UDR",
+      "price": 33.91,
+      "prev_close": 33.84,
+      "pct_change": 0.21,
+      "market_cap": 12345581568,
+      "dividend_yield": 5.13,
+      "fifty_two_week_high": 42.0,
+      "fifty_two_week_low": 32.94,
+      "next_earnings": "2026-10-28"
     },
     {
-      "name": "MRP Group",
-      "ticker": "MRP",
-      "price": 22.51,
-      "prev_close": 23.82,
-      "pct_change": -5.5,
-      "market_cap": 3847330304,
-      "dividend_yield": 14.04,
-      "fifty_two_week_high": 33.49,
-      "fifty_two_week_low": 21.85,
-      "next_earnings": "2026-11-11"
+      "name": "Sun Communities",
+      "ticker": "SUI",
+      "price": 112.07,
+      "prev_close": 111.84,
+      "pct_change": 0.21,
+      "market_cap": 14165698560,
+      "dividend_yield": 4.0,
+      "fifty_two_week_high": 137.85,
+      "fifty_two_week_low": 109.77,
+      "next_earnings": "2026-10-28"
+    },
+    {
+      "name": "Independence Realty Trust",
+      "ticker": "IRT",
+      "price": 14.73,
+      "prev_close": 14.72,
+      "pct_change": 0.07,
+      "market_cap": 3489517056,
+      "dividend_yield": 4.89,
+      "fifty_two_week_high": 17.79,
+      "fifty_two_week_low": 14.34,
+      "next_earnings": "2026-10-28"
     }
   ],
   "news": [
@@ -349,6 +349,17 @@
       "company": "Mid-America Apartment",
       "source": "MAA",
       "category": "reit",
+      "title": "MAA Announces Date of Third Quarter 2026 Earnings Release, Conference Call",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/maa-announces-date-third-quarter-201500668.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 20:15:00 +0000",
+      "summary": "MAA (NYSE: MAA) announced today that the Company expects to release its third quarter 2026 results on Wednesday, October 28, 2026, after market close and will hold a conference call on Thursday, October 29, 2026, at 9:00 a.m. Central Time. During the conference call, company officers will review thi\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
       "title": "What Is Drawing Fresh Attention To Mid-America Apartment Communities (MAA)?",
       "link": "https://finance.yahoo.com/real-estate/articles/drawing-fresh-attention-mid-america-091348685.html?.tsrc=rss",
       "published": "Wed, 23 Sep 2026 09:13:48 +0000",
@@ -376,17 +387,6 @@
       "published": "Tue, 22 Sep 2026 13:46:20 +0000",
       "summary": "Mid-America Apartment Communities has fallen short of the real estate sector over the past year, yet Wall Street analysts maintain a moderately optimistic outlook on the stock\u2019s prospects.",
       "is_signal": true
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
-      "title": "MAA to Participate in the BofA Securities 2026 Global Real Estate Conference",
-      "link": "https://finance.yahoo.com/real-estate/articles/maa-participate-bofa-securities-2026-201500118.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 20:15:00 +0000",
-      "summary": "Mid-America Apartment Communities, Inc., or MAA (NYSE: MAA), today announced that MAA will participate in a round table presentation at the BofA Securities 2026 Global Real Estate Conference. The presentation will take place on Wednesday, September 16, 2026, at approximately 3:00 p.m. Eastern Time.",
-      "is_signal": false
     },
     {
       "ticker": "UDR",
@@ -437,6 +437,17 @@
       "company": "Camden Property Trust",
       "source": "CPT",
       "category": "reit",
+      "title": "Camden Property Trust Announces Third Quarter 2026 Earnings Release and Conference Call Dates",
+      "link": "https://finance.yahoo.com/real-estate/articles/camden-property-trust-announces-third-201500524.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 20:15:00 +0000",
+      "summary": "HOUSTON, October 07, 2026--Camden Property Trust (NYSE:CPT) (the \"Company\") announced today that its third quarter 2026 earnings will be released after the market closes on Thursday, November 5, 2026. The Company will host a conference call on Friday, November 6, 2026, at 10:00 AM Central Time, whic\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property Trust",
+      "source": "CPT",
+      "category": "reit",
       "title": "How Is Camden Property Trust Stock Performance Compared to Other Residential REIT Stocks",
       "link": "https://www.barchart.com/story/news/4774866/how-is-camden-property-trust-stock-performance-compared-to-other-residential-reit-stocks?.tsrc=rss",
       "published": "Thu, 24 Sep 2026 11:49:06 +0000",
@@ -463,17 +474,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/camden-property-trust-announces-participation-214300729.html?.tsrc=rss",
       "published": "Tue, 08 Sep 2026 21:43:00 +0000",
       "summary": "HOUSTON, September 08, 2026--Camden Property Trust (NYSE:CPT) (the \"Company\") announced today that the Company will participate in the Evercore Real Estate Conference on September 10, 2026, the Barclays Global Financial Services Conference on September 14, 2026, and the BofA Securities Global Real E\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "CPT",
-      "company": "Camden Property Trust",
-      "source": "CPT",
-      "category": "reit",
-      "title": "Apartment cap rates inched up to 5.6% in July: MSCI",
-      "link": "https://www.multifamilydive.com/news/apartment-cap-rates-multifamily-sales/829320/?.tsrc=rss",
-      "published": "Tue, 01 Sep 2026 16:49:13 +0000",
-      "summary": "Camden Property Trust\u2019s sale of an 11-property Southern California portfolio to a BlackRock-managed vehicle boosted portfolio trades, but overall sales fell 16% YOY to $12.4 billion.",
       "is_signal": true
     },
     {
@@ -569,6 +569,17 @@
       "company": "Invitation Homes",
       "source": "INVH",
       "category": "reit",
+      "title": "Invitation Homes Announces Dates for Third Quarter 2026 Earnings Release and Webcast",
+      "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-announces-dates-third-203000633.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 20:30:00 +0000",
+      "summary": "DALLAS, October 07, 2026--Invitation Homes Inc. (NYSE: INVH) (\"Invitation Homes,\" the \"Company,\" or \"our\"), the nation's premier single-family home leasing and management company, will release third quarter 2026 financial and operating results on Wednesday, October 28, 2026, after the market closes.\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
       "title": "Invitation Homes Inc's Dividend Analysis",
       "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-incs-dividend-analysis-110112636.html?.tsrc=rss",
       "published": "Thu, 24 Sep 2026 11:01:12 +0000",
@@ -595,17 +606,6 @@
       "link": "https://www.barchart.com/story/news/4651448/is-invitation-homes-stock-underperforming-the-s-p-500?.tsrc=rss",
       "published": "Thu, 17 Sep 2026 09:27:14 +0000",
       "summary": "Although Invitation Homes has lagged the broader S&amp;P 500 over the past year, analysts remain moderately optimistic about the stock\u2019s outlook.",
-      "is_signal": true
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "source": "INVH",
-      "category": "reit",
-      "title": "Invitation Homes Announces Cash Dividend",
-      "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-announces-cash-dividend-104500475.html?.tsrc=rss",
-      "published": "Fri, 11 Sep 2026 10:45:00 +0000",
-      "summary": "DALLAS, September 11, 2026--Invitation Homes Inc. (NYSE: INVH) (\"Invitation Homes,\" the \"Company,\" or \"our\"), the nation\u2019s premier single-family home leasing and management company, announced today that it has declared a quarterly cash dividend of $0.30 per share payable on shares of its common stoc\u2026",
       "is_signal": true
     },
     {
@@ -701,6 +701,17 @@
       "company": "MRP Group",
       "source": "MRP",
       "category": "reit",
+      "title": "Millrose Properties Announces Date of Third Quarter 2026 Earnings Release and Conference Call",
+      "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-announces-date-third-120000135.html?.tsrc=rss",
+      "published": "Wed, 07 Oct 2026 12:00:00 +0000",
+      "summary": "MIAMI, October 07, 2026--Millrose Properties, Inc. (NYSE: MRP, \"Millrose\"), the homesite option platform for residential homebuilders, today announced that it will release its financial results for the third quarter ended September 30, 2026, before the market opens on Tuesday, October 27, 2026. The \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "MRP",
+      "company": "MRP Group",
+      "source": "MRP",
+      "category": "reit",
       "title": "Millrose Properties (MRP) Stock May Be Below Fair Value Following $1B Notes Offering",
       "link": "https://finance.yahoo.com/markets/stocks/articles/millrose-properties-mrp-stock-may-221347159.html?.tsrc=rss",
       "published": "Wed, 23 Sep 2026 22:13:47 +0000",
@@ -727,17 +738,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/millrose-properties-inc-announces-pricing-225400003.html?.tsrc=rss",
       "published": "Tue, 22 Sep 2026 22:54:00 +0000",
       "summary": "MIAMI, September 22, 2026--Millrose Properties, Inc. (NYSE: MRP) (\"Millrose\" or the \"Company\") announced today the pricing of its private offering (the \"Offering\") of $1.0 billion in aggregate principal amount of senior notes in two separate tranches, one representing $500.0 million in aggregate pri\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "MRP",
-      "company": "MRP Group",
-      "source": "MRP",
-      "category": "reit",
-      "title": "Millrose Properties (MRP) Q2 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/millrose-properties-mrp-q2-2026-earnings-call-transcript/?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 17:28:08 +0000",
-      "summary": "Invested capital reached $8.8 billion amid expansion into multifamily assets.",
       "is_signal": true
     },
     {
@@ -789,10 +789,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Vishal Garg lays out Better 2.0 plan during shareholder call",
-      "link": "https://www.housingwire.com/articles/better-2-plan-shareholder/",
-      "published": "Tue, 06 Oct 2026 22:01:18 +0000",
-      "summary": "<p>Daniel Lewis was removed as interim CEO effective Oct. 5, per an SEC filing</p>",
+      "title": "Bank of America: Older Americans have taken on a bigger economic role",
+      "link": "https://www.housingwire.com/articles/bank-of-america-older-americans-have-taken-on-a-bigger-economic-role/",
+      "published": "Wed, 07 Oct 2026 20:51:25 +0000",
+      "summary": "<p>Households headed by someone 55 or older held close to $140 trillion in net worth as of Q2 2026</p>",
       "is_signal": false
     },
     {
@@ -800,10 +800,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Seniors aren\u2019t keeping up with their credit card debt. Reverse mortgages can help",
-      "link": "https://www.housingwire.com/articles/seniors-arent-keeping-up-with-their-credit-card-debt-reverse-mortgages-can-help/",
-      "published": "Tue, 06 Oct 2026 21:29:46 +0000",
-      "summary": "<p>As credit card and HELOC balances grow, reverse mortgages and their voluntary payment structures should be considered</p>",
+      "title": "HUD opens probe into Wells Fargo\u2019s race-based mortgage programs",
+      "link": "https://www.housingwire.com/articles/hud-investigation-wells-fargo-race/",
+      "published": "Wed, 07 Oct 2026 20:30:47 +0000",
+      "summary": "<p>HUD says bank initiatives may violate the Fair Housing Act\n\n</p>",
       "is_signal": false
     },
     {
@@ -811,21 +811,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Timberline Homes buy will push Champion deeper into retail",
-      "link": "https://www.housingwire.com/articles/champion-homes-timberline-acquisition/",
-      "published": "Tue, 06 Oct 2026 21:08:14 +0000",
-      "summary": "<p>The Timberline Homes acquisition, Champion Homes' third acquisition since 2025, signals a growing emphasis on direct-to-consumer sales</p>",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "CRMLS went on offense against Compass. Will other MLSs follow?",
-      "link": "https://www.housingwire.com/articles/crmls-sues-compass-cooperation/",
-      "published": "Tue, 06 Oct 2026 20:25:59 +0000",
-      "summary": "<p>Industry leaders weigh in as CRMLS seeks to stop Compass from challenging MLS rules in court</p>",
+      "title": "FICO to cut 15% of staff, reduce management layers",
+      "link": "https://www.housingwire.com/articles/fico-layoffs-competition-mortgages/",
+      "published": "Wed, 07 Oct 2026 18:55:55 +0000",
+      "summary": "<p>The move comes as regulators and large lenders are embracing competing credit score models</p>",
       "is_signal": false
     },
     {
@@ -833,10 +822,21 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Upstate New York bucking national housing slowdown",
-      "link": "https://www.housingwire.com/articles/upstate-new-york-bucking-national-housing-slowdown/",
-      "published": "Tue, 06 Oct 2026 20:18:24 +0000",
-      "summary": "<p>Planned tech development is expected to bring even more buyers to upper New York</p>",
+      "title": "New $100 million Baltimore fund targets vacant housing pipeline",
+      "link": "https://www.housingwire.com/articles/baltimore-vacant-housing-fund/",
+      "published": "Wed, 07 Oct 2026 18:50:56 +0000",
+      "summary": "<p>The Greater Baltimore Committee and Enterprise will launch a Funders\u2019 Consortium in November</p>",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Property tax delinquency reaches highest level since 2017",
+      "link": "https://www.housingwire.com/articles/property-tax-delinquency-reaches-highest-level-since-2017/",
+      "published": "Wed, 07 Oct 2026 18:39:40 +0000",
+      "summary": "<p>North Dakota recorded the lowest rate at 1.4%, followed by Wisconsin (1.5%)</p>",
       "is_signal": false
     },
     {
@@ -985,13 +985,13 @@
     {
       "ticker": null,
       "company": null,
-      "source": "PRNewswire",
+      "source": "Prtimes.jp",
       "category": "broad",
-      "title": "/C O R R E C T I O N -- MyEyeDr./",
-      "link": "https://www.prnewswire.com/news-releases/myeyedr-celebrates-25-years-of-visionary-care-a-quarter-century-of-bringing-high-quality-eye-care-to-communities-nationwide-302897911.html",
-      "published": "2026-10-06T00:29:00Z",
-      "summary": "In the news release, MyEyeDr. Celebrates 25 Years of Visionary Care: A Quarter-Century of Bringing High-Quality Eye Care to Communities Nationwide, issued 05-Oct-2026 by MyEyeDr. over PR Newswire, we are advised by the company that changes have been made. The\u2026",
-      "is_signal": true
+      "title": "\u30a2\u30b8\u30a2\u5b66\u9662\u3001\u5b66\u751f\u306e\u5b66\u3073\u3092\u73fe\u5834\u304b\u3089\u4f1d\u3048\u308b\u52d5\u753b\u30b7\u30ea\u30fc\u30ba\u300c\u30ad\u30e3\u30f3\u30d1\u30b9\u5b9f\u6cc1\u4e2d\u7d99\u300d\u3092\u5c55\u958b \u2015 \u98df\u54c1\u52a0\u5de5\u30fb\u98fc\u6599\u3065\u304f\u308a\u30fb\u30ea\u30c8\u30ea\u30fc\u30c8\u306e3\u30c6\u30fc\u30de\u3092\u516c\u958b",
+      "link": "https://prtimes.jp/main/html/rd/p/000000121.000119470.html",
+      "published": "2026-10-07T00:41:13Z",
+      "summary": "[\u5b66\u6821\u6cd5\u4eba\u30a2\u30b8\u30a2\u5b66\u9662]\n[\u753b\u50cf1: https://prcdn.freetls.fastly.net/release_image/119470/121/119470-121-d08a79de161db9026977ec0b40f5d829-1077x620.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds...",
+      "is_signal": false
     }
   ],
   "weekly_report": null,
