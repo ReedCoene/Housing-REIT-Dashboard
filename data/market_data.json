@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T23:47:57.130651+00:00",
-  "market_date": "October 16, 2026",
+  "last_updated": "2026-10-20T00:27:56.188083+00:00",
+  "market_date": "October 20, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
@@ -8,8 +8,8 @@
       "price": 269.43,
       "prev_close": 269.66,
       "pct_change": -0.09,
-      "market_cap": 18572587008,
-      "dividend_yield": 3.84,
+      "market_cap": 18379167744,
+      "dividend_yield": 3.85,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -20,8 +20,8 @@
       "price": 116.63,
       "prev_close": 116.27,
       "pct_change": 0.31,
-      "market_cap": 13874746368,
-      "dividend_yield": 5.26,
+      "market_cap": 13818024960,
+      "dividend_yield": 5.25,
       "fifty_two_week_high": 144.41,
       "fifty_two_week_low": 113.95,
       "next_earnings": "2026-10-28"
@@ -32,8 +32,8 @@
       "price": 34.26,
       "prev_close": 34.21,
       "pct_change": 0.15,
-      "market_cap": 12585897984,
-      "dividend_yield": 5.09,
+      "market_cap": 12538249216,
+      "dividend_yield": 5.08,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-11-02"
@@ -44,8 +44,8 @@
       "price": 98.59,
       "prev_close": 98.19,
       "pct_change": 0.41,
-      "market_cap": 11410074624,
-      "dividend_yield": 4.32,
+      "market_cap": 9837775872,
+      "dividend_yield": 4.3,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 95.3,
       "next_earnings": "2026-11-05"
@@ -56,8 +56,8 @@
       "price": 14.77,
       "prev_close": 14.7,
       "pct_change": 0.48,
-      "market_cap": 3569705472,
-      "dividend_yield": 4.9,
+      "market_cap": 3501600000,
+      "dividend_yield": 4.87,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2026-11-02"
@@ -68,8 +68,8 @@
       "price": 31.28,
       "prev_close": 30.97,
       "pct_change": 1.0,
-      "market_cap": 12823299072,
-      "dividend_yield": 4.26,
+      "market_cap": 12663416832,
+      "dividend_yield": 4.22,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-11-04"
@@ -80,8 +80,8 @@
       "price": 27.07,
       "prev_close": 26.8,
       "pct_change": 1.01,
-      "market_cap": 15988170752,
-      "dividend_yield": 4.48,
+      "market_cap": 15775546368,
+      "dividend_yield": 4.43,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-10-28"
@@ -92,8 +92,8 @@
       "price": 118.08,
       "prev_close": 115.91,
       "pct_change": 1.87,
-      "market_cap": 14919726080,
-      "dividend_yield": 3.87,
+      "market_cap": 15030038528,
+      "dividend_yield": 3.79,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-28"
@@ -104,8 +104,8 @@
       "price": 61.21,
       "prev_close": 60.25,
       "pct_change": 1.59,
-      "market_cap": 12273272832,
-      "dividend_yield": 3.6,
+      "market_cap": 12227423232,
+      "dividend_yield": 3.55,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2026-10-20"
@@ -116,8 +116,8 @@
       "price": 22.5,
       "prev_close": 22.22,
       "pct_change": 1.26,
-      "market_cap": 3736078080,
-      "dividend_yield": 14.22,
+      "market_cap": 3649733120,
+      "dividend_yield": 14.04,
       "fifty_two_week_high": 33.49,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -128,10 +128,10 @@
       "price": 18.37,
       "prev_close": 18.57,
       "pct_change": -1.08,
-      "market_cap": 947961856,
-      "dividend_yield": 11.42,
+      "market_cap": 925772224,
+      "dividend_yield": 11.54,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 18.135,
+      "fifty_two_week_low": 17.675,
       "next_earnings": "2026-11-03"
     }
   },
@@ -142,8 +142,8 @@
       "price": 118.08,
       "prev_close": 115.91,
       "pct_change": 1.87,
-      "market_cap": 14919726080,
-      "dividend_yield": 3.87,
+      "market_cap": 15030038528,
+      "dividend_yield": 3.79,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-28"
@@ -154,8 +154,8 @@
       "price": 61.21,
       "prev_close": 60.25,
       "pct_change": 1.59,
-      "market_cap": 12273272832,
-      "dividend_yield": 3.6,
+      "market_cap": 12227423232,
+      "dividend_yield": 3.55,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2026-10-20"
@@ -166,8 +166,8 @@
       "price": 22.5,
       "prev_close": 22.22,
       "pct_change": 1.26,
-      "market_cap": 3736078080,
-      "dividend_yield": 14.22,
+      "market_cap": 3649733120,
+      "dividend_yield": 14.04,
       "fifty_two_week_high": 33.49,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -180,8 +180,8 @@
       "price": 34.26,
       "prev_close": 34.21,
       "pct_change": 0.15,
-      "market_cap": 12585897984,
-      "dividend_yield": 5.09,
+      "market_cap": 12538249216,
+      "dividend_yield": 5.08,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-11-02"
@@ -192,8 +192,8 @@
       "price": 269.43,
       "prev_close": 269.66,
       "pct_change": -0.09,
-      "market_cap": 18572587008,
-      "dividend_yield": 3.84,
+      "market_cap": 18379167744,
+      "dividend_yield": 3.85,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -204,10 +204,10 @@
       "price": 18.37,
       "prev_close": 18.57,
       "pct_change": -1.08,
-      "market_cap": 947961856,
-      "dividend_yield": 11.42,
+      "market_cap": 925772224,
+      "dividend_yield": 11.54,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 18.135,
+      "fifty_two_week_low": 17.675,
       "next_earnings": "2026-11-03"
     }
   ],
@@ -349,6 +349,17 @@
       "company": "Mid-America Apartment",
       "source": "MAA",
       "category": "reit",
+      "title": "Here's What to Expect From Mid-America Apartment Communities' Next Earnings Report",
+      "link": "https://www.barchart.com/story/news/8124968/here-s-what-to-expect-from-mid-america-apartment-communities-next-earnings-report?.tsrc=rss",
+      "published": "Sat, 17 Oct 2026 05:02:02 +0000",
+      "summary": "Mid-America Apartment Communities is poised to release its third-quarter results later this month, with analysts expecting a single-digit decline in core FFO year-over-year.",
+      "is_signal": true
+    },
+    {
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
+      "category": "reit",
       "title": "MAA Announces Date of Third Quarter 2026 Earnings Release, Conference Call",
       "link": "https://finance.yahoo.com/markets/stocks/articles/maa-announces-date-third-quarter-201500668.html?.tsrc=rss",
       "published": "Wed, 07 Oct 2026 20:15:00 +0000",
@@ -375,17 +386,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/maa-announces-quarterly-common-dividend-201500626.html?.tsrc=rss",
       "published": "Tue, 22 Sep 2026 20:15:00 +0000",
       "summary": "Mid-America Apartment Communities, Inc., or MAA (NYSE: MAA), today announced that its board of directors approved a quarterly dividend payment of $1.53 per share of common stock to be paid on October 30, 2026, to shareholders of record on October 15, 2026.",
-      "is_signal": true
-    },
-    {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
-      "category": "reit",
-      "title": "Mid-America Apartment Communities Stock: Is MAA Underperforming the Real Estate Sector?",
-      "link": "https://www.barchart.com/story/news/4734013/mid-america-apartment-communities-stock-is-maa-underperforming-the-real-estate-sector?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 13:46:20 +0000",
-      "summary": "Mid-America Apartment Communities has fallen short of the real estate sector over the past year, yet Wall Street analysts maintain a moderately optimistic outlook on the stock\u2019s prospects.",
       "is_signal": true
     },
     {
@@ -613,6 +613,17 @@
       "company": "Sun Communities",
       "source": "SUI",
       "category": "reit",
+      "title": "Sun Communities, Inc. Announces Date for Third Quarter 2026 Earnings Release and Conference Call",
+      "link": "https://finance.yahoo.com/real-estate/articles/sun-communities-inc-announces-date-202100414.html?.tsrc=rss",
+      "published": "Mon, 19 Oct 2026 20:21:00 +0000",
+      "summary": "Southfield, MI, Oct. 19, 2026 (GLOBE NEWSWIRE) -- Sun Communities, Inc. (NYSE: SUI) (the \u201cCompany\u201d), a real estate investment trust (\"REIT\") that owns and operates, or has an interest in, manufactured housing (\u201cMH\u201d) and recreational vehicle (\u201cRV\u201d) communities (collectively, the \"properties\"), announ\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
       "title": "Mortgage Rates Squeeze FHA Buyers: 3 Housing Stocks to Watch",
       "link": "https://www.marketbeat.com/articles/mortgage-rates-squeeze-fha-buyers-3-housing-stocks-to-watch/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "published": "Thu, 15 Oct 2026 12:40:00 +0000",
@@ -639,17 +650,6 @@
       "link": "https://www.multifamilydive.com/news/vivmark-sun-communities-equity-reidential/829008/?.tsrc=rss",
       "published": "Thu, 27 Aug 2026 19:49:11 +0000",
       "summary": "The REIT\u2019s former chief investment officer joins the manufactured housing and recreational vehicle communities firm after more than 20 years at Equity Residential.",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Robert A. Garechana Appointed Chief Financial Officer",
-      "link": "https://finance.yahoo.com/real-estate/articles/robert-garechana-appointed-chief-financial-110100027.html?.tsrc=rss",
-      "published": "Tue, 25 Aug 2026 11:01:00 +0000",
-      "summary": "Southfield, MI, Aug. 25, 2026 (GLOBE NEWSWIRE) -- Sun Communities, Inc. (NYSE: SUI) (the \u201cCompany\u201d), a real estate investment trust (\u201cREIT\u201d) that owns and operates, or has an interest in, manufactured housing (\u201cMH\u201d) and recreational vehicle (\u201cRV\u201d) communities (collectively, the \u201cproperties\u201d), today \u2026",
       "is_signal": true
     },
     {
@@ -789,10 +789,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Real, Compass, SERHANT. add teams; Baird & Warner picks COO",
-      "link": "https://www.housingwire.com/articles/real-compass-serhant-add-teams-baird-warner-picks-coo/",
-      "published": "Fri, 16 Oct 2026 20:04:43 +0000",
-      "summary": "<p>Christies International Real Estate expands in New Jersey</p>",
+      "title": "Builder confidence plunges as rate shock, costs squeeze margins",
+      "link": "https://www.housingwire.com/articles/nahb-builder-confidence-14-year-low-october/",
+      "published": "Mon, 19 Oct 2026 21:09:42 +0000",
+      "summary": "<p>NAHB\u2019s October Housing Market Index for builder confidence dropped three points to 29, a low since June 2012</p>",
       "is_signal": false
     },
     {
@@ -800,10 +800,21 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Compass takes CRMLS fight to court and promises to cover agent fines",
-      "link": "https://www.housingwire.com/articles/compass-sues-crmls-cooperation-rules/",
-      "published": "Fri, 16 Oct 2026 19:45:10 +0000",
-      "summary": "<p>Complaint alleges fines up to $2,500 for public marketing outside the MLS when clients direct it in writing</p>",
+      "title": "First American\u2019s Odeta Kushi on how labor, AI and migration will impact the housing market",
+      "link": "https://www.housingwire.com/articles/odeta-kushi-labor-ai-migration/",
+      "published": "Mon, 19 Oct 2026 21:09:25 +0000",
+      "summary": "<p>Economist explains how 7% mortgage rates and lower home price growth are reshaping affordability and mobility</p>",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Retirement delays rise as Americans worry about running out of money",
+      "link": "https://www.housingwire.com/articles/retirement-delays-rise-as-americans-worry-about-running-out-of-money/",
+      "published": "Mon, 19 Oct 2026 21:08:08 +0000",
+      "summary": "<p>More than half of respondents say the events of 2026 have impacted their retirement planning</p>",
       "is_signal": false
     },
     {
@@ -811,10 +822,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "First Horizon sells $4.5B mortgage portfolio at discount",
-      "link": "https://www.housingwire.com/articles/first-horizon-sells-4-5-billion/",
-      "published": "Fri, 16 Oct 2026 18:43:22 +0000",
-      "summary": "<p>Bank is moving to align its mortgage production more closely with core relationship clients</p>",
+      "title": "Your next deal may already be in your CRM. Here\u2019s how to find it",
+      "link": "https://www.housingwire.com/articles/your-next-deal-may-already-be-in-your-crm-heres-how-to-find-it/",
+      "published": "Mon, 19 Oct 2026 20:04:51 +0000",
+      "summary": "<p>An analysis of 10 million real estate leads found that 91% had received no human contact in 90 days </p>",
       "is_signal": false
     },
     {
@@ -822,21 +833,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Disruption can distract brokerage leaders from consumer expectations",
-      "link": "https://www.housingwire.com/articles/disruption-consumer-expectations/",
-      "published": "Fri, 16 Oct 2026 17:41:10 +0000",
-      "summary": "<p>Lessons from deregulation, software shifts, wireless competition, and patient consumerism point to a consistent pattern, choice changes behavior</p>",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Fannie Mae slashes 2027 mortgage forecast amid higher rates",
-      "link": "https://www.housingwire.com/articles/fannie-mae-cuts-2027-mortgage-forecast/",
-      "published": "Fri, 16 Oct 2026 16:03:54 +0000",
-      "summary": "<p>Refinance activity takes the brunt of the revision </p>",
+      "title": "Opendoor\u2019s shared-equity test shows a new way to hunt for buyer demand",
+      "link": "https://www.housingwire.com/articles/opendoor-ownify-shared-equity/",
+      "published": "Mon, 19 Oct 2026 20:00:00 +0000",
+      "summary": "<p>Ownify partner helps fund purchases, buyers make five years of fixed payments, then face renewal or buyout</p>",
       "is_signal": true
     },
     {
@@ -921,6 +921,50 @@
       "company": null,
       "source": "PRNewswire",
       "category": "broad",
+      "title": "Property Management Expert Amy Reynolds Explains Rental Income Strategies in HelloNation",
+      "link": "https://www.prnewswire.com/news-releases/property-management-expert-amy-reynolds-explains-rental-income-strategies-in-hellonation-302908517.html",
+      "published": "2026-10-16T19:29:00Z",
+      "summary": "The Article Explains How Investors Can Evaluate Rental Income, Property Expenses, and Potential Profits Before Purchasing an Investment Property. FAYETTEVILLE, N.C., Oct. 16, 2026 /PRNewswire/ -- What should investors evaluate before purchasing an investment \u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Mother Jones",
+      "category": "broad",
+      "title": "Build, Baby, Build? California\u2019s Hottest Races Are Battles About Housing.",
+      "link": "https://www.motherjones.com/politics/2026/10/california-housing-crisis-nithya-raman-scott-wiener-karen-bass-connie-chan-nancy-pelosi-affordable/",
+      "published": "2026-10-16T14:39:06Z",
+      "summary": "In late September, a Los Angeles Times poll of that city\u2019s mayoral race showed the upstart candidate, LA city councilmember Nithya Raman, up 11 points over incumbent mayor Karen Bass. It was a shocker. But what was really interesting was Bass\u2019 response. Asked\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Mother Jones",
+      "category": "broad",
+      "title": "Build, Baby, Build? California\u2019s Hottest Races Are Battles About Housing.",
+      "link": "https://www.motherjones.com/politics/2026/10/california-housing-crisis-nithya-raman-scott-wiener-karen-bass-connie-chan-nancy-pelosi/",
+      "published": "2026-10-16T14:39:06Z",
+      "summary": "In late September, a Los Angeles Times poll of that city\u2019s mayoral race showed the upstart candidate, LA city councilmember Nithya Raman, up 11 points over incumbent mayor Karen Bass. It was a shocker. But what was really interesting was Bass\u2019 response. Asked\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "CBC News",
+      "category": "broad",
+      "title": "Where do B.C.\u2019s parties stand on housing policies ahead of the provincial election?",
+      "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-party-housing-platforms-2026-election-9.7372870",
+      "published": "2026-10-16T13:00:00Z",
+      "summary": "B.C.'s provincial parties are beginning to outline their priorities for housing ahead of the Oct. 24 provincial election, with promises ranging from new developer and vacancy taxes, to renter protections, to making homes more affordable.",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "PRNewswire",
+      "category": "broad",
       "title": "Bravo Capital Now Financing Build-to-Rent Communities Under New HUD Guidance",
       "link": "https://www.prnewswire.com/news-releases/bravo-capital-now-financing-build-to-rent-communities-under-new-hud-guidance-302910625.html",
       "published": "2026-10-15T21:08:00Z",
@@ -948,72 +992,6 @@
       "published": "2026-10-13T16:26:41Z",
       "summary": "FHA affordability comes down to your income, debts, credit score, and county loan limit. Here is the math on what you can actually buy in 2026.\nThe post How Much House Can I Afford With an FHA Loan? appeared first on Redfin | Real Estate Tips for Home Buying,\u2026",
       "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The-digital-reader.com",
-      "category": "broad",
-      "title": "Why Long Island Buyers Suddenly Want Different Floor Plans",
-      "link": "https://the-digital-reader.com/why-long-island-buyers-suddenly-want-different-floor-plans/",
-      "published": "2026-10-13T06:06:35Z",
-      "summary": "The proportion of older millennials who are purchasing multigenerational housing is increasing, reaching up to 9% in 2017 compared to 7%. Millennials aged over 35 also increased, by 12-14 percent. Gen X continues to dominate all the generations with a slight \u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Richmondmagazine.com",
-      "category": "broad",
-      "title": "Decoding the Dream",
-      "link": "https://richmondmagazine.com/news/features/richmond-code-refresh/",
-      "published": "2026-10-12T14:30:00Z",
-      "summary": "Forget the duplexes and special use permits \u2014 Richmond\u2019s zoning rewrite is about delivering on America\u2019s unfulfilled promise: access to housing.",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Yahoo Entertainment",
-      "category": "broad",
-      "title": "TESLA only met 13% of cyberstruck goal...",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-250-000-cybertruck-233010061.html",
-      "published": "2026-10-12T02:00:15Z",
-      "summary": "Elon Musk had ambitious goals for the Cybertruck, the electric pickup truck released by Tesla Inc in 2023. Three years later, the goals have been crushed and...",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "RTE",
-      "category": "broad",
-      "title": "Housing and nostalgia key in battle for Britain's centre",
-      "link": "https://www.rte.ie/news/analysis-and-comment/2026/1011/1594841-british-politics-analysis-tories/",
-      "published": "2026-10-11T06:00:00Z",
-      "summary": "Two big parties are battling for power in the middle ground of British politics, with housing and nostalgia proving key avenues to exploit, writes Sean Whelan.",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "The New Republic",
-      "category": "broad",
-      "title": "Trump\u2019s DOJ Is Hiring Only the Best MAGA Wing Nuts",
-      "link": "https://newrepublic.com/post/216470/trump-doj-civil-service-wingnuts",
-      "published": "2026-10-10T10:00:00Z",
-      "summary": "With the midterm elections less than a month away, it would seem to be an absurd time to suffer a thought for the next election cycle and the challenges that any would-be Democratic presidential victor would have to tend to on day one. Unfortunately, sometime\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "BBC News",
-      "category": "broad",
-      "title": "The Interview",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct98kt?at_campaign=rss",
-      "published": "2026-10-15T23:30:00Z",
-      "summary": "Nigerian opposition leader Peter Obi on his presidential bid and his claim he won in 2023",
-      "is_signal": false
     }
   ],
   "weekly_report": null,
