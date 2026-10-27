@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T23:57:23.011316+00:00",
-  "market_date": "October 23, 2026",
+  "last_updated": "2026-10-27T00:37:35.562351+00:00",
+  "market_date": "October 27, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
@@ -8,8 +8,8 @@
       "price": 278.35,
       "prev_close": 282.45,
       "pct_change": -1.45,
-      "market_cap": 19187470336,
-      "dividend_yield": 3.67,
+      "market_cap": 18975379456,
+      "dividend_yield": 3.72,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -20,8 +20,8 @@
       "price": 119.78,
       "prev_close": 121.17,
       "pct_change": -1.15,
-      "market_cap": 14249483264,
-      "dividend_yield": 5.05,
+      "market_cap": 14269079552,
+      "dividend_yield": 5.11,
       "fifty_two_week_high": 144.41,
       "fifty_two_week_low": 113.95,
       "next_earnings": "2026-10-28"
@@ -32,8 +32,8 @@
       "price": 35.84,
       "prev_close": 36.18,
       "pct_change": -0.94,
-      "market_cap": 13166333952,
-      "dividend_yield": 4.81,
+      "market_cap": 13227409408,
+      "dividend_yield": 4.85,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 32.94,
       "next_earnings": "2026-11-02"
@@ -44,8 +44,8 @@
       "price": 102.0,
       "prev_close": 102.74,
       "pct_change": -0.72,
-      "market_cap": 11804723200,
-      "dividend_yield": 4.13,
+      "market_cap": 10255013888,
+      "dividend_yield": 4.16,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 95.3,
       "next_earnings": "2026-11-05"
@@ -56,8 +56,8 @@
       "price": 14.96,
       "prev_close": 15.17,
       "pct_change": -1.38,
-      "market_cap": 3615625728,
-      "dividend_yield": 4.75,
+      "market_cap": 3610345216,
+      "dividend_yield": 4.81,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2026-11-02"
@@ -68,7 +68,7 @@
       "price": 31.92,
       "prev_close": 31.9,
       "pct_change": 0.06,
-      "market_cap": 13085668352,
+      "market_cap": 13163558912,
       "dividend_yield": 4.14,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
@@ -80,7 +80,7 @@
       "price": 27.54,
       "prev_close": 27.53,
       "pct_change": 0.04,
-      "market_cap": 16265763840,
+      "market_cap": 16253952000,
       "dividend_yield": 4.36,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
@@ -92,8 +92,8 @@
       "price": 120.24,
       "prev_close": 119.86,
       "pct_change": 0.32,
-      "market_cap": 15192647680,
-      "dividend_yield": 3.74,
+      "market_cap": 15322839040,
+      "dividend_yield": 3.73,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-26"
@@ -104,8 +104,8 @@
       "price": 60.84,
       "prev_close": 61.17,
       "pct_change": -0.54,
-      "market_cap": 12199084032,
-      "dividend_yield": 3.55,
+      "market_cap": 12235438080,
+      "dividend_yield": 3.57,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2026-10-20"
@@ -116,9 +116,9 @@
       "price": 23.86,
       "prev_close": 23.97,
       "pct_change": -0.46,
-      "market_cap": 3961903360,
-      "dividend_yield": 13.18,
-      "fifty_two_week_high": 33.37,
+      "market_cap": 3970205696,
+      "dividend_yield": 13.24,
+      "fifty_two_week_high": 33.24,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
     },
@@ -128,8 +128,8 @@
       "price": 18.76,
       "prev_close": 19.09,
       "pct_change": -1.73,
-      "market_cap": 968087296,
-      "dividend_yield": 11.11,
+      "market_cap": 963958976,
+      "dividend_yield": 11.3,
       "fifty_two_week_high": 32.36,
       "fifty_two_week_low": 17.67,
       "next_earnings": "2026-11-03"
@@ -142,8 +142,8 @@
       "price": 120.24,
       "prev_close": 119.86,
       "pct_change": 0.32,
-      "market_cap": 15192647680,
-      "dividend_yield": 3.74,
+      "market_cap": 15322839040,
+      "dividend_yield": 3.73,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-26"
@@ -154,7 +154,7 @@
       "price": 31.92,
       "prev_close": 31.9,
       "pct_change": 0.06,
-      "market_cap": 13085668352,
+      "market_cap": 13163558912,
       "dividend_yield": 4.14,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
@@ -166,7 +166,7 @@
       "price": 27.54,
       "prev_close": 27.53,
       "pct_change": 0.04,
-      "market_cap": 16265763840,
+      "market_cap": 16253952000,
       "dividend_yield": 4.36,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
@@ -180,8 +180,8 @@
       "price": 14.96,
       "prev_close": 15.17,
       "pct_change": -1.38,
-      "market_cap": 3615625728,
-      "dividend_yield": 4.75,
+      "market_cap": 3610345216,
+      "dividend_yield": 4.81,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2026-11-02"
@@ -192,8 +192,8 @@
       "price": 278.35,
       "prev_close": 282.45,
       "pct_change": -1.45,
-      "market_cap": 19187470336,
-      "dividend_yield": 3.67,
+      "market_cap": 18975379456,
+      "dividend_yield": 3.72,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -204,8 +204,8 @@
       "price": 18.76,
       "prev_close": 19.09,
       "pct_change": -1.73,
-      "market_cap": 968087296,
-      "dividend_yield": 11.11,
+      "market_cap": 963958976,
+      "dividend_yield": 11.3,
       "fifty_two_week_high": 32.36,
       "fifty_two_week_low": 17.67,
       "next_earnings": "2026-11-03"
@@ -305,6 +305,17 @@
       "company": "Essex Property Trust",
       "source": "ESS",
       "category": "reit",
+      "title": "Essex Property Stock Pre-Q3 Earnings: Smart Buy or Risky Move?",
+      "link": "https://finance.yahoo.com/real-estate/articles/essex-property-stock-pre-q3-115300730.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 11:53:00 +0000",
+      "summary": "ESS heads into Q3 earnings with rental demand and limited housing supply supporting growth, while West Coast leasing trends and rent increases remain key drivers.",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
       "title": "Essex Property Trust's Q3 2026 Earnings: What to Expect",
       "link": "https://www.barchart.com/story/news/8326906/essex-property-trust-s-q3-2026-earnings-what-to-expect?.tsrc=rss",
       "published": "Thu, 22 Oct 2026 15:57:05 +0000",
@@ -334,15 +345,15 @@
       "is_signal": true
     },
     {
-      "ticker": "ESS",
-      "company": "Essex Property Trust",
-      "source": "ESS",
+      "ticker": "MAA",
+      "company": "Mid-America Apartment",
+      "source": "MAA",
       "category": "reit",
-      "title": "Is Essex Property Trust Stock Underperforming the Dow?",
-      "link": "https://www.barchart.com/story/news/4751933/is-essex-property-trust-stock-underperforming-the-dow?.tsrc=rss",
-      "published": "Wed, 23 Sep 2026 11:21:20 +0000",
-      "summary": "Essex Property Trust has lagged the broader market over the past year, although analysts remain moderately optimistic about its prospects.",
-      "is_signal": false
+      "title": "Mid-America Apartment Stock Pre-Q3 Earnings: Smart Buy or Risky Move?",
+      "link": "https://finance.yahoo.com/real-estate/articles/mid-america-apartment-stock-pre-124800490.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 12:48:00 +0000",
+      "summary": "MAA heads into Q3 2026 earnings with stronger leasing trends and easing supply pressures, but rising interest expenses and rent recovery concerns persist.",
+      "is_signal": true
     },
     {
       "ticker": "MAA",
@@ -378,15 +389,26 @@
       "is_signal": true
     },
     {
-      "ticker": "MAA",
-      "company": "Mid-America Apartment",
-      "source": "MAA",
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
       "category": "reit",
-      "title": "MAA Announces Quarterly Common Dividend",
-      "link": "https://finance.yahoo.com/real-estate/articles/maa-announces-quarterly-common-dividend-201500626.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 20:15:00 +0000",
-      "summary": "Mid-America Apartment Communities, Inc., or MAA (NYSE: MAA), today announced that its board of directors approved a quarterly dividend payment of $1.53 per share of common stock to be paid on October 30, 2026, to shareholders of record on October 15, 2026.",
+      "title": "UDR (UDR) Could Be 11% Undervalued Following Its Guidance Reset",
+      "link": "https://finance.yahoo.com/real-estate/articles/udr-udr-could-11-undervalued-160721790.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 16:07:21 +0000",
+      "summary": "UDR (UDR) has just reset expectations. Management raised guidance for third quarter and full year 2026 net income per diluted share and outlined a much lower earnings outlook for the fourth quarter. UDR shares trade at US$35.84 and the recent 7 day share price return of 4.61% sits against a 90 day s\u2026",
       "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "Can UDR (UDR) Stay Undervalued After Its $2b Joint Venture?",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/udr-udr-stay-undervalued-2b-140747635.html?.tsrc=rss",
+      "published": "Sun, 25 Oct 2026 14:07:47 +0000",
+      "summary": "UDR has delivered a 28.8% gain over the past three years, and the question now is whether today\u2019s US$35.84 share price is properly supported by the cash it is expected to generate. With investors weighing fresh news on joint ventures and leadership changes, the focus has shifted squarely to what tho\u2026",
+      "is_signal": false
     },
     {
       "ticker": "UDR",
@@ -409,28 +431,6 @@
       "published": "Wed, 21 Oct 2026 16:49:35 +0000",
       "summary": "Apollo will put $1.34 billion into a $2 billion, 19-community apartment portfolio and take roughly two-thirds of a new UDR joint venture.",
       "is_signal": false
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "UDR, Inc. Raises Full-Year 2026 Guidance Ranges and Provides Preliminary Third Quarter 2026 Results",
-      "link": "https://finance.yahoo.com/real-estate/articles/udr-inc-raises-full-2026-120100839.html?.tsrc=rss",
-      "published": "Wed, 21 Oct 2026 12:01:00 +0000",
-      "summary": "DENVER, October 21, 2026--UDR, Inc. (the \"Company\") (NYSE: UDR), a leading multifamily real estate investment trust, announced today that it has raised its full-year 2026 guidance ranges for Net Income and Funds From Operations as Adjusted (\"FFOA\") per diluted share, and provided preliminary results\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "UDR, Inc. Announces Dates for Third Quarter 2026 Earnings Release, Webcast, and Conference Call",
-      "link": "https://finance.yahoo.com/real-estate/articles/udr-inc-announces-dates-third-201600217.html?.tsrc=rss",
-      "published": "Thu, 15 Oct 2026 20:16:00 +0000",
-      "summary": "DENVER, October 15, 2026--UDR, Inc. (the \"Company\") (NYSE: UDR), a leading multifamily real estate investment trust, announced today that it will release its third quarter 2026 financial results on Monday, November 2, 2026, after the market closes. A webcast and conference call will be held on Tuesd\u2026",
-      "is_signal": true
     },
     {
       "ticker": "CPT",
@@ -569,6 +569,17 @@
       "company": "Invitation Homes",
       "source": "INVH",
       "category": "reit",
+      "title": "Invitation Homes Q3 Earnings Coming Up: Smart Buy or Risky Move?",
+      "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-q3-earnings-coming-115000868.html?.tsrc=rss",
+      "published": "Mon, 26 Oct 2026 11:50:00 +0000",
+      "summary": "INVH heads into Q3 earnings with revenue and FFO growth in focus, supported by strong renewal pricing, healthy rental demand and improving supply conditions.",
+      "is_signal": true
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
       "title": "Big Landlords Could Face $1 Million Fines for Buying Houses Under a New Rule",
       "link": "https://247wallst.com/investing/2026/10/23/big-landlords-could-face-1-million-fines-for-buying-houses-under-a-new-rule/?.tsrc=rss",
       "published": "Fri, 23 Oct 2026 16:14:53 +0000",
@@ -595,17 +606,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-announces-dates-third-203000633.html?.tsrc=rss",
       "published": "Wed, 07 Oct 2026 20:30:00 +0000",
       "summary": "DALLAS, October 07, 2026--Invitation Homes Inc. (NYSE: INVH) (\"Invitation Homes,\" the \"Company,\" or \"our\"), the nation's premier single-family home leasing and management company, will release third quarter 2026 financial and operating results on Wednesday, October 28, 2026, after the market closes.\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "source": "INVH",
-      "category": "reit",
-      "title": "Invitation Homes Inc's Dividend Analysis",
-      "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-incs-dividend-analysis-110112636.html?.tsrc=rss",
-      "published": "Thu, 24 Sep 2026 11:01:12 +0000",
-      "summary": "This article first appeared on GuruFocus.  Invitation Homes Inc (NYSE:INVH) recently announced a total dividend of $0.30 per share, with the ex-dividend date set for 2026-09-24.  This includes $0.30 per share in cash dividends payable on 2026-10-16.",
       "is_signal": true
     },
     {
@@ -789,10 +789,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Appraisers warn of risks as more real estate listings go private",
-      "link": "https://www.housingwire.com/articles/uad-36-mls-photo-privacy/",
-      "published": "Fri, 23 Oct 2026 21:24:37 +0000",
-      "summary": "<p>Appraisers say hidden interiors and off-market sales limit comp verification and will extend turnaround times </p>",
+      "title": "Analysts cast FICO\u2019s $10 mortgage pricing as defensive volume play",
+      "link": "https://www.housingwire.com/articles/fico-preferred-program-analyst-reaction/",
+      "published": "Mon, 26 Oct 2026 21:01:30 +0000",
+      "summary": "<p>Preferred Program locks in FICO pulls at $10 per score as industry shifts to multiscore framework</p>",
       "is_signal": false
     },
     {
@@ -800,10 +800,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "The Agency, huntington & ellis expand as brokerages make moves",
-      "link": "https://www.housingwire.com/articles/the-agency-huntington-ellis-expand-as-brokerages-make-moves/",
-      "published": "Fri, 23 Oct 2026 20:51:05 +0000",
-      "summary": "<p>The Agency now has over 190 offices across 18 countries and launched 27 new offices in 2025</p>",
+      "title": "Rust Belt city eliminates minimum lot sizes to jump-start revival",
+      "link": "https://www.housingwire.com/articles/akron-minimum-lot-sizes/",
+      "published": "Mon, 26 Oct 2026 20:07:06 +0000",
+      "summary": "<p>Zoning rewrite allows homes on any lot meeting yard rules, hundreds of city held parcels now qualify</p>",
       "is_signal": false
     },
     {
@@ -811,10 +811,21 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Housing leaders weigh in on Trump\u2019s scaled-back EO",
-      "link": "https://www.housingwire.com/articles/trump-eo-mortgage-insurance-title-refi-costs/",
-      "published": "Fri, 23 Oct 2026 19:54:47 +0000",
-      "summary": "<p>Analysts see the moves as largely benign for mortgage and title insurers </p>",
+      "title": "Reds10 Group\u2019s MMY US acquisition secures U.S. offsite beachhead",
+      "link": "https://www.housingwire.com/articles/reds10-mmy-us-acquisition/",
+      "published": "Mon, 26 Oct 2026 19:28:42 +0000",
+      "summary": "<p>MMY US has an off-site construction facility in Louisville, and is planning to build another modular factory in Cleveland</p>",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Could a pullback in Medicare Advantage plans boost reverse mortgages?",
+      "link": "https://www.housingwire.com/articles/medicare-advantage-2027-reverse-mortgages/",
+      "published": "Mon, 26 Oct 2026 18:47:21 +0000",
+      "summary": "<p>With fewer Medicare Advantage plans available in 2027, seniors may look to their home equity to offset rising expenses</p>",
       "is_signal": false
     },
     {
@@ -822,21 +833,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Subservicer benchmark survey shows 27-point gap between best, worst performers",
-      "link": "https://www.housingwire.com/articles/mortgage-subservicer-benchmark-gap/",
-      "published": "Fri, 23 Oct 2026 19:24:23 +0000",
-      "summary": "<p>Garrett, McAuley &amp; Co. surveyed 53 mortgage banking firms, with composite scores ranging from 53 to 80</p>",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Taylor Morrison CEO on the value of trust in a challenging market",
-      "link": "https://www.housingwire.com/articles/taylor-morrison-trust-culture/",
-      "published": "Fri, 23 Oct 2026 19:10:06 +0000",
-      "summary": "<p>Sheryl Palmer said trust helps Taylor Morrison rework land deals and avoid deeper discounts amid 2026 market pressure</p>",
+      "title": "Everything we know so far about Open Real Estate",
+      "link": "https://www.housingwire.com/articles/open-real-estate-initiative/",
+      "published": "Mon, 26 Oct 2026 18:11:42 +0000",
+      "summary": "<p>Leaders say local MLS governance remains in place as Open Real Estate prepares for a Q1 2027 rollout</p>",
       "is_signal": false
     },
     {
@@ -897,6 +897,17 @@
     {
       "ticker": null,
       "company": null,
+      "source": "The New York Review of Books",
+      "category": "broad",
+      "title": "The Renters Take Providence",
+      "link": "https://www.nybooks.com/online/2026/10/23/the-renters-take-providence-morales/",
+      "published": "2026-10-23T12:00:00Z",
+      "summary": "On September 9 the incumbent mayor of Providence, Rhode Island, Brett Smiley, lost his reelection bid to a twenty-seven-year-old democratic socialist named David Morales. It was the first time an incumbent mayor failed to win his party\u2019s primary in the city\u2019s\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
       "source": "PRNewswire",
       "category": "broad",
       "title": "Property Management Expert Amy Reynolds Explains Rental Income Strategies in HelloNation",
@@ -936,39 +947,6 @@
       "link": "https://www.cbc.ca/news/canada/british-columbia/b-c-party-housing-platforms-2026-election-9.7372870",
       "published": "2026-10-16T13:00:00Z",
       "summary": "B.C.'s provincial parties are beginning to outline their priorities for housing ahead of the Oct. 24 provincial election, with promises ranging from new developer and vacancy taxes, to renter protections, to making homes more affordable.",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "PRNewswire",
-      "category": "broad",
-      "title": "Bravo Capital Now Financing Build-to-Rent Communities Under New HUD Guidance",
-      "link": "https://www.prnewswire.com/news-releases/bravo-capital-now-financing-build-to-rent-communities-under-new-hud-guidance-302910625.html",
-      "published": "2026-10-15T21:08:00Z",
-      "summary": "HUD Mortgagee Letter 2026-12 opens the 221(d)(4) and 223(f) programs to communities of detached single-family homes, duplexes, and triplexes NEW YORK, Oct. 15, 2026 /PRNewswire/ -- Bravo Capital, a leading privately held commercial real estate financing platf\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "PRNewswire",
-      "category": "broad",
-      "title": "Rents Rebound in AI Hubs and Affordable Alternatives: Realtor.com\u00ae September Rent Report",
-      "link": "https://www.prnewswire.com/news-releases/rents-rebound-in-ai-hubs-and-affordable-alternatives-realtorcom-september-rent-report-302909224.html",
-      "published": "2026-10-15T10:00:00Z",
-      "summary": "National Median Asking Rent Falls for the 38th Consecutive Month to $1,694 Yet September Saw the Slowest Pace of Decline in Three Years AUSTIN, Texas, Oct. 15, 2026 /PRNewswire/ -- September saw the slowest pace of decline in three years as today's rental mar\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Redfin.com",
-      "category": "broad",
-      "title": "How Much House Can I Afford With an FHA Loan?",
-      "link": "https://www.redfin.com/blog/how-much-house-can-i-afford-fha-loan/",
-      "published": "2026-10-13T16:26:41Z",
-      "summary": "FHA affordability comes down to your income, debts, credit score, and county loan limit. Here is the math on what you can actually buy in 2026.\nThe post How Much House Can I Afford With an FHA Loan? appeared first on Redfin | Real Estate Tips for Home Buying,\u2026",
       "is_signal": true
     }
   ],
