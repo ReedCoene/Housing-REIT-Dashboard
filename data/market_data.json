@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T03:01:39.982750+00:00",
-  "market_date": "November 03, 2026",
+  "last_updated": "2026-11-04T01:30:24.993563+00:00",
+  "market_date": "November 04, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
@@ -8,8 +8,8 @@
       "price": 265.56,
       "prev_close": 264.18,
       "pct_change": 0.52,
-      "market_cap": 18305816576,
-      "dividend_yield": 3.92,
+      "market_cap": 18260322304,
+      "dividend_yield": 3.9,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -20,8 +20,8 @@
       "price": 118.34,
       "prev_close": 117.21,
       "pct_change": 0.96,
-      "market_cap": 14078174208,
-      "dividend_yield": 5.22,
+      "market_cap": 13959211008,
+      "dividend_yield": 5.17,
       "fifty_two_week_high": 144.41,
       "fifty_two_week_low": 113.95,
       "next_earnings": "2026-10-28"
@@ -32,10 +32,10 @@
       "price": 35.91,
       "prev_close": 35.52,
       "pct_change": 1.1,
-      "market_cap": 13192049664,
-      "dividend_yield": 4.9,
+      "market_cap": 13199396864,
+      "dividend_yield": 4.85,
       "fifty_two_week_high": 42.0,
-      "fifty_two_week_low": 32.94,
+      "fifty_two_week_low": 33.1,
       "next_earnings": "2026-11-02"
     },
     "CPT": {
@@ -44,8 +44,8 @@
       "price": 101.67,
       "prev_close": 100.69,
       "pct_change": 0.97,
-      "market_cap": 11766531072,
-      "dividend_yield": 4.21,
+      "market_cap": 11651955712,
+      "dividend_yield": 4.17,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 95.3,
       "next_earnings": "2026-11-05"
@@ -56,8 +56,8 @@
       "price": 14.94,
       "prev_close": 14.72,
       "pct_change": 1.49,
-      "market_cap": 3610791936,
-      "dividend_yield": 4.89,
+      "market_cap": 3579372800,
+      "dividend_yield": 4.82,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2026-11-02"
@@ -68,8 +68,8 @@
       "price": 31.89,
       "prev_close": 31.6,
       "pct_change": 0.92,
-      "market_cap": 13073369088,
-      "dividend_yield": 4.18,
+      "market_cap": 12921687040,
+      "dividend_yield": 4.14,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-11-04"
@@ -80,8 +80,8 @@
       "price": 26.86,
       "prev_close": 26.56,
       "pct_change": 1.13,
-      "market_cap": 15626187776,
-      "dividend_yield": 4.52,
+      "market_cap": 15474928640,
+      "dividend_yield": 4.47,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-10-28"
@@ -92,8 +92,8 @@
       "price": 116.81,
       "prev_close": 113.26,
       "pct_change": 3.13,
-      "market_cap": 14759258112,
-      "dividend_yield": 3.96,
+      "market_cap": 14568466432,
+      "dividend_yield": 3.84,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-26"
@@ -104,8 +104,8 @@
       "price": 60.45,
       "prev_close": 59.03,
       "pct_change": 2.41,
-      "market_cap": 12120885248,
-      "dividend_yield": 3.68,
+      "market_cap": 12090808320,
+      "dividend_yield": 3.59,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
@@ -116,8 +116,8 @@
       "price": 26.81,
       "prev_close": 25.62,
       "pct_change": 4.64,
-      "market_cap": 4451744768,
-      "dividend_yield": 12.33,
+      "market_cap": 4300641280,
+      "dividend_yield": 11.79,
       "fifty_two_week_high": 32.595,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -128,10 +128,10 @@
       "price": 18.04,
       "prev_close": 18.03,
       "pct_change": 0.06,
-      "market_cap": 930932608,
-      "dividend_yield": 11.76,
+      "market_cap": 850430592,
+      "dividend_yield": 11.75,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 17.62,
+      "fifty_two_week_low": 16.23,
       "next_earnings": "2026-11-03"
     }
   },
@@ -142,8 +142,8 @@
       "price": 26.81,
       "prev_close": 25.62,
       "pct_change": 4.64,
-      "market_cap": 4451744768,
-      "dividend_yield": 12.33,
+      "market_cap": 4300641280,
+      "dividend_yield": 11.79,
       "fifty_two_week_high": 32.595,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -154,8 +154,8 @@
       "price": 116.81,
       "prev_close": 113.26,
       "pct_change": 3.13,
-      "market_cap": 14759258112,
-      "dividend_yield": 3.96,
+      "market_cap": 14568466432,
+      "dividend_yield": 3.84,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-26"
@@ -166,8 +166,8 @@
       "price": 60.45,
       "prev_close": 59.03,
       "pct_change": 2.41,
-      "market_cap": 12120885248,
-      "dividend_yield": 3.68,
+      "market_cap": 12090808320,
+      "dividend_yield": 3.59,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
@@ -180,8 +180,8 @@
       "price": 31.89,
       "prev_close": 31.6,
       "pct_change": 0.92,
-      "market_cap": 13073369088,
-      "dividend_yield": 4.18,
+      "market_cap": 12921687040,
+      "dividend_yield": 4.14,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-11-04"
@@ -192,8 +192,8 @@
       "price": 265.56,
       "prev_close": 264.18,
       "pct_change": 0.52,
-      "market_cap": 18305816576,
-      "dividend_yield": 3.92,
+      "market_cap": 18260322304,
+      "dividend_yield": 3.9,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -204,10 +204,10 @@
       "price": 18.04,
       "prev_close": 18.03,
       "pct_change": 0.06,
-      "market_cap": 930932608,
-      "dividend_yield": 11.76,
+      "market_cap": 850430592,
+      "dividend_yield": 11.75,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 17.62,
+      "fifty_two_week_low": 16.23,
       "next_earnings": "2026-11-03"
     }
   ],
@@ -393,43 +393,43 @@
       "company": "UDR Inc",
       "source": "UDR",
       "category": "reit",
+      "title": "UDR (UDR) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/03/udr-udr-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 21:20:36 +0000",
+      "summary": "Apollo deal and Sunbelt pressure shaped UDR's quarter, with guidance raised.",
+      "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "UDR Q3 FFOA Beats Estimates on Leasing Strength, 2026 View Up",
+      "link": "https://finance.yahoo.com/real-estate/articles/udr-q3-ffoa-beats-estimates-122400003.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 12:24:00 +0000",
+      "summary": "UDR tops Q3 FFOA estimates as positive same-store NOI growth, stronger renewal rates and improved resident retention support its higher 2026 outlook.",
+      "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
+      "title": "UDR: Q3 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/real-estate/articles/udr-q3-earnings-snapshot-043436516.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:34:36 +0000",
+      "summary": "(UDR) on Monday reported a key measure of profitability in its third quarter. The results exceeded Wall Street expectations.",
+      "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
       "title": "UDR (UDR) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
       "link": "https://finance.yahoo.com/markets/stocks/articles/udr-udr-q3-earnings-taking-220002813.html?.tsrc=rss",
       "published": "Mon, 02 Nov 2026 22:00:02 +0000",
       "summary": "The headline numbers for UDR (UDR) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
-      "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "UDR (UDR) Tops Q3 FFO Estimates",
-      "link": "https://finance.yahoo.com/real-estate/articles/udr-udr-tops-q3-ffo-215506341.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 21:55:06 +0000",
-      "summary": "UDR (UDR) delivered FFO and revenue surprises of +1.56% and -0.68%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "UDR, Inc. Announces Third Quarter 2026 Results and Raises Full-Year 2026 Guidance Ranges",
-      "link": "https://finance.yahoo.com/real-estate/articles/udr-inc-announces-third-quarter-211600558.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 21:16:00 +0000",
-      "summary": "DENVER, November 02, 2026--UDR, Inc. (the \"Company\") (NYSE: UDR), announced today its full third quarter 2026 results, which follows its release of preliminary third quarter 2026 results on October 21, 2026. Net Income, Funds from Operations (\"FFO\"), and FFO as Adjusted (\"FFOA\") per diluted share fo\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "UDR, Inc. Publishes Eighth Annual Corporate Responsibility Report",
-      "link": "https://finance.yahoo.com/real-estate/articles/udr-inc-publishes-eighth-annual-211000360.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 21:10:00 +0000",
-      "summary": "DENVER, November 02, 2026--UDR, Inc. (the \"Company\") (NYSE: UDR), a leading multifamily real estate investment trust, today announced the publication of the Company\u2019s eighth annual Corporate Responsibility Report, which can be accessed on the Company\u2019s investor relations website at ir.udr.com and on\u2026",
       "is_signal": true
     },
     {
@@ -481,43 +481,43 @@
       "company": "Independence Realty Trust",
       "source": "IRT",
       "category": "reit",
+      "title": "Independence Realty Trust Inc (IRT) (Q3 2026) Earnings Call Highlights: $8. ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-inc-irt-010528516.html?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 01:05:28 +0000",
+      "summary": "Independence Realty Trust Inc (IRT) unveiled an all-stock merger with Centerspace creating a 44,000-unit, 17-state portfolio expected to be roughly 5% accretive to 2027 core FFO per share.",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty (IRT) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/03/independence-realty-irt-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 20:47:12 +0000",
+      "summary": "Asking rents are up about 3% as concessions burn off and renovation turns speed up.",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Independence Realty Trust: Q3 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-q3-earnings-042823775.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 04:28:23 +0000",
+      "summary": "PHILADELPHIA (AP) \u2014 PHILADELPHIA (AP) \u2014 Independence Realty Trust Inc. (IRT) on Monday reported a key measure of profitability in its third quarter.",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
       "title": "Independence Realty Trust (IRT) Q3 FFO Meet Estimates",
       "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-irt-q3-215505532.html?.tsrc=rss",
       "published": "Mon, 02 Nov 2026 21:55:05 +0000",
       "summary": "Independence Realty Trust (IRT) delivered FFO and revenue surprises of 0.00% and +0.29%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "is_signal": true
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
-      "title": "Independence Realty Trust Announces Third Quarter 2026 Financial Results",
-      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-announces-third-210500817.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 21:05:00 +0000",
-      "summary": "PHILADELPHIA, November 02, 2026--Independence Realty Trust, Inc. (\"IRT\") (NYSE: IRT), a multifamily apartment REIT, announces its third quarter 2026 financial results.",
-      "is_signal": true
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
-      "title": "IRT Announces Dates for Third Quarter 2026 Earnings Release and Conference Call",
-      "link": "https://finance.yahoo.com/real-estate/articles/irt-announces-dates-third-quarter-200500071.html?.tsrc=rss",
-      "published": "Wed, 14 Oct 2026 20:05:00 +0000",
-      "summary": "PHILADELPHIA, October 14, 2026--Independence Realty Trust, Inc. (\"IRT\") (NYSE: IRT) announces the release date and conference call details related to its third quarter 2026 financial results.",
-      "is_signal": true
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
-      "title": "Down 13.2% in 4 Weeks, Here's Why Independence Realty Trust (IRT) Looks Ripe for a Turnaround",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/down-13-2-4-weeks-133502345.html?.tsrc=rss",
-      "published": "Tue, 22 Sep 2026 13:35:02 +0000",
-      "summary": "Independence Realty Trust (IRT) is technically in oversold territory now, so the heavy selling pressure might have exhausted. This along with strong agreement among Wall Street analysts in raising earnings estimates could lead to a trend reversal for the stock.",
       "is_signal": true
     },
     {
@@ -745,10 +745,10 @@
       "company": "NexPoint Residential Trust",
       "source": "NXRT",
       "category": "reit",
-      "title": "NexPoint Residential Trust, Inc. Announces Quarterly Dividend",
-      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-trust-inc-announces-210000676.html?.tsrc=rss",
-      "published": "Tue, 27 Oct 2026 21:00:00 +0000",
-      "summary": "NexPoint Residential Trust, Inc. (NYSE: NXRT) (\"NXRT\") announced today that its board of directors approved a dividend of $0.53 per share of NXRT common stock, payable on December 31, 2026, to stockholders of record on December 15, 2026.",
+      "title": "NexPoint Residential Trust Inc (NXRT) Q3 2026 Earnings Call Highlights: Core FFO Miss, Guidance ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-trust-inc-nxrt-230958073.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 23:09:58 +0000",
+      "summary": "NexPoint Residential Trust Inc (NXRT) posted $0.52 in core FFO, slashed full-year guidance to $2.22 per share, and signaled the Q4 dividend may exceed earnings as leverage climbs to 62%.",
       "is_signal": true
     },
     {
@@ -756,10 +756,10 @@
       "company": "NexPoint Residential Trust",
       "source": "NXRT",
       "category": "reit",
-      "title": "NexPoint Residential Trust (NXRT) Stock Fair Value Falls After Analyst Target Cuts",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nexpoint-residential-trust-nxrt-stock-071037299.html?.tsrc=rss",
-      "published": "Thu, 01 Oct 2026 07:10:37 +0000",
-      "summary": "The fair value price target for NexPoint Residential Trust has been revised from US$30.40 to US$26.50, a reduction of about 13% in the updated model. This shift lines up with recent analyst commentary that centers on interest rate sensitivity, high leverage and a cluster of Hold ratings that signal \u2026",
+      "title": "NexPoint Residential (NXRT) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/03/nexpoint-residential-nxrt-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 21:46:31 +0000",
+      "summary": "Leverage, occupancy pressure and a looming dividend decision shape the outlook.",
       "is_signal": true
     },
     {
@@ -767,10 +767,10 @@
       "company": "NexPoint Residential Trust",
       "source": "NXRT",
       "category": "reit",
-      "title": "NexPoint Residential (NXRT) Sees Improving Occupancy Despite Sliding Profits",
-      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-nxrt-sees-improving-043533232.html?.tsrc=rss",
-      "published": "Thu, 10 Sep 2026 04:35:33 +0000",
-      "summary": "On August 4, NexPoint Residential Trust Inc. (NYSE:NXRT) reported second-quarter 2026 results that pull in two directions at once. Occupancy inched higher, rent premiums on renovated units kept climbing, and the company deployed its first loan under a brand new lending program. At the same time, net\u2026",
+      "title": "NexPoint Residential Trust Inc. (NXRT) Misses Q3 FFO and Revenue Estimates",
+      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-trust-inc-nxrt-132502507.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 13:25:02 +0000",
+      "summary": "NexPoint Residential Trust Inc. (NXRT) delivered FFO and revenue surprises of -3.70% and -0.64%, respectively, for the quarter ended September 2026. Do the numbers hold clues to what lies ahead for the stock?",
       "is_signal": true
     },
     {
@@ -778,10 +778,10 @@
       "company": "NexPoint Residential Trust",
       "source": "NXRT",
       "category": "reit",
-      "title": "NexPoint Residential Trust (NXRT) Q2 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/08/11/nexpoint-residential-trust-nxrt-q2-2026-earnings-call-transcript/?.tsrc=rss",
-      "published": "Tue, 11 Aug 2026 16:46:46 +0000",
-      "summary": "Interest rate headwinds and Nashville weakness force FFO guidance cut.",
+      "title": "NexPoint Residential Trust Inc.: Q3 Earnings Snapshot",
+      "link": "https://finance.yahoo.com/real-estate/articles/nexpoint-residential-trust-inc-q3-132130676.html?.tsrc=rss",
+      "published": "Tue, 03 Nov 2026 13:21:30 +0000",
+      "summary": "DALLAS (AP) \u2014 DALLAS (AP) \u2014 NexPoint Residential Trust Inc. (NXRT) on Tuesday reported a key measure of profitability in its third quarter.",
       "is_signal": true
     },
     {
@@ -789,21 +789,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "A $20M fine stalks Los Angeles over delay of a new housing project",
-      "link": "https://www.housingwire.com/articles/mountain-lion-housing-law-fight/",
-      "published": "Mon, 02 Nov 2026 21:33:57 +0000",
-      "summary": "<p>Developer counsel says denial violates AB 2011 and the Housing Accountability Act and argues for damages for missed deadlines</p>",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Real estate is moving toward more data privacy. Appraisers say UAD 3.6 is moving the other way",
-      "link": "https://www.housingwire.com/articles/uad-36-certification-25/",
-      "published": "Mon, 02 Nov 2026 21:27:44 +0000",
-      "summary": "<p>Certification 25 expands who can store, analyze, and distribute appraisal report data, including interior photos</p>",
+      "title": "Finance of America grows origination volume but reports $110M loss in Q3",
+      "link": "https://www.housingwire.com/articles/finance-of-america-earnings/",
+      "published": "Tue, 03 Nov 2026 23:03:12 +0000",
+      "summary": "<p>Funded volume increased 24% year over year to $748 million, but higher interest rates pressured origination margins</p>",
       "is_signal": false
     },
     {
@@ -811,10 +800,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Could dual licensing grow as agents, LOs seek revenue opportunities?",
-      "link": "https://www.housingwire.com/articles/retr-dual-license-analysis/",
-      "published": "Mon, 02 Nov 2026 20:36:34 +0000",
-      "summary": "<p>RETR identified 3,729 agent and loan officer name matches, with 40% in California</p>",
+      "title": "MSRs trade at richest levels in decades as lenders, funds pile in",
+      "link": "https://www.housingwire.com/articles/msr-multiples-near-7x/",
+      "published": "Tue, 03 Nov 2026 22:17:56 +0000",
+      "summary": "<p>From Rate\u2019s full retention stance to UWM\u2019s bulk sale, strategies diverge  </p>",
       "is_signal": false
     },
     {
@@ -822,10 +811,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Open Real Estate gets a boost from independents \u2014 and an opening from MLSs",
-      "link": "https://www.housingwire.com/articles/open-real-estate-826-letters/",
-      "published": "Mon, 02 Nov 2026 19:00:00 +0000",
-      "summary": "<p>Independent firms account for 493 letters, or 59%, the group said on Monday</p>",
+      "title": "NIMBYs cite a 155-year-old law to thwart a San Francisco project",
+      "link": "https://www.housingwire.com/articles/marina-safeway-san-franscisco-housing-fight/",
+      "published": "Tue, 03 Nov 2026 21:54:57 +0000",
+      "summary": "<p>A Reconstruction-era civil rights statute is the sole federal hook in a lawsuit over homes above a waterfront Safeway</p>",
       "is_signal": false
     },
     {
@@ -833,10 +822,21 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Could Social Security turmoil influence senior homeowners and reverse mortgage demand?",
-      "link": "https://www.housingwire.com/articles/social-security-early-claims-impact-housing-retirement-income/",
-      "published": "Mon, 02 Nov 2026 18:49:04 +0000",
-      "summary": "<p>Senior homeowners will continue to face long-term budgeting pressures, with implications for the reverse mortgage segment</p>",
+      "title": "Why homebuilders and lot sellers no longer price risk the same way",
+      "link": "https://www.housingwire.com/articles/homebuilding-capital-squeeze-land-deals/",
+      "published": "Tue, 03 Nov 2026 21:24:16 +0000",
+      "summary": "<p>Public homebuilder gross margins fell to about 20% from 26%, and incentives rose to about 8% to 12% of prices</p>",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Social Security COLA, tax break could narrow spending gap for older consumers in 2027",
+      "link": "https://www.housingwire.com/articles/older-americans-spending-2027-social-security-cola/",
+      "published": "Tue, 03 Nov 2026 20:11:27 +0000",
+      "summary": "<p>Policy drivers could have implications for housing, including renovation demand and affordability assessments for older clients</p>",
       "is_signal": true
     },
     {
@@ -893,6 +893,17 @@
       "published": "Thu, 16 Jan 2014 12:00:00 +0000",
       "summary": "<div class=\"paragraph paragraph--image paragraph--image--teaser paragraph--type--image paragraph--id--11915 paragraph--view-mode--teaser\">\n            \n\n      <figure class=\"media media--type-image media--view-mode-teaser\">\n  \n  \n      \n  <div class=\"field field--name-field-media-image field--type-i\u2026",
       "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Www.gov.uk",
+      "category": "broad",
+      "title": "National Housing Bank invests up to \u00a370 million in Fiera Real Estate and Packaged Living",
+      "link": "https://www.gov.uk/government/news/national-housing-bank-invests-up-to-70-million-in-fiera-real-estate-and-packaged-living",
+      "published": "2026-11-02T11:15:56Z",
+      "summary": "National Housing Bank invests up to \u00a370 million in Fiera Real Estate and Packaged Living\u2019s Single-Family Housing Fund to accelerate housing delivery and unlock institutional investment",
+      "is_signal": true
     },
     {
       "ticker": null,
