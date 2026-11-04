@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T01:30:24.993563+00:00",
+  "last_updated": "2026-11-04T01:36:01.067565+00:00",
   "market_date": "November 04, 2026",
   "stocks": {
     "ESS": {
@@ -393,6 +393,17 @@
       "company": "UDR Inc",
       "source": "UDR",
       "category": "reit",
+      "title": "UDR Inc (UDR) Q3 2026 Earnings Call Highlights: Raised Guidance, Apollo JV Close, and Record ...",
+      "link": "https://finance.yahoo.com/real-estate/articles/udr-inc-udr-q3-2026-010907978.html?.tsrc=rss",
+      "published": "Wed, 04 Nov 2026 01:09:07 +0000",
+      "summary": "UDR Inc (UDR) lifted full-year 2026 FFOA and same-store revenue guidance while closing a $2 billion Apollo joint venture and posting an all-time Q3 high in resident retention.",
+      "is_signal": true
+    },
+    {
+      "ticker": "UDR",
+      "company": "UDR Inc",
+      "source": "UDR",
+      "category": "reit",
       "title": "UDR (UDR) Q3 2026 Earnings Call Transcript",
       "link": "https://www.fool.com/earnings/call-transcripts/2026/11/03/udr-udr-q3-2026-earnings-call-transcript/?.tsrc=rss",
       "published": "Tue, 03 Nov 2026 21:20:36 +0000",
@@ -419,17 +430,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/udr-q3-earnings-snapshot-043436516.html?.tsrc=rss",
       "published": "Tue, 03 Nov 2026 04:34:36 +0000",
       "summary": "(UDR) on Monday reported a key measure of profitability in its third quarter. The results exceeded Wall Street expectations.",
-      "is_signal": true
-    },
-    {
-      "ticker": "UDR",
-      "company": "UDR Inc",
-      "source": "UDR",
-      "category": "reit",
-      "title": "UDR (UDR) Q3 Earnings: Taking a Look at Key Metrics Versus Estimates",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/udr-udr-q3-earnings-taking-220002813.html?.tsrc=rss",
-      "published": "Mon, 02 Nov 2026 22:00:02 +0000",
-      "summary": "The headline numbers for UDR (UDR) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
       "is_signal": true
     },
     {
