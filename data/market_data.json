@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T03:45:07.750773+00:00",
-  "market_date": "November 10, 2026",
+  "last_updated": "2026-11-11T01:19:41.683056+00:00",
+  "market_date": "November 11, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
@@ -8,8 +8,8 @@
       "price": 275.54,
       "prev_close": 272.18,
       "pct_change": 1.23,
-      "market_cap": 19012800512,
-      "dividend_yield": 3.81,
+      "market_cap": 19027290112,
+      "dividend_yield": 3.76,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -20,8 +20,8 @@
       "price": 119.4,
       "prev_close": 118.93,
       "pct_change": 0.4,
-      "market_cap": 14199431168,
-      "dividend_yield": 5.15,
+      "market_cap": 14135213056,
+      "dividend_yield": 5.13,
       "fifty_two_week_high": 144.41,
       "fifty_two_week_low": 113.95,
       "next_earnings": "2026-10-28"
@@ -32,8 +32,8 @@
       "price": 36.71,
       "prev_close": 36.58,
       "pct_change": 0.36,
-      "market_cap": 13325317120,
-      "dividend_yield": 4.76,
+      "market_cap": 13307167744,
+      "dividend_yield": 4.74,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 33.1,
       "next_earnings": "2026-11-02"
@@ -44,8 +44,8 @@
       "price": 100.28,
       "prev_close": 99.44,
       "pct_change": 0.84,
-      "market_cap": 10034987008,
-      "dividend_yield": 4.26,
+      "market_cap": 9995960320,
+      "dividend_yield": 4.23,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 95.3,
       "next_earnings": "2027-02-04"
@@ -56,8 +56,8 @@
       "price": 15.07,
       "prev_close": 15.0,
       "pct_change": 0.47,
-      "market_cap": 3644097280,
-      "dividend_yield": 4.8,
+      "market_cap": 3639261184,
+      "dividend_yield": 4.78,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2026-11-02"
@@ -68,8 +68,8 @@
       "price": 32.9,
       "prev_close": 32.82,
       "pct_change": 0.24,
-      "market_cap": 13411125248,
-      "dividend_yield": 4.02,
+      "market_cap": 13362207744,
+      "dividend_yield": 4.01,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-11-04"
@@ -80,8 +80,8 @@
       "price": 27.2,
       "prev_close": 27.1,
       "pct_change": 0.37,
-      "market_cap": 15731150848,
-      "dividend_yield": 4.43,
+      "market_cap": 15667531776,
+      "dividend_yield": 4.41,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-10-28"
@@ -92,7 +92,7 @@
       "price": 120.33,
       "prev_close": 120.3,
       "pct_change": 0.02,
-      "market_cap": 14932686848,
+      "market_cap": 14798660608,
       "dividend_yield": 3.72,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
@@ -104,8 +104,8 @@
       "price": 62.78,
       "prev_close": 62.95,
       "pct_change": -0.27,
-      "market_cap": 12633339904,
-      "dividend_yield": 3.45,
+      "market_cap": 12613217280,
+      "dividend_yield": 3.46,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
@@ -116,8 +116,8 @@
       "price": 26.61,
       "prev_close": 25.92,
       "pct_change": 2.66,
-      "market_cap": 4418535424,
-      "dividend_yield": 12.19,
+      "market_cap": 4337171968,
+      "dividend_yield": 11.88,
       "fifty_two_week_high": 32.595,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -128,10 +128,10 @@
       "price": 15.75,
       "prev_close": 16.26,
       "pct_change": -3.14,
-      "market_cap": 812759872,
-      "dividend_yield": 13.04,
+      "market_cap": 814824000,
+      "dividend_yield": 13.46,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 15.7225,
+      "fifty_two_week_low": 15.46,
       "next_earnings": "2026-11-03"
     }
   },
@@ -142,8 +142,8 @@
       "price": 26.61,
       "prev_close": 25.92,
       "pct_change": 2.66,
-      "market_cap": 4418535424,
-      "dividend_yield": 12.19,
+      "market_cap": 4337171968,
+      "dividend_yield": 11.88,
       "fifty_two_week_high": 32.595,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -154,8 +154,8 @@
       "price": 275.54,
       "prev_close": 272.18,
       "pct_change": 1.23,
-      "market_cap": 19012800512,
-      "dividend_yield": 3.81,
+      "market_cap": 19027290112,
+      "dividend_yield": 3.76,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -166,8 +166,8 @@
       "price": 100.28,
       "prev_close": 99.44,
       "pct_change": 0.84,
-      "market_cap": 10034987008,
-      "dividend_yield": 4.26,
+      "market_cap": 9995960320,
+      "dividend_yield": 4.23,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 95.3,
       "next_earnings": "2027-02-04"
@@ -180,7 +180,7 @@
       "price": 120.33,
       "prev_close": 120.3,
       "pct_change": 0.02,
-      "market_cap": 14932686848,
+      "market_cap": 14798660608,
       "dividend_yield": 3.72,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
@@ -192,8 +192,8 @@
       "price": 62.78,
       "prev_close": 62.95,
       "pct_change": -0.27,
-      "market_cap": 12633339904,
-      "dividend_yield": 3.45,
+      "market_cap": 12613217280,
+      "dividend_yield": 3.46,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
@@ -204,10 +204,10 @@
       "price": 15.75,
       "prev_close": 16.26,
       "pct_change": -3.14,
-      "market_cap": 812759872,
-      "dividend_yield": 13.04,
+      "market_cap": 814824000,
+      "dividend_yield": 13.46,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 15.7225,
+      "fifty_two_week_low": 15.46,
       "next_earnings": "2026-11-03"
     }
   ],
@@ -239,21 +239,21 @@
       "company": "Equity Residential",
       "source": "EQR",
       "category": "reit",
-      "title": "Vivmark Residential (VMRK) Q3 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/06/vivmark-residential-vmrk-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "published": "Fri, 06 Nov 2026 16:01:21 +0000",
-      "summary": "Management raised synergy targets and plans to double development activity.",
-      "is_signal": true
+      "title": "Vivmark Residential Calls Series K Cumulative Redeemable Preferred Shares for Redemption",
+      "link": "https://finance.yahoo.com/real-estate/articles/vivmark-residential-calls-series-k-211500262.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 21:15:00 +0000",
+      "summary": "ARLINGTON, Va. & CHICAGO, November 10, 2026--Vivmark Residential (NYSE: VMRK) (the \"Company\") today announced that it has called for redemption, on December 10, 2026 (the \"Redemption Date\"), all of its outstanding Series K Cumulative Redeemable Preferred Shares of Beneficial Interest (the \"Series K \u2026",
+      "is_signal": false
     },
     {
       "ticker": "EQR",
       "company": "Equity Residential",
       "source": "EQR",
       "category": "reit",
-      "title": "Vivmark finds additional efficiencies after completing AVB-EQR merger",
-      "link": "https://www.multifamilydive.com/news/vivmark-earnings-release-blended-rent-growth/873941/?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 21:29:54 +0000",
-      "summary": "The REIT\u2019s net run-rate operating synergies increased by $10 million to $135 million, driven by increased portfolio net operating income opportunities, according to its Q3 earnings release.",
+      "title": "Vivmark Residential (VMRK) Q3 2026 Earnings Call Transcript",
+      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/06/vivmark-residential-vmrk-q3-2026-earnings-call-transcript/?.tsrc=rss",
+      "published": "Fri, 06 Nov 2026 16:01:21 +0000",
+      "summary": "Management raised synergy targets and plans to double development activity.",
       "is_signal": true
     },
     {
@@ -481,6 +481,28 @@
       "company": "Independence Realty Trust",
       "source": "IRT",
       "category": "reit",
+      "title": "Independence Realty Trust Stockholders and Centerspace Shareholders Approve Merger",
+      "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-stockholders-centerspace-210500535.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 21:05:00 +0000",
+      "summary": "PHILADELPHIA & MINNEAPOLIS, November 10, 2026--Independence Realty Trust, Inc. (NYSE: IRT) (\"IRT\"), a multifamily real estate investment trust (\"REIT\") included in the S&amp;P MidCap 400 Index, and Centerspace (NYSE: CSR) (\"Centerspace\"), a multifamily REIT, today announced that, at their respective\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
+      "title": "Irenic Seeks Strategic Review at Independence Realty (ITR)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/irenic-seeks-strategic-review-independence-174457906.html?.tsrc=rss",
+      "published": "Tue, 10 Nov 2026 17:44:57 +0000",
+      "summary": "We just published our list, Top 10 Activist Target Stocks for Spin-offs or Breakups, and Independence Realty Trust, Inc. ranked 9th on this list. Activist investors have increasingly targeted companies with complex corporate structures, underperforming business divisions, or undervalued assets. The \u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": "IRT",
+      "company": "Independence Realty Trust",
+      "source": "IRT",
+      "category": "reit",
       "title": "Independence Realty Trust Q3 Earnings Call Highlights",
       "link": "https://www.marketbeat.com/instant-alerts/transcript-independence-realty-trust-q3-earnings-call-highlights-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "published": "Wed, 04 Nov 2026 04:14:09 +0000",
@@ -496,28 +518,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/independence-realty-trust-inc-irt-010528516.html?.tsrc=rss",
       "published": "Wed, 04 Nov 2026 01:05:28 +0000",
       "summary": "Independence Realty Trust Inc (IRT) unveiled an all-stock merger with Centerspace creating a 44,000-unit, 17-state portfolio expected to be roughly 5% accretive to 2027 core FFO per share.",
-      "is_signal": true
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
-      "title": "Independence Realty (IRT) Q3 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/11/03/independence-realty-irt-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 20:47:12 +0000",
-      "summary": "Asking rents are up about 3% as concessions burn off and renovation turns speed up.",
-      "is_signal": true
-    },
-    {
-      "ticker": "IRT",
-      "company": "Independence Realty Trust",
-      "source": "IRT",
-      "category": "reit",
-      "title": "Independence Realty Trust, Inc. Q3 2026 Earnings Call Summary",
-      "link": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-independence-realty-trust-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-      "published": "Tue, 03 Nov 2026 13:30:00 +0000",
-      "summary": "Moby summary of Independence Realty Trust, Inc.'s Q3 2026 earnings call",
       "is_signal": true
     },
     {
@@ -789,10 +789,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "California voters reject measure to shred environmental red tape",
-      "link": "https://www.housingwire.com/articles/california-ceqa-prop-45-rejected/",
-      "published": "Mon, 09 Nov 2026 21:50:41 +0000",
-      "summary": "<p>Opponents argued the measure could also fast-track data centers and major infrastructure, not just housing</p>",
+      "title": "Reverse mortgage leaders on alleviating sales and referral pain points",
+      "link": "https://www.housingwire.com/articles/nrmla-reverse-mortgage-strategies-2026/",
+      "published": "Wed, 11 Nov 2026 00:42:35 +0000",
+      "summary": "<p>Industry veterans Dan Hultquist, John Luddy and Scott Harmes were joined by financial adviser Ryan Ponsford in a NRMLA panel discussion</p>",
       "is_signal": false
     },
     {
@@ -800,10 +800,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "HECM endorsements rebound in October but stay near decade low",
-      "link": "https://www.housingwire.com/articles/hecm-reverse-mortgage-endorsements-october-2026/",
-      "published": "Mon, 09 Nov 2026 21:28:00 +0000",
-      "summary": "<p>HECM endorsements rise 11% while HMBS issuance falls 16%</p>",
+      "title": "Higharc, ECI launch MarkSystems integration for big builders",
+      "link": "https://www.housingwire.com/articles/higharc-eci-marksystems-integration/",
+      "published": "Wed, 11 Nov 2026 00:24:58 +0000",
+      "summary": "<p>Integration ties 3D design, option pricing and ERP workflows to cut production builders' manual entry and errors </p>",
       "is_signal": false
     },
     {
@@ -811,10 +811,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Century Communities names Jim Francescon as president",
-      "link": "https://www.housingwire.com/articles/entury-communities-jim-francescon-president/",
-      "published": "Mon, 09 Nov 2026 21:15:30 +0000",
-      "summary": "<p>Executive Chairman Dale Francescon will remain in his role, and CEO Rob Francescon will continue as chief executive</p>",
+      "title": "Mamdani gives nonprofits first dibs on buying apartment buildings",
+      "link": "https://www.housingwire.com/articles/mamdani-nonprofits-first-dibs/",
+      "published": "Tue, 10 Nov 2026 21:58:06 +0000",
+      "summary": "<p>Mamdani says COPA can deter predatory investors, while rent freeze and 2019 rent law lawsuits continue</p>",
       "is_signal": false
     },
     {
@@ -822,10 +822,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Trump strikes a softer note on immigration; builders need proof",
-      "link": "https://www.housingwire.com/articles/trump-immigration-homebuilders/",
-      "published": "Mon, 09 Nov 2026 20:58:32 +0000",
-      "summary": "<p>On Sunday, President Donald Trump said his administration's immigration policies \"might be too tough\"</p>",
+      "title": "Third spaces perform a star turn in this new Florida master plan",
+      "link": "https://www.housingwire.com/articles/third-spaces-perform-a-star-turn-in-this-new-florida-master-plan/",
+      "published": "Tue, 10 Nov 2026 21:36:58 +0000",
+      "summary": "<p>The 215-acre Wyld Oaks will include up to 6,000 residential units, along with retail, hotels, parks, medical and industrial uses</p>",
       "is_signal": false
     },
     {
@@ -833,11 +833,11 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "What View Homes\u2019 rebrand says about Gandhi\u2019s operating overhaul",
-      "link": "https://www.housingwire.com/articles/view-homes-unified-brand-overhaul/",
-      "published": "Mon, 09 Nov 2026 20:44:41 +0000",
-      "summary": "<p>After seven months as CEO, Gandhi is aligning standards across 5 divisions and eyeing Denver-area growth</p>",
-      "is_signal": true
+      "title": "RealPlus brings HouseCanary Google Listings to NYC clients",
+      "link": "https://www.housingwire.com/articles/realplus-housecanary-google-listings/",
+      "published": "Tue, 10 Nov 2026 21:32:43 +0000",
+      "summary": "<p>Listings can display photos, price, and a click-to-contact link that routes inquiries to the listing agent</p>",
+      "is_signal": false
     },
     {
       "ticker": null,
@@ -937,6 +937,17 @@
       "published": "2026-10-23T12:00:00Z",
       "summary": "On September 9 the incumbent mayor of Providence, Rhode Island, Brett Smiley, lost his reelection bid to a twenty-seven-year-old democratic socialist named David Morales. It was the first time an incumbent mayor failed to win his party\u2019s primary in the city\u2019s\u2026",
       "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Thegatewaypundit.com",
+      "category": "broad",
+      "title": "Senate Advances President Trump-Backed American Affordability and Jobs Act in Overwhelming 73-25 Vote \u2014 Major Step Toward Unleashing American Energy Dominance and Cutting Red Tape",
+      "link": "https://www.thegatewaypundit.com/2026/11/senate-advances-president-trump-backed-american-affordability-jobs/",
+      "published": "2026-11-10T01:00:34Z",
+      "summary": "The U.S.\nThe post Senate Advances President Trump-Backed American Affordability and Jobs Act in Overwhelming 73-25 Vote \u2014 Major Step Toward Unleashing American Energy Dominance and Cutting Red Tape appeared first on The Gateway Pundit.",
+      "is_signal": true
     }
   ],
   "weekly_report": null,
