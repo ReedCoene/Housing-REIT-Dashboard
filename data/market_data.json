@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T01:19:41.683056+00:00",
+  "last_updated": "2026-11-11T01:25:11.942269+00:00",
   "market_date": "November 11, 2026",
   "stocks": {
     "ESS": {
@@ -936,6 +936,17 @@
       "link": "https://www.nybooks.com/online/2026/10/23/the-renters-take-providence-morales/",
       "published": "2026-10-23T12:00:00Z",
       "summary": "On September 9 the incumbent mayor of Providence, Rhode Island, Brett Smiley, lost his reelection bid to a twenty-seven-year-old democratic socialist named David Morales. It was the first time an incumbent mayor failed to win his party\u2019s primary in the city\u2019s\u2026",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Dailymail.com",
+      "category": "broad",
+      "title": "How Russia's pink slime is poisoning online news: That's the name given to the growing number of local sites which pump out a sinister mix of apparently harmless stories alongside hatchet jobs and propaganda for the Kremlin",
+      "link": "https://www.dailymail.com/news/article-16279839/Russia-pink-slime-poisoning-propaganda-Kremlin-harmless-hatchet.html",
+      "published": "2026-11-10T01:22:51Z",
+      "summary": "Supposed news sites like London Post show shady Russian interests have hijacked Britain's local news industry to advance their own political agenda and even destabilise our democracy.",
       "is_signal": false
     },
     {
