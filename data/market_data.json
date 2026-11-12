@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T02:19:53.494790+00:00",
+  "last_updated": "2026-11-12T02:25:51.234617+00:00",
   "market_date": "November 12, 2026",
   "stocks": {
     "ESS": {
@@ -941,12 +941,12 @@
     {
       "ticker": null,
       "company": null,
-      "source": "Lifesciencesworld.com",
+      "source": "Science Daily",
       "category": "broad",
-      "title": "Can chimpanzees fall in love?",
-      "link": "https://www.lifesciencesworld.com/can-chimpanzees-fall-in-love/",
-      "published": "2026-11-11T01:47:58Z",
-      "summary": "Can Chimpanzees Fall in Love? Exploring Affection and Attachment in Our Closest Relatives While definitively proving \u201clove\u201d in chimpanzees is challenging, evidence suggests they experience complex emotions, including strong attachments and preferential bonds \u2026",
+      "title": "Scientists discover why some mosquitoes love you and others don't",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
+      "published": "2026-11-11T02:21:13Z",
+      "summary": "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria. The discovery challenges the idea of a universal mosquito magnet and could lead to \u2026",
       "is_signal": false
     }
   ],
