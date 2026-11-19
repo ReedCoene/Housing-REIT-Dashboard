@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-11-18T03:04:47.754561+00:00",
-  "market_date": "November 18, 2026",
+  "last_updated": "2026-11-19T02:40:56.176683+00:00",
+  "market_date": "November 19, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
       "ticker": "ESS",
-      "price": 271.0,
-      "prev_close": 273.46,
-      "pct_change": -0.9,
-      "market_cap": 18699530240,
-      "dividend_yield": 3.79,
+      "price": 273.86,
+      "prev_close": 271.0,
+      "pct_change": 1.06,
+      "market_cap": 18896875520,
+      "dividend_yield": 3.82,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
@@ -17,11 +17,11 @@
     "MAA": {
       "name": "Mid-America Apartment",
       "ticker": "MAA",
-      "price": 116.25,
-      "prev_close": 117.82,
-      "pct_change": -1.33,
-      "market_cap": 13824823296,
-      "dividend_yield": 5.19,
+      "price": 115.46,
+      "prev_close": 116.25,
+      "pct_change": -0.68,
+      "market_cap": 13730873344,
+      "dividend_yield": 5.26,
       "fifty_two_week_high": 144.41,
       "fifty_two_week_low": 113.95,
       "next_earnings": "2026-10-28"
@@ -29,11 +29,11 @@
     "UDR": {
       "name": "UDR Inc",
       "ticker": "UDR",
-      "price": 36.07,
-      "prev_close": 36.37,
-      "pct_change": -0.82,
-      "market_cap": 13093004288,
-      "dividend_yield": 4.78,
+      "price": 36.08,
+      "prev_close": 36.07,
+      "pct_change": 0.03,
+      "market_cap": 13096635392,
+      "dividend_yield": 4.82,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 33.1,
       "next_earnings": "2026-11-02"
@@ -41,11 +41,11 @@
     "CPT": {
       "name": "Camden Property Trust",
       "ticker": "CPT",
-      "price": 98.01,
-      "prev_close": 99.16,
-      "pct_change": -1.16,
-      "market_cap": 9807830016,
-      "dividend_yield": 4.28,
+      "price": 97.7,
+      "prev_close": 98.01,
+      "pct_change": -0.32,
+      "market_cap": 9776807936,
+      "dividend_yield": 4.33,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 95.3,
       "next_earnings": "2027-02-04"
@@ -53,11 +53,11 @@
     "IRT": {
       "name": "Independence Realty Trust",
       "ticker": "IRT",
-      "price": 14.73,
-      "prev_close": 14.93,
-      "pct_change": -1.34,
-      "market_cap": 3561881344,
-      "dividend_yield": 4.82,
+      "price": 14.79,
+      "prev_close": 14.73,
+      "pct_change": 0.41,
+      "market_cap": 3576390144,
+      "dividend_yield": 4.89,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2026-11-02"
@@ -65,11 +65,11 @@
     "AMH": {
       "name": "American Homes 4 Rent",
       "ticker": "AMH",
-      "price": 32.18,
-      "prev_close": 32.52,
-      "pct_change": -1.05,
-      "market_cap": 13117628416,
-      "dividend_yield": 4.06,
+      "price": 32.11,
+      "prev_close": 32.18,
+      "pct_change": -0.22,
+      "market_cap": 13089094656,
+      "dividend_yield": 4.1,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2026-11-04"
@@ -77,11 +77,11 @@
     "INVH": {
       "name": "Invitation Homes",
       "ticker": "INVH",
-      "price": 26.72,
-      "prev_close": 27.1,
-      "pct_change": -1.4,
-      "market_cap": 15453541376,
-      "dividend_yield": 4.43,
+      "price": 26.44,
+      "prev_close": 26.72,
+      "pct_change": -1.05,
+      "market_cap": 15291603968,
+      "dividend_yield": 4.49,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2026-10-28"
@@ -89,11 +89,11 @@
     "SUI": {
       "name": "Sun Communities",
       "ticker": "SUI",
-      "price": 116.9,
-      "prev_close": 119.01,
-      "pct_change": -1.77,
-      "market_cap": 14507031552,
-      "dividend_yield": 3.76,
+      "price": 116.83,
+      "prev_close": 116.9,
+      "pct_change": -0.06,
+      "market_cap": 14498343936,
+      "dividend_yield": 3.83,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2026-10-26"
@@ -101,11 +101,11 @@
     "ELS": {
       "name": "Equity LifeStyle Properties",
       "ticker": "ELS",
-      "price": 60.99,
-      "prev_close": 62.35,
-      "pct_change": -2.18,
-      "market_cap": 12273135616,
-      "dividend_yield": 3.48,
+      "price": 61.68,
+      "prev_close": 60.99,
+      "pct_change": 1.13,
+      "market_cap": 12411984896,
+      "dividend_yield": 3.56,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
@@ -113,11 +113,11 @@
     "MRP": {
       "name": "MRP Group",
       "ticker": "MRP",
-      "price": 25.06,
-      "prev_close": 25.7,
-      "pct_change": -2.49,
-      "market_cap": 4161160704,
-      "dividend_yield": 12.3,
+      "price": 25.07,
+      "prev_close": 25.06,
+      "pct_change": 0.04,
+      "market_cap": 4162821376,
+      "dividend_yield": 12.61,
       "fifty_two_week_high": 32.595,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -125,90 +125,90 @@
     "NXRT": {
       "name": "NexPoint Residential Trust",
       "ticker": "NXRT",
-      "price": 14.73,
-      "prev_close": 15.16,
-      "pct_change": -2.84,
-      "market_cap": 760123968,
-      "dividend_yield": 13.98,
+      "price": 14.82,
+      "prev_close": 14.73,
+      "pct_change": 0.61,
+      "market_cap": 764768320,
+      "dividend_yield": 14.39,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 14.63,
+      "fifty_two_week_low": 14.25,
       "next_earnings": "2026-11-03"
     }
   },
   "top_gainers": [
     {
-      "name": "UDR Inc",
-      "ticker": "UDR",
-      "price": 36.07,
-      "prev_close": 36.37,
-      "pct_change": -0.82,
-      "market_cap": 13093004288,
-      "dividend_yield": 4.78,
-      "fifty_two_week_high": 42.0,
-      "fifty_two_week_low": 33.1,
-      "next_earnings": "2026-11-02"
-    },
-    {
-      "name": "Essex Property Trust",
-      "ticker": "ESS",
-      "price": 271.0,
-      "prev_close": 273.46,
-      "pct_change": -0.9,
-      "market_cap": 18699530240,
-      "dividend_yield": 3.79,
-      "fifty_two_week_high": 303.35,
-      "fifty_two_week_low": 238.46,
-      "next_earnings": "2026-10-27"
-    },
-    {
-      "name": "American Homes 4 Rent",
-      "ticker": "AMH",
-      "price": 32.18,
-      "prev_close": 32.52,
-      "pct_change": -1.05,
-      "market_cap": 13117628416,
-      "dividend_yield": 4.06,
-      "fifty_two_week_high": 35.07,
-      "fifty_two_week_low": 27.22,
-      "next_earnings": "2026-11-04"
-    }
-  ],
-  "top_losers": [
-    {
       "name": "Equity LifeStyle Properties",
       "ticker": "ELS",
-      "price": 60.99,
-      "prev_close": 62.35,
-      "pct_change": -2.18,
-      "market_cap": 12273135616,
-      "dividend_yield": 3.48,
+      "price": 61.68,
+      "prev_close": 60.99,
+      "pct_change": 1.13,
+      "market_cap": 12411984896,
+      "dividend_yield": 3.56,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
     },
     {
-      "name": "MRP Group",
-      "ticker": "MRP",
-      "price": 25.06,
-      "prev_close": 25.7,
-      "pct_change": -2.49,
-      "market_cap": 4161160704,
-      "dividend_yield": 12.3,
-      "fifty_two_week_high": 32.595,
-      "fifty_two_week_low": 21.07,
+      "name": "Essex Property Trust",
+      "ticker": "ESS",
+      "price": 273.86,
+      "prev_close": 271.0,
+      "pct_change": 1.06,
+      "market_cap": 18896875520,
+      "dividend_yield": 3.82,
+      "fifty_two_week_high": 303.35,
+      "fifty_two_week_low": 238.46,
       "next_earnings": "2026-10-27"
     },
     {
       "name": "NexPoint Residential Trust",
       "ticker": "NXRT",
-      "price": 14.73,
-      "prev_close": 15.16,
-      "pct_change": -2.84,
-      "market_cap": 760123968,
-      "dividend_yield": 13.98,
+      "price": 14.82,
+      "prev_close": 14.73,
+      "pct_change": 0.61,
+      "market_cap": 764768320,
+      "dividend_yield": 14.39,
       "fifty_two_week_high": 32.36,
-      "fifty_two_week_low": 14.63,
+      "fifty_two_week_low": 14.25,
       "next_earnings": "2026-11-03"
+    }
+  ],
+  "top_losers": [
+    {
+      "name": "Camden Property Trust",
+      "ticker": "CPT",
+      "price": 97.7,
+      "prev_close": 98.01,
+      "pct_change": -0.32,
+      "market_cap": 9776807936,
+      "dividend_yield": 4.33,
+      "fifty_two_week_high": 119.81,
+      "fifty_two_week_low": 95.3,
+      "next_earnings": "2027-02-04"
+    },
+    {
+      "name": "Mid-America Apartment",
+      "ticker": "MAA",
+      "price": 115.46,
+      "prev_close": 116.25,
+      "pct_change": -0.68,
+      "market_cap": 13730873344,
+      "dividend_yield": 5.26,
+      "fifty_two_week_high": 144.41,
+      "fifty_two_week_low": 113.95,
+      "next_earnings": "2026-10-28"
+    },
+    {
+      "name": "Invitation Homes",
+      "ticker": "INVH",
+      "price": 26.44,
+      "prev_close": 26.72,
+      "pct_change": -1.05,
+      "market_cap": 15291603968,
+      "dividend_yield": 4.49,
+      "fifty_two_week_high": 30.893,
+      "fifty_two_week_low": 24.25,
+      "next_earnings": "2026-10-28"
     }
   ],
   "news": [
@@ -221,6 +221,17 @@
       "link": "https://247wallst.com/investing/2026/10/09/apartment-supply-is-finally-tightening-these-4-reits-could-reward-investors/?.tsrc=rss",
       "published": "Fri, 09 Oct 2026 16:45:56 +0000",
       "summary": "The three-year supply glut that crushed apartment rents is finally fading, but not every landlord stands to benefit equally. Four REITs are positioned differently by geography, leverage, and dividend room as the tide turns.",
+      "is_signal": true
+    },
+    {
+      "ticker": "EQR",
+      "company": "Equity Residential",
+      "source": "EQR",
+      "category": "reit",
+      "title": "Forget Being a Landlord: These 3 REITs Pay You to Own Apartments",
+      "link": "https://247wallst.com/investing/2026/11/18/forget-being-a-landlord-these-3-reits-pay-you-to-own-apartments-2/?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 15:44:02 +0000",
+      "summary": "Apartment REITs are legally required to hand most of their income straight to shareholders, but not all of them are equally safe bets right now. Three landlords are collecting rent checks while new construction dries up, and the differences between them could cost you real money.",
       "is_signal": true
     },
     {
@@ -243,17 +254,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/vivmark-residential-participate-reitworld-real-133000297.html?.tsrc=rss",
       "published": "Mon, 16 Nov 2026 13:30:00 +0000",
       "summary": "ARLINGTON, Va. & CHICAGO, November 16, 2026--Vivmark Residential (NYSE: VMRK) today announced that members of the Company\u2019s senior management team, including Benjamin W. Schall, Vivmark\u2019s President and CEO, will participate in Nareit\u2019s REITworld 2026 Annual Conference this week. In connection with t\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "EQR",
-      "company": "Equity Residential",
-      "source": "EQR",
-      "category": "reit",
-      "title": "Three Megamergers Closed This Year, and $120,000 Across the Combined Companies Pays $5,050 a Year",
-      "link": "https://247wallst.com/investing/2026/11/12/three-megamergers-closed-this-year-and-120000-across-the-combined-companies-pays-5050-a-year/?.tsrc=rss",
-      "published": "Thu, 12 Nov 2026 16:24:08 +0000",
-      "summary": "Kimberly-Clark swallowed Kenvue, Public Storage absorbed National Storage Affiliates, and two apartment REITs fused into one. Now each board decides what shareholders get paid, and the integration costs, debt loads, and dilution warnings tell very different stories.",
       "is_signal": true
     },
     {
@@ -305,6 +305,17 @@
       "company": "Essex Property Trust",
       "source": "ESS",
       "category": "reit",
+      "title": "Zacks Industry Outlook Highlights Invitation Homes,  Essex Property and Equity LifeStyle",
+      "link": "https://finance.yahoo.com/real-estate/articles/zacks-industry-outlook-highlights-invitation-101400263.html?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:14:00 +0000",
+      "summary": "Invitation Homes, Essex Property and Equity LifeStyle have been highlighted in this Industry Outlook article.",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
       "title": "Essex Property: 3 Key Takeaways for Long-Term Investors",
       "link": "https://www.fool.com/earnings/takeaways/2026/11/17/essex-property-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
       "published": "Tue, 17 Nov 2026 22:05:02 +0000",
@@ -331,17 +342,6 @@
       "link": "https://www.marketbeat.com/instant-alerts/transcript-what-essex-property-trust-ess-said-on-its-q3-earnings-call-2026-10-28/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
       "published": "Wed, 28 Oct 2026 22:04:21 +0000",
       "summary": "Essex Property Trust (NYSE:ESS) raised its full-year outlook for same-property revenue growth and core funds from operations after third-quarter results benefited from stronger-than-expected performance in Northern California. President and Chief Executive Officer Angela Kleiman said the company no",
-      "is_signal": true
-    },
-    {
-      "ticker": "ESS",
-      "company": "Essex Property Trust",
-      "source": "ESS",
-      "category": "reit",
-      "title": "Essex ups 2026 guidance amid vigorous Northern California performance",
-      "link": "https://www.multifamilydive.com/news/essex-q3-earnings-west-coast/872844/?.tsrc=rss",
-      "published": "Wed, 28 Oct 2026 20:30:00 +0000",
-      "summary": "\u201cWest Coast multifamily fundamentals offer a compelling case for continued growth above the U.S. average,\u201d CEO Angela Kleiman said on the REIT\u2019s third-quarter earnings call.",
       "is_signal": true
     },
     {
@@ -437,6 +437,17 @@
       "company": "Camden Property Trust",
       "source": "CPT",
       "category": "reit",
+      "title": "A $1,500,000 Portfolio in Kimco Realty, Camden Property Trust and STAG Industrial Pays $64,784 a Year in Dividends. Here\u2019s What Happens if One Cuts",
+      "link": "https://www.tikr.com/blog/a-1500000-portfolio-in-kimco-realty-camden-property-trust-and-stag-industrial-pays-65073-a-year-in-dividends-heres-what-happens-if-one-cuts?ref=yahoofinancedividend&tlnk=yf-261118-6p9w4rjq&.tsrc=rss",
+      "published": "Thu, 19 Nov 2026 00:05:16 +0000",
+      "summary": "Key TakeawaysA hypothetical $1. 5 million portfolio split evenly across Kimco Realty, Camden Property Trust and STAG Industrial pays about $64,800 a year in dividends at today\u2019s prices, or about $5,400 a month.",
+      "is_signal": true
+    },
+    {
+      "ticker": "CPT",
+      "company": "Camden Property Trust",
+      "source": "CPT",
+      "category": "reit",
       "title": "Are Wall Street Analysts Predicting Camden\u2019s Stock Will Climb or Sink?",
       "link": "https://www.barchart.com/story/news/8855450/are-wall-street-analysts-predicting-camdens-stock-will-climb-or-sink?.tsrc=rss",
       "published": "Mon, 16 Nov 2026 14:14:08 +0000",
@@ -463,17 +474,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/camden-propertys-q3-ffo-beats-132700972.html?.tsrc=rss",
       "published": "Fri, 06 Nov 2026 13:27:00 +0000",
       "summary": "CPT tops Q3 FFO estimates as leasing trends improve and property expenses decline, but falling revenues and same-property NOI weigh on results.",
-      "is_signal": true
-    },
-    {
-      "ticker": "CPT",
-      "company": "Camden Property Trust",
-      "source": "CPT",
-      "category": "reit",
-      "title": "Compared to Estimates, Camden (CPT) Q3 Earnings: A Look at Key Metrics",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-camden-cpt-q3-220003969.html?.tsrc=rss",
-      "published": "Thu, 05 Nov 2026 22:00:03 +0000",
-      "summary": "The headline numbers for Camden (CPT) give insight into how the company performed in the quarter ended September 2026, but it may be worthwhile to compare some of its key metrics to Wall Street estimates and the year-ago actuals.",
       "is_signal": true
     },
     {
@@ -569,6 +569,28 @@
       "company": "Invitation Homes",
       "source": "INVH",
       "category": "reit",
+      "title": "A 70-Year-Old With $1,000,000 in Nike, Invitation Homes and Eversource Collects $3,739 a Month in Dividends. How Safe Is Each Check?",
+      "link": "https://www.tikr.com/blog/a-70-year-old-with-1000000-in-nike-invitation-homes-and-eversource-collects-3741-a-month-in-dividends-how-safe-is-each-check?ref=yahoofinancedividend&tlnk=yf-261118-g8c8h26c&.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 22:35:31 +0000",
+      "summary": "Key TakeawaysA $1,000,000 portfolio split evenly across Nike, Invitation Homes and Eversource Energy pays about $44,900 a year in dividends at today\u2019s prices, a 4. 5% yield.",
+      "is_signal": true
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
+      "title": "Zacks Industry Outlook Highlights Invitation Homes,  Essex Property and Equity LifeStyle",
+      "link": "https://finance.yahoo.com/real-estate/articles/zacks-industry-outlook-highlights-invitation-101400263.html?.tsrc=rss",
+      "published": "Wed, 18 Nov 2026 10:14:00 +0000",
+      "summary": "Invitation Homes, Essex Property and Equity LifeStyle have been highlighted in this Industry Outlook article.",
+      "is_signal": true
+    },
+    {
+      "ticker": "INVH",
+      "company": "Invitation Homes",
+      "source": "INVH",
+      "category": "reit",
       "title": "Invitation Homes\u2019 Scott Eisen on Single-Family Rentals",
       "link": "https://www.credaily.com/briefs/invitation-homes-scott-eisen-on-single-family-rentals/?.tsrc=rss",
       "published": "Sun, 15 Nov 2026 17:00:00 +0000",
@@ -584,28 +606,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-announces-addition-m-213000514.html?.tsrc=rss",
       "published": "Wed, 11 Nov 2026 21:30:00 +0000",
       "summary": "DALLAS, November 11, 2026--Invitation Homes Inc. (NYSE: INVH) (\"Invitation Homes\" or the \"Company\"), the nation\u2019s premier single-family home leasing and management company, today announced that M. Colin Connolly, President, Chief Executive Officer, and Director of Cousins Properties Incorporated (\"C\u2026",
-      "is_signal": true
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "source": "INVH",
-      "category": "reit",
-      "title": "Invitation Homes Invests in Home Builders Institute to Train, Certify, and Place Veterans in Skilled Trades Careers",
-      "link": "https://finance.yahoo.com/real-estate/articles/invitation-homes-invests-home-builders-135000811.html?.tsrc=rss",
-      "published": "Mon, 09 Nov 2026 13:50:00 +0000",
-      "summary": "Home Builders Institute (HBI) and Invitation Homes Inc. [NYSE: INVH] today announced a new partnership to expand career opportunities for transitioning military service members, veterans, and their families as part of Invitation Homes' existing Invitation to SkillUp initiative.",
-      "is_signal": false
-    },
-    {
-      "ticker": "INVH",
-      "company": "Invitation Homes",
-      "source": "INVH",
-      "category": "reit",
-      "title": "Invitation Homes Stock: Analyst Estimates & Ratings",
-      "link": "https://www.barchart.com/story/news/8643656/invitation-homes-stock-analyst-estimates-ratings?.tsrc=rss",
-      "published": "Wed, 04 Nov 2026 12:29:44 +0000",
-      "summary": "Invitation Homes has underperformed the broader market over the past year, but analysts are moderately optimistic about the stock\u2019s prospects.",
       "is_signal": true
     },
     {
@@ -789,43 +789,10 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "Fitch affirms Finance of America\u2019s CCC rating as key risks, leverage persist",
-      "link": "https://www.housingwire.com/articles/fitch-affirms-finance-of-america-ccc-positive-outlook/",
-      "published": "Tue, 17 Nov 2026 22:01:45 +0000",
-      "summary": "<p>Fitch says assigning a higher rating to FOA would require a larger liquidity cushion and sustained profitability</p>",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Fitch warns of growing balance-sheet strain at top nonbank mortgage firms",
-      "link": "https://www.housingwire.com/articles/fitch-nonbank-mortgage-ratings-outlook/",
-      "published": "Tue, 17 Nov 2026 21:21:09 +0000",
-      "summary": "<p>Rising leverage and MSR concentration drive negative outlooks</p>",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Homebuilder confidence sinks to a 14-year low as buyers hibernate",
-      "link": "https://www.housingwire.com/articles/homebuilder-confidence-november-2026/",
-      "published": "Tue, 17 Nov 2026 20:52:28 +0000",
-      "summary": "<p>NAHB says 68% of builders used incentives in November, as builders face thinner margins and affordability constrained buyers</p>",
-      "is_signal": true
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "HousingWire",
-      "category": "broad",
-      "title": "Dark Matter, ServiceLink add automated closing to Empower",
-      "link": "https://www.housingwire.com/articles/dark-matter-servicelink-empower/",
-      "published": "Tue, 17 Nov 2026 19:53:50 +0000",
-      "summary": "<p>Tech integration comes as ServiceLink data shows 82% of borrowers expect a refi to close in less than a month\n</p>",
+      "title": "Fix-and-flip margins tighten in Q3 as prices dip and costs rise",
+      "link": "https://www.housingwire.com/articles/fix-and-flip-margins-q3/",
+      "published": "Wed, 18 Nov 2026 22:16:09 +0000",
+      "summary": "<p>Only 23% of investors expect good sales in the next six months, while 40% report lower prices than a year ago</p>",
       "is_signal": false
     },
     {
@@ -833,11 +800,44 @@
       "company": null,
       "source": "HousingWire",
       "category": "broad",
-      "title": "How reverse mortgage LOs can help borrowers to self-service",
-      "link": "https://www.housingwire.com/articles/reverse-mortgage-self-service-tools/",
-      "published": "Tue, 17 Nov 2026 18:50:43 +0000",
-      "summary": "<p>At NRMLA Annual, Celink said it plans to launch ReverseLink within weeks, while Onity is building infrastructure for digital draw requests</p>",
+      "title": "Why housing construction is sliding back toward COVID-era lows",
+      "link": "https://www.housingwire.com/articles/housing-permits-covid-lows/",
+      "published": "Wed, 18 Nov 2026 21:54:31 +0000",
+      "summary": "<p>October permits fell to a 1,295,000 annual rate, down 7.4% from September and 8.7% from 2025.</p>",
       "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Single-family permits telegraph a weakened 2027 building pipeline",
+      "link": "https://www.housingwire.com/articles/single-family-permits-construction-pipeline/",
+      "published": "Wed, 18 Nov 2026 21:28:56 +0000",
+      "summary": "<p>Single-family permits fell 8.7% to an annualized rate of 772,000 in October, the lowest level since January 2023</p>",
+      "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Newrez settles Washington state servicing case with $3 million payout",
+      "link": "https://www.housingwire.com/articles/newrez-washington-dfi-servicing-consent-order-3-million/",
+      "published": "Wed, 18 Nov 2026 21:23:01 +0000",
+      "summary": "<p>Newrez does not admit or deny any wrongdoing under the agreement</p>",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "HousingWire",
+      "category": "broad",
+      "title": "Why 2027 may turn into a land negotiation year for homebuilders",
+      "link": "https://www.housingwire.com/articles/2027-land-negotiations-builders/",
+      "published": "Wed, 18 Nov 2026 19:52:49 +0000",
+      "summary": "<p>Scott Cox expects re-trades, softer takedowns, and more price discovery as incentives shift for land bankers and sellers</p>",
+      "is_signal": false
     },
     {
       "ticker": null,
@@ -936,6 +936,17 @@
       "link": "https://slate.com/business/2026/10/home-ownership-regret-interest-rates-renting-vs-buying.html",
       "published": "2026-10-28T17:19:33Z",
       "summary": "We gave up what makes life meaningful in order to do it.",
+      "is_signal": false
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Kotaku",
+      "category": "broad",
+      "title": "Birdwatchers, Catholic Schools, And The Weather Channel: Everyone\u2019s Hyping Up GTA 6 Release Day",
+      "link": "https://kotaku.com/birdwatchers-catholic-schools-and-the-weather-channel-everyones-hyping-up-gta-6-release-day-2000757823",
+      "published": "2026-11-18T01:48:33Z",
+      "summary": "They're making sandwiches about video games now, I guess",
       "is_signal": false
     }
   ],
