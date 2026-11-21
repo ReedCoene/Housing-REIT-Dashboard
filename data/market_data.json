@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T02:35:44.146985+00:00",
+  "last_updated": "2026-11-21T02:43:29.938905+00:00",
   "market_date": "November 21, 2026",
   "stocks": {
     "ESS": {
@@ -948,6 +948,17 @@
       "published": "2026-11-02T11:15:56Z",
       "summary": "National Housing Bank invests up to \u00a370 million in Fiera Real Estate and Packaged Living\u2019s Single-Family Housing Fund to accelerate housing delivery and unlock institutional investment",
       "is_signal": true
+    },
+    {
+      "ticker": null,
+      "company": null,
+      "source": "Medical Daily",
+      "category": "broad",
+      "title": "Pennsylvania Measles Outbreak Has Cost Taxpayers About $16 Million, Johns Hopkins Model Estimates as State Tally Lags",
+      "link": "https://www.medicaldaily.com/pennsylvania-measles-outbreak-cost-johns-hopkins-estimate-481469",
+      "published": "2026-11-20T02:41:34Z",
+      "summary": "A Johns Hopkins model estimates Pennsylvania's measles outbreak has generated about $16 million in public health costs, but the state has not released an official total.",
+      "is_signal": false
     },
     {
       "ticker": null,
