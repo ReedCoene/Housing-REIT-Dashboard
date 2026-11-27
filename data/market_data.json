@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T03:43:32.862442+00:00",
-  "market_date": "November 26, 2026",
+  "last_updated": "2026-11-27T03:41:10.475704+00:00",
+  "market_date": "November 27, 2026",
   "stocks": {
     "ESS": {
       "name": "Essex Property Trust",
@@ -9,7 +9,7 @@
       "prev_close": 275.58,
       "pct_change": 1.32,
       "market_cap": 19266035712,
-      "dividend_yield": 3.76,
+      "dividend_yield": 3.71,
       "fifty_two_week_high": 303.35,
       "fifty_two_week_low": 238.46,
       "next_earnings": "2027-02-03"
@@ -21,7 +21,7 @@
       "prev_close": 115.84,
       "pct_change": 1.52,
       "market_cap": 13985369088,
-      "dividend_yield": 5.28,
+      "dividend_yield": 5.2,
       "fifty_two_week_high": 144.41,
       "fifty_two_week_low": 111.71,
       "next_earnings": "2027-02-03"
@@ -33,7 +33,7 @@
       "prev_close": 36.17,
       "pct_change": 1.38,
       "market_cap": 13310797824,
-      "dividend_yield": 4.81,
+      "dividend_yield": 4.75,
       "fifty_two_week_high": 42.0,
       "fifty_two_week_low": 33.1,
       "next_earnings": "2027-02-10"
@@ -45,7 +45,7 @@
       "prev_close": 97.84,
       "pct_change": 1.44,
       "market_cap": 9931915264,
-      "dividend_yield": 4.33,
+      "dividend_yield": 4.27,
       "fifty_two_week_high": 119.81,
       "fifty_two_week_low": 94.9,
       "next_earnings": "2027-02-04"
@@ -57,7 +57,7 @@
       "prev_close": 14.84,
       "pct_change": 0.88,
       "market_cap": 3619916288,
-      "dividend_yield": 4.85,
+      "dividend_yield": 4.81,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2027-02-10"
@@ -69,7 +69,7 @@
       "prev_close": 32.8,
       "pct_change": 1.8,
       "market_cap": 13610864640,
-      "dividend_yield": 4.02,
+      "dividend_yield": 3.95,
       "fifty_two_week_high": 35.07,
       "fifty_two_week_low": 27.22,
       "next_earnings": "2027-02-18"
@@ -81,7 +81,7 @@
       "prev_close": 27.24,
       "pct_change": 2.13,
       "market_cap": 16089728000,
-      "dividend_yield": 4.41,
+      "dividend_yield": 4.31,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2027-02-17"
@@ -93,7 +93,7 @@
       "prev_close": 117.62,
       "pct_change": 0.61,
       "market_cap": 14685730816,
-      "dividend_yield": 3.81,
+      "dividend_yield": 3.79,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2027-02-23"
@@ -105,7 +105,7 @@
       "prev_close": 62.39,
       "pct_change": 1.31,
       "market_cap": 12719869952,
-      "dividend_yield": 3.48,
+      "dividend_yield": 3.43,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
@@ -117,7 +117,7 @@
       "prev_close": 25.58,
       "pct_change": 1.95,
       "market_cap": 4330529792,
-      "dividend_yield": 12.35,
+      "dividend_yield": 12.12,
       "fifty_two_week_high": 32.595,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -129,8 +129,8 @@
       "prev_close": 14.99,
       "pct_change": 3.6,
       "market_cap": 801406976,
-      "dividend_yield": 14.14,
-      "fifty_two_week_high": 32.36,
+      "dividend_yield": 13.65,
+      "fifty_two_week_high": 31.985,
       "fifty_two_week_low": 14.14,
       "next_earnings": "2027-02-23"
     }
@@ -143,8 +143,8 @@
       "prev_close": 14.99,
       "pct_change": 3.6,
       "market_cap": 801406976,
-      "dividend_yield": 14.14,
-      "fifty_two_week_high": 32.36,
+      "dividend_yield": 13.65,
+      "fifty_two_week_high": 31.985,
       "fifty_two_week_low": 14.14,
       "next_earnings": "2027-02-23"
     },
@@ -155,7 +155,7 @@
       "prev_close": 27.24,
       "pct_change": 2.13,
       "market_cap": 16089728000,
-      "dividend_yield": 4.41,
+      "dividend_yield": 4.31,
       "fifty_two_week_high": 30.893,
       "fifty_two_week_low": 24.25,
       "next_earnings": "2027-02-17"
@@ -167,7 +167,7 @@
       "prev_close": 25.58,
       "pct_change": 1.95,
       "market_cap": 4330529792,
-      "dividend_yield": 12.35,
+      "dividend_yield": 12.12,
       "fifty_two_week_high": 32.595,
       "fifty_two_week_low": 21.07,
       "next_earnings": "2026-10-27"
@@ -181,7 +181,7 @@
       "prev_close": 62.39,
       "pct_change": 1.31,
       "market_cap": 12719869952,
-      "dividend_yield": 3.48,
+      "dividend_yield": 3.43,
       "fifty_two_week_high": 69.0,
       "fifty_two_week_low": 57.46,
       "next_earnings": "2027-01-27"
@@ -193,7 +193,7 @@
       "prev_close": 14.84,
       "pct_change": 0.88,
       "market_cap": 3619916288,
-      "dividend_yield": 4.85,
+      "dividend_yield": 4.81,
       "fifty_two_week_high": 17.79,
       "fifty_two_week_low": 14.33,
       "next_earnings": "2027-02-10"
@@ -205,7 +205,7 @@
       "prev_close": 117.62,
       "pct_change": 0.61,
       "market_cap": 14685730816,
-      "dividend_yield": 3.81,
+      "dividend_yield": 3.79,
       "fifty_two_week_high": 137.85,
       "fifty_two_week_low": 109.77,
       "next_earnings": "2027-02-23"
@@ -217,10 +217,10 @@
       "company": "Equity Residential",
       "source": "EQR",
       "category": "reit",
-      "title": "Apartment Supply Is Finally Tightening. These 4 REITs Could Reward Investors",
-      "link": "https://247wallst.com/investing/2026/10/09/apartment-supply-is-finally-tightening-these-4-reits-could-reward-investors/?.tsrc=rss",
-      "published": "Fri, 09 Oct 2026 16:45:56 +0000",
-      "summary": "The three-year supply glut that crushed apartment rents is finally fading, but not every landlord stands to benefit equally. Four REITs are positioned differently by geography, leverage, and dividend room as the tide turns.",
+      "title": "Vivmark Residential Stock: Is Wall Street Bullish or Bearish?",
+      "link": "https://www.barchart.com/story/news/9016705/vivmark-residential-stock-is-wall-street-bullish-or-bearish?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 10:55:55 +0000",
+      "summary": "Vivmark Residential has outperformed the broader market over the past year, while Wall Street analysts remain cautiously optimistic about the stock\u2019s outlook.",
       "is_signal": true
     },
     {
@@ -305,6 +305,28 @@
       "company": "Essex Property Trust",
       "source": "ESS",
       "category": "reit",
+      "title": "Essex Property Trust (ESS) Stock Looks Like A Discount To Fair Value",
+      "link": "https://finance.yahoo.com/real-estate/articles/essex-property-trust-ess-stock-161334446.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 16:13:34 +0000",
+      "summary": "Essex Property Trust has quietly built a solid track record for holders in recent years, which naturally raises a simple question for anyone looking at the ticker today. Is the current share price of about US$279 supported by the cash flows that the real estate investment trust is expected to genera\u2026",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
+      "title": "Essex Property Trust (ESS) Up 6.8% Since Last Earnings Report: Can It Continue?",
+      "link": "https://finance.yahoo.com/real-estate/articles/essex-property-trust-ess-6-153010293.html?.tsrc=rss",
+      "published": "Thu, 26 Nov 2026 15:30:10 +0000",
+      "summary": "Essex Property Trust (ESS) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "is_signal": true
+    },
+    {
+      "ticker": "ESS",
+      "company": "Essex Property Trust",
+      "source": "ESS",
+      "category": "reit",
       "title": "American Tower or Essex Property Trust: The One Dividend Stock I\u2019d Hold for the Next 10 Years",
       "link": "https://www.tikr.com/blog/american-tower-or-essex-property-trust-the-one-dividend-stock-id-hold-for-the-next-10-years?ref=yahoofinancedividend&tlnk=yf-261125-ffg8r965&.tsrc=rss",
       "published": "Mon, 23 Nov 2026 22:26:10 +0000",
@@ -320,28 +342,6 @@
       "link": "https://finance.yahoo.com/real-estate/articles/zacks-industry-outlook-highlights-invitation-101400263.html?.tsrc=rss",
       "published": "Wed, 18 Nov 2026 10:14:00 +0000",
       "summary": "Invitation Homes, Essex Property and Equity LifeStyle have been highlighted in this Industry Outlook article.",
-      "is_signal": true
-    },
-    {
-      "ticker": "ESS",
-      "company": "Essex Property Trust",
-      "source": "ESS",
-      "category": "reit",
-      "title": "Essex Property: 3 Key Takeaways for Long-Term Investors",
-      "link": "https://www.fool.com/earnings/takeaways/2026/11/17/essex-property-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
-      "published": "Tue, 17 Nov 2026 22:05:02 +0000",
-      "summary": "A fortress balance sheet and constrained housing supply could provide Essex Property with insulation from rate volatility.",
-      "is_signal": true
-    },
-    {
-      "ticker": "ESS",
-      "company": "Essex Property Trust",
-      "source": "ESS",
-      "category": "reit",
-      "title": "4 Apartment REITs Ranked by Dividend Coverage as Rental Markets Tighten",
-      "link": "https://247wallst.com/investing/2026/10/30/4-apartment-reits-ranked-by-dividend-coverage-as-rental-markets-tighten/?.tsrc=rss",
-      "published": "Fri, 30 Oct 2026 11:17:17 +0000",
-      "summary": "Fewer new apartments are hitting the market just as tenants stop moving out, but not every landlord enters 2027 with the same cushion between its rental cash flow and its dividend obligation.",
       "is_signal": true
     },
     {
@@ -624,6 +624,17 @@
       "company": "Sun Communities",
       "source": "SUI",
       "category": "reit",
+      "title": "Gaming and Leisure Properties vs. Sun Communities: Which Dividend Stock Pays You More in 10 Years?",
+      "link": "https://www.tikr.com/blog/gaming-and-leisure-properties-vs-sun-communities-which-dividend-stock-pays-you-more-in-10-years?ref=yahoofinancedividend&tlnk=yf-261126-9phq84v9&.tsrc=rss",
+      "published": "Mon, 23 Nov 2026 22:26:55 +0000",
+      "summary": "Key TakeawaysGaming and Leisure Properties yields 8. 8% and Sun Communities 4.",
+      "is_signal": true
+    },
+    {
+      "ticker": "SUI",
+      "company": "Sun Communities",
+      "source": "SUI",
+      "category": "reit",
       "title": "Housing Costs Keep Buyers Renting, and $90,000 Across These 3 Housing REITs Pays $3,522 a Year",
       "link": "https://247wallst.com/investing/2026/11/15/housing-costs-keep-buyers-renting-and-90000-across-these-3-housing-reits-pays-3522-a-year/?.tsrc=rss",
       "published": "Sun, 15 Nov 2026 17:01:01 +0000",
@@ -639,17 +650,6 @@
       "link": "https://www.fool.com/earnings/takeaways/2026/11/05/sun-communities-3-key-takeaways-for-long-term-investors/?.tsrc=rss",
       "published": "Thu, 05 Nov 2026 16:20:02 +0000",
       "summary": "Streamlining to a pure-play North American focus gives management the financial flexibility to prioritize shareholder returns over acquisitions.",
-      "is_signal": true
-    },
-    {
-      "ticker": "SUI",
-      "company": "Sun Communities",
-      "source": "SUI",
-      "category": "reit",
-      "title": "Sun Communities (SUI) Q3 2026 Earnings Call Transcript",
-      "link": "https://www.fool.com/earnings/call-transcripts/2026/10/27/sun-communities-sui-q3-2026-earnings-call-transcript/?.tsrc=rss",
-      "published": "Tue, 27 Oct 2026 19:16:46 +0000",
-      "summary": "UK sale complete; MH rents rising 5.4% in 2027 as company refocuses on North America.",
       "is_signal": true
     },
     {
@@ -980,28 +980,6 @@
       "link": "https://www.redfin.com/blog/relocation-specialist/",
       "published": "2026-11-12T20:41:53Z",
       "summary": "Whether you\u2019re moving for a job, family, or a fresh start, a relocation specialist can handle the logistics, from temporary housing to local know-how. Here\u2019s what to know before you hire one. \nThe post What is a Relocation Specialist? appeared first on Redfin\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Human Rights Watch",
-      "category": "broad",
-      "title": "Hong Kong: Fire Anniversary Underscores Growing Repression",
-      "link": "https://www.hrw.org/news/2026/11/25/hong-kong-fire-anniversary-underscores-growing-repression",
-      "published": "2026-11-25T03:06:27Z",
-      "summary": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Flowers offered for the victims near the site of the deadly fire at Wang Fuk Court, a residential complex in the Tai Po district of Hong Kong, December 1, 2025.\n \u00a92025 AP Photo/Chan Long Hei\n \n \n\n\n \n(London) \u2013 The\u00a0Ho\u2026",
-      "is_signal": false
-    },
-    {
-      "ticker": null,
-      "company": null,
-      "source": "Blogdoandroid.com",
-      "category": "broad",
-      "title": "Kansas City Current parade: The Best Proven Celebration",
-      "link": "https://blogdoandroid.com/kansas-city-current-parade/",
-      "published": "2026-11-25T02:44:15Z",
-      "summary": "Kansas City Current parade celebrates victory with live updates and rally details at CPKC Stadium.",
       "is_signal": false
     }
   ],
